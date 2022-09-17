@@ -1,0 +1,87 @@
+![Cover image for BKSTS Illustrated Dictionary of Moving Image Technology, 4th Edition](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9780240516325.jpg)
+
+[BKSTS Illustrated Dictionary of Moving Image Technology, 4th Edition](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_1.html "BKSTS Illustrated Dictionary of Moving Image Technology, 4th Edition")
+====================================================================================================================
+
+Author : [Martin Uren](https://ebookreading.net/search/author/Martin+Uren)
+
+Release Date : 2013/10/01
+
+ISBN : 9780240516325
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+      The fourth edition of the BKSTS dictionary provides clear and concise explanations of the terminology and acronyms encountered in the broadcasting and moving image industries. Convergence of these industries means that those practising within them are increasingly faced with unfamiliar terminology. Martin Uren has reflected this change in his extended choice of industry terms, acronyms and colloquialisms. He provides:- Over 3300 definitions covering film, television, sound and multimedia technologies, together with technical terms from the computing, networks and telecommunications industries.- Nearly 700 acronyms in a quick look-up section.- 26 Appendices of useful technical information across a range of topics. Whether you are an experienced professional or a new industry entrant, you will find this dictionary an essential reference for every-day and specialist jargon.Martin Uren is a broadcast training consultant and member of the Education and Training Committee and the Television Committee of the BKSTS. He is also a member of the SMPTE and the RTS.BKSTS, The Moving Image Society, represents the interests of those who are creatively and technologically involved in the business of providing moving images in all areas of the media.
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_1.html)
+1. [Half Title](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_2.html#half)
+1. [Title Page](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_3.html)
+1. [Copyright Page](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_4.html)
+1. [Table of Contents](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_5.html)
+1. [Preface to the fourth edition](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_6.html#preface_to_the_four)
+1. [Preface to the third edition](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_7.html#preface_to_the_thir)
+1. [Preface to the second edition](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_8.html#preface_to_the_seco)
+1. [Preface to the first edition](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_9.html#preface_to_the_firs)
+1. [About BKSTS](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_10.html#about_bksts)
+1. [About the author](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_11.html#about_the_author)
+1. [Part 1 Definitions](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_12.html#pt1)
+    1. [A](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_13.html#A)
+    1. [B](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_14.html#B)
+    1. [C](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_15.html#C)
+    1. [D](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_16.html#D)
+    1. [E](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_17.html#E)
+    1. [F](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_18.html#F)
+    1. [G](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_19.html#G)
+    1. [H](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_20.html#H)
+    1. [I](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_21.html#I)
+    1. [J](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_22.html#J)
+    1. [K](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_23.html#K)
+    1. [L](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_24.html#L)
+    1. [M](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_25.html#M)
+    1. [N](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_26.html#N)
+    1. [O](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_27.html#O)
+    1. [P](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_28.html#P)
+    1. [Q](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_29.html#Q)
+    1. [R](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_30.html#R)
+    1. [S](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_31.html#S)
+    1. [T](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_32.html#T)
+    1. [U](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_33.html#U)
+    1. [V](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_34.html#V)
+    1. [W](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_35.html#W)
+    1. [X](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_36.html#X)
+    1. [Y](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_37.html#Y)
+    1. [Z](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_38.html#Z)
+    1. [Numeric](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_39.html#Numeric)
+1. [Part 2 Abbreviations and acronyms](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_40.html#pt2)
+1. [Part 3 Appendices](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_41.html#pt3)
+    1. [Appendix A: Image areas for motion picture films](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_42.html#appA)
+    1. [Appendix B: Image areas used in television](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_43.html#appB)
+    1. [Appendix C: Image areas for slides](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_44.html#appC)
+    1. [Appendix D: Picture aspect ratios](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_45.html#appD)
+    1. [Appendix E: Projected image size calculation](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_46.html#appE)
+    1. [Appendix F: Recommended seating plan](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_47.html#appF)
+    1. [Appendix G: Sound track position and displacement on film](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_48.html#appG)
+    1. [Appendix H: Film running times and footage](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_49.html#appH)
+    1. [Appendix I: World television standards](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_50.html#appI)
+    1. [Appendix J: Analogue and digital videotape formats](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_51.html#appJ)
+    1. [Appendix K: Analogue television line-rate waveforms](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_52.html#appK)
+    1. [Appendix L: Analogue television field blanking periods](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_53.html#appL)
+    1. [Appendix M: SI units and prefixes for numerical factors](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_54.html#appM)
+    1. [Appendix N: The electromagnetic spectrum](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_55.html#appN)
+    1. [Appendix O: MPEG-2 and DVB data tables](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_56.html#appO)
+    1. [Appendix P: ITU, ISO and Internet country codes](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_57.html#appP)
+    1. [Appendix Q: World television broadcasters](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_58.html#appQ)
+    1. [Appendix R: Analogue television broadcast systems](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_59.html#appR)
+    1. [Appendix S: Digital television broadcast systems](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_60.html#appS)
+    1. [Appendix T: Standards bodies](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_61.html#appT)
+    1. [Appendix U: SMPTE standards](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_62.html#appU)
+    1. [Appendix V: ITU standards](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_63.html#appV)
+    1. [Appendix W: Useful Internet websites](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_64.html#appW)
+    1. [Appendix X: ISO/IEC MPEG standards](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_65.html#appX)
+    1. [Appendix Y: DVD formats](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_66.html#appY)
+    1. [Appendix Z: Colour bar test signals and displays](https://ebookreading.net/view/book/BKSTS+Illustrated+Dictionary+of+Moving+Image+Technology%2C+4th+Edition-EB9780240516325_67.html#appZ)

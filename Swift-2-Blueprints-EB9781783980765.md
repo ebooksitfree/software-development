@@ -1,0 +1,142 @@
+![Cover image for Swift 2 Blueprints](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781783980765.jpg)
+
+[Swift 2 Blueprints](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_1.html "Swift 2 Blueprints")
+====================================================================================================================
+
+Author : [Cecil Costa](https://ebookreading.net/search/author/Cecil+Costa)
+
+Release Date : 2015/10/01
+
+ISBN : 9781783980765
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+ Sharpen your skills in Swift by designing and deploying seven fully functional applications
+About This Book
+Develop a variety of iOS-compatible applications that range from health and fitness to utilities using this project-based handbookDiscover ways to make the best use of the latest features in Swift to build on a wide array of applicationsFollow step-by-step instructions to create Swift apps oriented for the real worldWho This Book Is For
+If you are a competent iOS developer who wants to develop stunning applications with Swift, then this book is for you. Familiarity with Swift programming is assumed.
+What You Will Learn
+Get to grips with the basics of Xcode and Swift for application developmentCreate a Photo Sharing application to capture an image, edit it using different features and share it via social media.Develop applications using the WatchKit and exchange data between iPhone and the WatchUse advanced features such as SpriteKit to build a gameInstall third-party Swift frameworks to improvise on your application developmentDiscover how to simulate home automation with HomeKitBuild an application to monitor the user's weight, heart rate and the number of steps for Health Historic AnalysisManipulate media using AVFoundation framework to merge audio and video.In Detail
+In this book, you will work through seven different projects to get you hands-on with developing amazing applications for iOS devices.
+We start off with a project that teaches you how to build a utility app using Swift. Moving on, we cover the concepts behind developing an entertainment or social networking related application, for example, a small application that helps you to share images, audio, and video files from one device to another. You'll also be guided through create a city information app with customized table views, a reminder app for the Apple Watch, and a game app using SpriteKit.
+By the end of this book, you will have the required skillset to develop various types of iOS applications with Swift that can run on different iOS devices. You will also be well versed with complex techniques that can be used to enhance the performance of your applications.
+Style and approach
+This book takes a step-by-step approach to help you build apps from scratch and learn the methodology to develop real-time applications using Swift.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Swift 2 Blueprints](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_2.html)
+    1. [Swift 2 Blueprints](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_4.html)
+    1. [Credits](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_5.html)
+    1. [About the Author](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_6.html)
+    1. [About the Reviewers](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_7.html)
+    1. [www.PacktPub.com](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_8.html)
+        1. [Support files, eBooks, discount offers, and more](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_8.html#ch00lvl1sec01)
+            1. [Why subscribe?](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_8.html#ch00lvl2sec01)
+            1. [Free access for Packt account holders](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_8.html#ch00lvl2sec02)
+    1. [Preface](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_9.html)
+        1. [What this book covers](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_9.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_10.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_11.html)
+        1. [Conventions](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_12.html)
+        1. [Reader feedback](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_13.html)
+        1. [Customer support](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_14.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_14.html#ch00lvl2sec03)
+            1. [Downloading the color images of this book](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_14.html#ch00lvl2sec04)
+            1. [Errata](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_14.html#ch00lvl2sec05)
+            1. [Piracy](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_14.html#ch00lvl2sec06)
+            1. [Questions](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_14.html#ch00lvl2sec07)
+    1. [1. Exploring Xcode](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_15.html)
+        1. [Keyboard shortcuts](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_15.html#ch01lvl1sec08)
+        1. [Versioning your project](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_16.html)
+        1. [Testing with Playground](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_17.html)
+        1. [Debugging](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_18.html)
+        1. [New Swift features](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_19.html)
+        1. [Some final comments](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_20.html)
+        1. [Summary](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_21.html)
+    1. [2. Creating a City Information App with Customized Table Views](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_22.html)
+        1. [Project overview](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_22.html#ch02lvl1sec15)
+        1. [Setting it up](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_23.html)
+        1. [The first scene](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_24.html)
+        1. [Displaying the cities&#39; information](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_25.html)
+        1. [Coding the initial view controller](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_26.html)
+        1. [Adding the page view controller](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_27.html)
+        1. [Displaying the Wikipedia information](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_28.html)
+        1. [Displaying weather forecasts](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_29.html)
+        1. [Retrieving some pictures](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_30.html)
+        1. [Summary](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_31.html)
+    1. [3. Creating a Photo Sharing App](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_32.html)
+        1. [Project overview](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_32.html#ch03lvl1sec25)
+        1. [The camera](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_33.html)
+        1. [Custom UIView](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_34.html)
+        1. [The social framework](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_35.html)
+        1. [Creating the app](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_36.html)
+        1. [Creating a view to draw on it](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_37.html)
+        1. [Developing the edition space](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_38.html)
+        1. [Publishing your picture](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_39.html)
+        1. [Summary](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_40.html)
+    1. [4. Simulating Home Automation with HomeKit](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_41.html)
+        1. [Project overview](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_41.html#ch04lvl1sec34)
+        1. [Preparing yourself for HomeKit](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_42.html)
+            1. [Downloading the HomeKit Accessory Simulator](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_42.html#ch04lvl2sec08)
+            1. [Creating accessories](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_42.html#ch04lvl2sec09)
+            1. [Creating the app](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_42.html#ch04lvl2sec10)
+            1. [The first scene](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_42.html#ch04lvl2sec11)
+            1. [Creating an accessory class](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_42.html#ch04lvl2sec12)
+        1. [Building view controllers with HomeKit](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_43.html)
+            1. [GarageDoorViewController](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_43.html#ch04lvl2sec13)
+            1. [Garage layout](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_43.html#ch04lvl2sec14)
+            1. [Building the living room](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_43.html#ch04lvl2sec15)
+            1. [The door lock view controller](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_43.html#ch04lvl2sec16)
+            1. [FanViewController](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_43.html#ch04lvl2sec17)
+            1. [AquariumViewController](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_43.html#ch04lvl2sec18)
+            1. [The final storyboard](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_43.html#ch04lvl2sec19)
+        1. [Summary](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_44.html)
+    1. [5. Health Analyzing App Using HealthKit](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_45.html)
+        1. [Project overview](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_45.html#ch05lvl1sec38)
+        1. [The setup](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_46.html)
+        1. [Creating helpers](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_47.html)
+        1. [Asking permission](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_48.html)
+        1. [Displaying and saving the user&#39;s health data](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_49.html)
+        1. [Checking your health record](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_50.html)
+        1. [Charts on the storyboard](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_51.html)
+        1. [Summary](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_52.html)
+    1. [6. Creating a Game App Using SpriteKit](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_53.html)
+        1. [Project overview](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_53.html#ch06lvl1sec46)
+        1. [The setup](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_54.html)
+            1. [Changing the current code](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_54.html#ch06lvl2sec20)
+            1. [Adding a character and some waves](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_54.html#ch06lvl2sec21)
+            1. [Creating some enemies](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_54.html#ch06lvl2sec22)
+            1. [Checking for collisions](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_54.html#ch06lvl2sec23)
+            1. [Losing lives](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_54.html#ch06lvl2sec24)
+            1. [Fixing the score counter](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_54.html#ch06lvl2sec25)
+            1. [Moving the dinosaur](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_54.html#ch06lvl2sec26)
+            1. [The final action](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_54.html#ch06lvl2sec27)
+        1. [Summary](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_55.html)
+    1. [7. Creating an Apple Watch App](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_56.html)
+        1. [Project overview](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_56.html#ch07lvl1sec49)
+        1. [Setting it up](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_57.html)
+        1. [The iOS app](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_58.html)
+        1. [The models](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_59.html)
+        1. [A scene to add supplies](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_60.html)
+        1. [Displaying the fridge&#39;s status](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_61.html)
+        1. [Going to the supermarket](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_62.html)
+        1. [The WatchApp](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_63.html)
+        1. [Communicating with the iOS app](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_64.html)
+        1. [Displaying the map on the watch](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_65.html)
+        1. [The glance](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_66.html)
+        1. [Summary](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_67.html)
+    1. [8. AVFoundation](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_68.html)
+        1. [Getting a project overview](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_68.html#ch08lvl1sec61)
+        1. [Setting up the app](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_69.html)
+        1. [Storing some asset information](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_70.html)
+        1. [Listing videos](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_71.html)
+        1. [Recording](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_72.html)
+        1. [Improving the usability](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_73.html)
+        1. [Summary](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_74.html)
+    1. [Index](https://ebookreading.net/view/book/Swift+2+Blueprints-EB9781783980765_75.html)

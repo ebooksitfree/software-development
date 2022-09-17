@@ -1,0 +1,112 @@
+![Cover image for RESS Essentials](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781849696944.jpg)
+
+[RESS Essentials](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_1.html "RESS Essentials")
+====================================================================================================================
+
+Author : [Joanna Krenz-Kurowska](https://ebookreading.net/search/author/Joanna+Krenz-Kurowska),[ Jerzy Kurowski](https://ebookreading.net/search/author/+Jerzy+Kurowski)
+
+Release Date : 2013/10/01
+
+ISBN : 9781849696944
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+If you’re involved in Responsive Web Design, then you’ll find this book on the fundamental features and techniques of RESS a very useful tool. It’s the ideal introduction to a revolutionary new methodology.
+Easy-to-follow tutorials on implementing RESS application patternsInformation flow diagrams which will help you understand various RESS architectures with easePerform browser feature detection and store this information on server sideIn Detail
+RESS is a new methodology in the world of web design and development. It attempts to solve the problems that accompany the RWD (responsive web design) approach to web design. RESS is still in its infancy, but it is growing at an exponential rate.
+RESS Essentials shows you how to make server-side applications smarter and more aware of a visitor's environment limitations (device, screen size, and browser). This allows you to create faster and more reliable websites. Through this book, you will build a solid base of knowledge on RESS-related technologies, while the step-by-step tutorials will help you to create your own RESS system.
+This book is an introduction to RESS alchemy and gives you an incentive to build your own RESS lab. It will give you a broad overview of the multiple techniques used to code responsive websites in responsible ways. Beginning with an overview of RWD, you will learn the steps involved in setting up RWD for client-side development. You will then learn how to scale images using client- and server-side technology. By the end of this book, you will have learned about the implementation of RESS application patterns, browser feature detection, and various RESS architectures. RESS Essentials will also teach you how to use jQuery with some RWD design patterns and how to employ REST API for RWD pages.
+              
+Table of Contents
+-----------------
+
+1. [RESS Essentials](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_2.html)
+    1. [RESS Essentials](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_4.html)
+    1. [Credits](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_5.html)
+    1. [About the Authors](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_6.html)
+    1. [About the Reviewers](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_7.html)
+    1. [www.PacktPub.com](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_8.html)
+        1. [Support files, eBooks, discount offers and more](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_8.html#ch00lvl3sec01)
+        1. [Why Subscribe?](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_9.html)
+        1. [Free Access for Packt account holders](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_10.html)
+    1. [Preface](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_11.html)
+        1. [What this book covers](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_11.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_12.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_13.html)
+        1. [Conventions](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_14.html)
+        1. [Reader feedback](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_15.html)
+        1. [Customer support](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_16.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_16.html#ch00lvl2sec02)
+            1. [Errata](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_16.html#ch00lvl2sec03)
+            1. [Piracy](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_16.html#ch00lvl2sec04)
+            1. [Questions](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_16.html#ch00lvl2sec05)
+    1. [1. Why Does RWD Change the Internet?](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_17.html)
+        1. [The RESS idea](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_17.html#ch01lvl1sec08)
+        1. [Controversies](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_18.html)
+            1. [&quot;Separate mobile websites are a good thing&quot;](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_18.html#ch01lvl2sec06)
+            1. [&quot;RWD is too difficult&quot;](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_18.html#ch01lvl2sec07)
+            1. [&quot;RWD means degrading design&quot;](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_18.html#ch01lvl2sec08)
+        1. [RWD benefits](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_19.html)
+            1. [Freedom for designers](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_19.html#ch01lvl2sec09)
+            1. [Invest less, reach out to a larger audience](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_19.html#ch01lvl2sec10)
+        1. [Users](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_20.html)
+        1. [Developers](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_21.html)
+            1. [RWD evolution and experiments](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_21.html#ch01lvl2sec11)
+        1. [Summary](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_22.html)
+    1. [2. Sample RWD Setup for Client-Side Development](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_23.html)
+        1. [Bootstrap custom compilation setup](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_23.html#ch02lvl1sec14)
+            1. [Testing the Bootstrap grid system](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_23.html#ch02lvl2sec12)
+        1. [Integrating Gridpak](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_24.html)
+            1. [Implementing responsive design](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_24.html#ch02lvl2sec13)
+        1. [Summary](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_25.html)
+    1. [3. Server Side Setup – Device Detection Libraries](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_26.html)
+        1. [The AGPL licensed &quot;OnSite&quot; version of the WURFL library](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_26.html#ch03lvl1sec17)
+        1. [The WURFL Cloud version](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_27.html)
+        1. [YABFDL – Detector](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_28.html)
+        1. [Summary](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_29.html)
+    1. [4. Sample RESS Page](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_30.html)
+        1. [WURFL plus screen size detection](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_30.html#ch04lvl1sec21)
+        1. [Dave Olsen&#39;s Detector](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_31.html)
+        1. [Pure JavaScript screen size test](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_32.html)
+            1. [Utility functions](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_32.html#ch04lvl2sec14)
+        1. [Dave Olsen&#39;s Detector plus WURFL](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_33.html)
+        1. [Summary](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_34.html)
+    1. [5. Responsive Images Client- and Server-Side Approaches](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_35.html)
+        1. [Scaling responsive images is not linear](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_35.html#ch05lvl1sec26)
+        1. [Plain CSS and Media queries – a solution with limited browser support](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_36.html)
+        1. [The &lt;picture&gt; tag proposition](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_37.html)
+        1. [Picturefill that mimics the &lt;picture&gt; tag behavior with HTML5 and JS](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_38.html)
+        1. [Automated creation of responsive images](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_39.html)
+        1. [Server Side – using one of our example RESS systems](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_40.html)
+        1. [Summary](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_41.html)
+    1. [6. Performance](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_42.html)
+        1. [Optimizing website towards screen size or bandwidth?](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_42.html#ch06lvl1sec33)
+        1. [Optimizing images](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_43.html)
+            1. [Optimizing image dimensions](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_43.html#ch06lvl2sec15)
+            1. [Optimizing image compression](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_43.html#ch06lvl2sec16)
+            1. [Optimizing the file format](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_43.html#ch06lvl2sec17)
+            1. [Avoiding the use of images](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_43.html#ch06lvl2sec18)
+            1. [Reducing the number of images](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_43.html#ch06lvl2sec19)
+        1. [Media queries optimization](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_44.html)
+        1. [Testing](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_45.html)
+        1. [Summary](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_46.html)
+    1. [7. Extending with jQuery](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_47.html)
+        1. [Twitter Bootstrap components and plugins](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_47.html#ch07lvl1sec38)
+        1. [Responsive tables](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_48.html)
+        1. [Converting a table to an accordion element with jQuery](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_49.html)
+        1. [Masonry](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_50.html)
+        1. [Summary](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_51.html)
+    1. [8. Employing a REST API for RWD](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_52.html)
+        1. [REST API](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_52.html#ch08lvl1sec43)
+            1. [Slim PHP framework and integrating the RESS module](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_52.html#ch08lvl2sec20)
+            1. [Defining API with the Slim framework](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_52.html#ch08lvl2sec21)
+        1. [Gateway file and path setup](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_53.html)
+        1. [Implementing routes](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_54.html)
+        1. [Adding photos](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_55.html)
+        1. [What is it good for?](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_56.html)
+        1. [Summary](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_57.html)
+    1. [Index](https://ebookreading.net/view/book/RESS+Essentials-EB9781849696944_58.html)

@@ -1,0 +1,138 @@
+![Cover image for Pro ASP.NET MVC 5 Platform](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781430265412.jpg)
+
+[Pro ASP.NET MVC 5 Platform](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_1.html "Pro ASP.NET MVC 5 Platform")
+====================================================================================================================
+
+Author : [Adam Freeman](https://ebookreading.net/search/author/Adam+Freeman)
+
+Release Date : 2014/04/01
+
+ISBN : 9781430265412
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+The power of ASP.NET MVC 5 stems from the underlying ASP.NET platform. To make your ASP.NET MVC applications the best they can be, you need to fully understand the platform features and know how they can be used to build effective and elegant MVC framework applications.
+The ASP.NET platform provides ASP.NET MVC applications with a rich suite of services including vital every-day features like extensible request handling, state management, and user authentication. Understanding how these features work is the difference between creating an average web application and the best-in-class.
+MVC applications that are architected with a thorough knowledge of the underlying platforms are faster to write, faster to run, and more readily adaptable to change. In Pro ASP.NET MVC 5 Platform, best-selling author Adam Freeman explains how to get the most from the entire ASP.NET platform, beginning with a nuts-and-bolts description of the patterns and tools you need through to the most advanced features. He goes in-depth at every stage to give you the practical knowledge that you need to apply these concepts to your own code.
+What you'll learn
+Understand how ASP.NET MVC 5 is built on the ASP.NET platform.
+Create scalable MVC framework web applications that work in harmony with the underlying platform
+Understand the ASP.NET Lifecycle and how it affects the whole ASP.NET stack
+Extend and Customize the ASP.NET platform to suit your MVC5 web application
+Who this book is for
+The book is ideal for anyone wanting to use ASP.NET MVC 5 in a professional context. It works particularly well as a compliment to Adam Freeman's other ASP.NET MVC titles Pro ASP.NET MVC 5, Pro ASP.NET MVC 5 Client, and Expert ASP.NET Web API 2 for MVC Developers.
+              
+Table of Contents
+-----------------
+
+1. [Title Page](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_2.html)
+1. [Dedication](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_4.html)
+1. [Contents at a Glance](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_5.html)
+1. [Contents](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_6.html)
+1. [About the Author](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_7.html)
+1. [About the Technical Reviewer](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_8.html)
+1. [PART 1: Getting Ready](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_9.html)
+    1. [CHAPTER 1: Putting the ASP.NET Platform in Context](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_10.html)
+        1. [What Is the ASP.NET Platform?](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_10.html#Sec1)
+        1. [What Do You Need to Know?](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_10.html#Sec2)
+        1. [What’s the Structure of This Book?](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_10.html#Sec3)
+        1. [Are There Lots of Examples?](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_10.html#Sec7)
+        1. [Where Can You Get the Example Code?](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_10.html#Sec8)
+        1. [What Software Do You Need for This Book?](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_10.html#Sec9)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_10.html#Sec12)
+    1. [CHAPTER 2: Pattern and Tools Primer](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_11.html)
+        1. [Understanding the MVC Pattern](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_11.html#Sec1)
+        1. [Creating the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_11.html#Sec3)
+        1. [Adding Packages to the Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_11.html#Sec6)
+        1. [Using Bootstrap](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_11.html#Sec7)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_11.html#Sec8)
+1. [PART 2: The ASP.NET Platform Foundation](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_12.html)
+    1. [CHAPTER 3: The ASP.NET Life Cycles](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_13.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_13.html#Sec1)
+        1. [The ASP.NET Application Life Cycle](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_13.html#Sec2)
+        1. [The ASP.NET Request Life Cycle](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_13.html#Sec8)
+        1. [The ASP.NET Context Objects](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_13.html#Sec15)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_13.html#Sec21)
+    1. [CHAPTER 4: Modules](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_14.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_14.html#Sec1)
+        1. [ASP.NET Modules](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_14.html#Sec2)
+        1. [Creating Self-registering Modules](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_14.html#Sec9)
+        1. [Using Module Events](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_14.html#Sec14)
+        1. [Understanding the Built-in Modules](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_14.html#Sec18)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_14.html#Sec19)
+    1. [CHAPTER 5: Handlers](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_15.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_15.html#Sec1)
+        1. [ASP.NET Handlers](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_15.html#Sec3)
+        1. [Creating a Handler](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_15.html#Sec7)
+        1. [Creating Asynchronous Handlers](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_15.html#Sec11)
+        1. [Creating Modules That Provide Services to Handlers](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_15.html#Sec12)
+        1. [Custom Handler Factories](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_15.html#Sec17)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_15.html#Sec22)
+    1. [CHAPTER 6: Disrupting the Request Life Cycle](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_16.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_16.html#Sec1)
+        1. [Using URL Redirection](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_16.html#Sec6)
+        1. [Managing Handler Selection](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_16.html#Sec9)
+        1. [Terminating Requests](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_16.html#Sec12)
+        1. [Handling Error Notifications](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_16.html#Sec15)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_16.html#Sec16)
+    1. [CHAPTER 7: Detecting Device Capabilities](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_17.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_17.html#Sec1)
+        1. [Detecting Device Capabilities](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_17.html#Sec2)
+        1. [Improving Capability Data](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_17.html#Sec4)
+        1. [Adapting to Capabilities](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_17.html#Sec12)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_17.html#Sec19)
+    1. [CHAPTER 8: Tracing Requests](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_18.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_18.html#Sec1)
+        1. [Logging Requests](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_18.html#Sec2)
+        1. [Responding to the Logging Events](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_18.html#Sec3)
+        1. [Tracing Requests](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_18.html#Sec4)
+        1. [Using Glimpse](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_18.html#Sec8)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_18.html#Sec12)
+1. [PART 3: The ASP.NET Platform Services](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_19.html)
+    1. [CHAPTER 9: Configuration](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_20.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_20.html#Sec1)
+        1. [ASP.NET Configuration](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_20.html#Sec2)
+        1. [Working with Basic Configuration Data](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_20.html#Sec4)
+        1. [Grouping Settings Together](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_20.html#Sec9)
+        1. [Overriding Configuration Settings](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_20.html#Sec23)
+        1. [Navigating the ASP.NET Configuration Elements](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_20.html#Sec26)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_20.html#Sec27)
+    1. [CHAPTER 10: State Data](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_21.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_21.html#Sec1)
+        1. [Application State Data](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_21.html#Sec2)
+        1. [Sessions and Session State Data](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_21.html#Sec6)
+        1. [Configuring Sessions and Session State](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_21.html#Sec13)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_21.html#Sec18)
+    1. [CHAPTER 11: Caching Data](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_22.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_22.html#Sec1)
+        1. [Caching Data](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_22.html#Sec3)
+        1. [Using Advanced Caching](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_22.html#Sec6)
+        1. [Receiving Dependency Notifications](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_22.html#Sec15)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_22.html#Sec17)
+    1. [CHAPTER 12: Caching Content](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_23.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_23.html#Sec1)
+        1. [Using the Content Caching Attribute](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_23.html#Sec2)
+        1. [Controlling Caching with Code](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_23.html#Sec11)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_23.html#Sec14)
+    1. [CHAPTER 13: Getting Started with Identity](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_24.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_24.html#Sec1)
+        1. [Setting Up ASP.NET Identity](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_24.html#Sec2)
+        1. [Using ASP.NET Identity](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_24.html#Sec11)
+        1. [Completing the Administration Features](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_24.html#Sec18)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_24.html#Sec22)
+    1. [CHAPTER 14: Applying ASP.NET Identity](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_25.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_25.html#Sec1)
+        1. [Authenticating Users](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_25.html#Sec2)
+        1. [Authorizing Users with Roles](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_25.html#Sec7)
+        1. [Seeding the Database](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_25.html#Sec15)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_25.html#Sec16)
+    1. [CHAPTER 15: Advanced ASP.NET Identity](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_26.html)
+        1. [Preparing the Example Project](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_26.html#Sec1)
+        1. [Adding Custom User Properties](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_26.html#Sec2)
+        1. [Working with Claims](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_26.html#Sec11)
+        1. [Using Third-Party Authentication](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_26.html#Sec16)
+        1. [Summary](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_26.html#Sec19)
+1. [Index](https://ebookreading.net/view/book/Pro+ASP.NET+MVC+5+Platform-EB9781430265412_27.html)
