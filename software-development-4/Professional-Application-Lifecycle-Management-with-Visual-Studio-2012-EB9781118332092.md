@@ -1,0 +1,223 @@
+![Cover image for Professional Application Lifecycle Management with Visual Studio 2012](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781118332092.jpg)
+
+[Professional Application Lifecycle Management with Visual Studio 2012](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_1.html "Professional Application Lifecycle Management with Visual Studio 2012")
+====================================================================================================================
+
+Author : [Martin Woodward](https://ebookreading.net/search/author/Martin+Woodward),[ Brian Keller](https://ebookreading.net/search/author/+Brian+Keller),[ Mickey Gousset](https://ebookreading.net/search/author/+Mickey+Gousset)
+
+Release Date : 2012/09/01
+
+ISBN : 9781118332092
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+The authoritative and timely guide to ALM from Microsoft insiders and MVPs
+Focused on the latest release of Visual Studio, this edition shows you how to use the Application Lifecycle Management (ALM) capabilities of Visual Studio 2012 to streamline software design, development, and testing. Divided into six main parts, this timely and authoritative title covers Team Foundation Server, stakeholder engagement, project management, architecture, software development, and testing. Whether serving as a step-by-step guide or a reference for designing software solutions, this book offers a nuts-and-bolts approach to using Microsoft's flagship development tools to solve real-world challenges throughout the application lifecycle.
+Coverage includes:
+INTRODUCTION TO APPLICATION LIFECYCLE MANAGEMENT WITH VISUAL STUDIO
+INTRODUCTION TO TEAM FOUNDATION SERVER
+TEAM FOUNDATION VERSION CONTROL
+TEAM FOUNDATION BUILD
+COMMON TEAM FOUNDATION SERVER
+INTRODUCTION TO BUILDING
+STORYBOARDING
+CAPTURING STAKEHOLDER FEEDBACK
+AGILE PLANNING AND TRACKING
+INTRODUCTION TO SOFTWARE ARCHITECTURE
+TOP-DOWN DESIGN WITH USE CASE
+ANALYZING APPLICATIONS USING
+USING LAYER DIAGRAMS TO MODEL
+INTRODUCTION TO SOFTWARE DEVELOPMENT
+UNIT TESTING
+CODE ANALYSIS, CODE METRICS
+PROFILING AND PERFORMANCE
+DEBUGGING WITH INTELLITRACE
+INTRODUCTION TO SOFTWARE TESTING
+MANUAL TESTING
+CODED USER INTERFACE TESTING
+WEB PERFORMANCE AND LOAD TESTING
+LAB MANAGEMENT
+Professional Application Lifecycle Management with Visual Studio 2012 offers a thoroughly revised and updated edition of the leading reference book on ALM.
+              
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_1.html)
+1. [Chapter 1: Introduction to Application Lifecycle Management with Visual Studio 2012](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_3.html)
+    1. [Application Lifecycle Management](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_3.html#c01_level1_1)
+    1. [Visual Studio 2012 Product Lineup](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_3.html#c01_level1_2)
+    1. [Application Lifecycle Management Challenges](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_3.html#c01_level1_3)
+    1. [Enter Visual Studio 2012](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_3.html#c01_level1_4)
+    1. [Application Lifecycle Management in Action](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_3.html#c01_level1_5)
+    1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_3.html#c01_level1_6)
+1. [Part 1: Team Foundation Server](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_4.html)
+    1. [Chapter 2: Introduction to Team Foundation Server](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_5.html)
+        1. [What Is Team Foundation Server?](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_5.html#c02_level1_1)
+        1. [Acquiring Team Foundation Server](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_5.html#c02_level1_2)
+        1. [Team Foundation Server Core Concepts](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_5.html#c02_level1_3)
+        1. [Accessing Team Foundation Server](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_5.html#c02_level1_4)
+        1. [What&#39;s New in Team Foundation Server 2012](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_5.html#c02_level1_5)
+        1. [Adopting Team Foundation Server](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_5.html#c02_level1_6)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_5.html#c02_level1_7)
+    1. [Chapter 3: Team Foundation Version Control](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_6.html)
+        1. [Team Foundation Version Control and Visual SourceSafe (VSS) 2005](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_6.html#c03_level1_1)
+        1. [Setting Up Version Control](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_6.html#c03_level1_2)
+        1. [Using the Source Control Explorer](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_6.html#c03_level1_3)
+        1. [Check-In Pending Changes](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_6.html#c03_level1_4)
+        1. [Shelving](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_6.html#c03_level1_5)
+        1. [Command-Line Tools](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_6.html#c03_level1_6)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_6.html#c03_level1_7)
+    1. [Chapter 4: Branching and Merging](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_7.html)
+        1. [Branching Demystified](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_7.html#c04_level1_1)
+        1. [Common Branching Strategies](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_7.html#c04_level1_2)
+        1. [Implementing Branching Strategies](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_7.html#c04_level1_3)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_7.html#c04_level1_4)
+    1. [Chapter 5: Team Foundation Build](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_8.html)
+        1. [Team Foundation Build](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_8.html#c05_level1_1)
+        1. [What&#39;s New in Team Foundation Build 2012](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_8.html#c05_level1_2)
+        1. [Team Foundation Build Architecture](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_8.html#c05_level1_3)
+        1. [Working with Builds](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_8.html#c05_level1_4)
+        1. [Team Build Process](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_8.html#c05_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_8.html#c05_level1_6)
+    1. [Chapter 6: Common Team Foundation Server Customizations](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_9.html)
+        1. [Object Models](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_9.html#c06_level1_1)
+        1. [Customizing Team Foundation Build](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_9.html#c06_level1_2)
+        1. [Customizing Team Foundation Version Control](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_9.html#c06_level1_3)
+        1. [Team Foundation Server Event Service](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_9.html#c06_level1_4)
+        1. [Customizing Work Item Tracking](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_9.html#c06_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_9.html#c06_level1_6)
+1. [Part 2: Building the Right Software](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_10.html)
+    1. [Chapter 7: Introduction to Building the Right Software](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_11.html)
+        1. [Stakeholders](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_11.html#c07_level1_1)
+        1. [Storyboarding](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_11.html#c07_level1_2)
+        1. [Capturing Stakeholder Feedback](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_11.html#c07_level1_3)
+        1. [Work Item Only View](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_11.html#c07_level1_4)
+        1. [Third-Party Requirements Management Solutions](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_11.html#c07_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_11.html#c07_level1_6)
+    1. [Chapter 8: Storyboarding](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_12.html)
+        1. [Why Storyboarding?](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_12.html#c08_level1_1)
+        1. [PowerPoint Storyboarding](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_12.html#c08_level1_2)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_12.html#c08_level1_3)
+    1. [Chapter 9: Capturing Stakeholder Feedback](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_13.html)
+        1. [Requesting Feedback](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_13.html#c09_level1_1)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_13.html#c09_level1_2)
+1. [Part 3: Project Management](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_14.html)
+    1. [Chapter 10: Introduction to Project Management](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_15.html)
+        1. [Project Management Enhancements in Team Foundation Server 2012](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_15.html#c10_level1_1)
+        1. [Work Items](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_15.html#c10_level1_2)
+        1. [Process Templates](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_15.html#c10_level1_3)
+        1. [Managing Work Items](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_15.html#c10_level1_4)
+        1. [Project Server Integration](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_15.html#c10_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_15.html#c10_level1_6)
+    1. [Chapter 11: Agile Planning and Tracking](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_16.html)
+        1. [Defining a Team](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_16.html#c11_level1_1)
+        1. [Maintaining Product Backlogs](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_16.html#c11_level1_2)
+        1. [Planning Iterations](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_16.html#c11_level1_3)
+        1. [Tracking Work](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_16.html#c11_level1_4)
+        1. [Customization Options](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_16.html#c11_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_16.html#c11_level1_6)
+    1. [Chapter 12: Using Reports, Portals, and Dashboards](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_17.html)
+        1. [Team Foundation Server Reporting](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_17.html#c12_level1_1)
+        1. [Working with Team Foundation Server Reports](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_17.html#c12_level1_2)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_17.html#c12_level1_3)
+1. [Part 4: Architecture](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_18.html)
+    1. [Chapter 13: Introduction to Software Architecture](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_19.html)
+        1. [Designing Visually](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_19.html#c13_level1_1)
+        1. [Microsoft&#39;s Modeling Strategy](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_19.html#c13_level1_2)
+        1. [The Architecture Tools in Visual Studio Ultimate 2012](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_19.html#c13_level1_3)
+        1. [What&#39;s New with Architecture Tools in Visual Studio Ultimate 2012](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_19.html#c13_level1_4)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_19.html#c13_level1_5)
+    1. [Chapter 14: Top-Down Design with Use Case, Activity, Sequence, Component, and Class Diagrams](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_20.html)
+        1. [Wrox.com Code Download for this Chapter](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_20.html#c14_level1_1)
+        1. [Use Case Diagrams](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_20.html#c14_level1_2)
+        1. [Activity Diagrams](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_20.html#c14_level1_3)
+        1. [Sequence Diagrams](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_20.html#c14_level1_4)
+        1. [Component Diagrams](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_20.html#c14_level1_5)
+        1. [Class Diagrams](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_20.html#c14_level1_6)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_20.html#c14_level1_7)
+    1. [Chapter 15: Analyzing Applications Using Architecture Explorer and Dependency Graphs](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_21.html)
+        1. [Wrox.com Code Downloads for this Chapter](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_21.html#c15_level1_1)
+        1. [Understanding the Code Base](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_21.html#c15_level1_2)
+        1. [Architecture Explorer Basics](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_21.html#c15_level1_3)
+        1. [Dependency Graphs](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_21.html#c15_level1_4)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_21.html#c15_level1_5)
+    1. [Chapter 16: Using Layer Diagrams to Model and Enforce Application Architecture](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_22.html)
+        1. [Creating a Layer Diagram](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_22.html#c16_level1_1)
+        1. [Defining Layers on a Layer Diagram](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_22.html#c16_level1_2)
+        1. [Defining Dependencies](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_22.html#c16_level1_3)
+        1. [Validating the Layer Diagram](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_22.html#c16_level1_4)
+        1. [Layer Diagrams and the Build Process](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_22.html#c16_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_22.html#c16_level1_6)
+1. [Part 5: Architecture](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_23.html)
+    1. [Chapter 17: Introduction to Software Development](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_24.html)
+        1. [What&#39;s New for Developers in Visual Studio 2012](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_24.html#c17_level1_1)
+        1. [My Work](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_24.html#c17_level1_2)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_24.html#c17_level1_3)
+    1. [Chapter 18: Unit Testing](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_25.html)
+        1. [Wrox.com Code Downloads for this Chapter](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_25.html#c18_level1_1)
+        1. [Unit Testing Concepts](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_25.html#c18_level1_2)
+        1. [Visual Studio Unit Testing](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_25.html#c18_level1_3)
+        1. [Programming with the Unit Test Framework](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_25.html#c18_level1_4)
+        1. [Introduction to Microsoft Fakes](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_25.html#c18_level1_5)
+        1. [Test Adapters](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_25.html#c18_level1_6)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_25.html#c18_level1_7)
+    1. [Chapter 19: Code Analysis, Code Metrics, and Code Clone Analysis](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_26.html)
+        1. [Wrox.com Code Downloads for this Chapter](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_26.html#c19_level1_1)
+        1. [The Need for Analysis Tools](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_26.html#c19_level1_2)
+        1. [Using Code Analysis](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_26.html#c19_level1_3)
+        1. [Using the Command-Line Analysis Tool](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_26.html#c19_level1_4)
+        1. [Creating Code Analysis Rules](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_26.html#c19_level1_5)
+        1. [Code Metrics](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_26.html#c19_level1_6)
+        1. [Code Clone Analysis](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_26.html#c19_level1_7)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_26.html#c19_level1_8)
+    1. [Chapter 20: Profiling and Performance](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_27.html)
+        1. [Wrox.com Code Downloads for this Chapter](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_27.html#c20_level1_1)
+        1. [Introduction to Performance Analysis](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_27.html#c20_level1_2)
+        1. [Using the Profiler](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_27.html#c20_level1_3)
+        1. [Command-Line Profiling Utilities](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_27.html#c20_level1_4)
+        1. [Common Profiling Issues](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_27.html#c20_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_27.html#c20_level1_6)
+    1. [Chapter 21: Debugging with IntelliTrace](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_28.html)
+        1. [wrox.com Code Downloads for this Chapter](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_28.html#c21_level1_1)
+        1. [IntelliTrace Basics](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_28.html#c21_level1_2)
+        1. [IntelliTrace in Production](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_28.html#c21_level1_3)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_28.html#c21_level1_4)
+1. [Part 6: Testing](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_29.html)
+    1. [Chapter 22: Introduction to Software Testing](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_30.html)
+        1. [Role-Based Testing Tools](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_30.html#c22_level1_1)
+        1. [Types of Tests](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_30.html#c22_level1_2)
+        1. [Diagnostic Data Adapters](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_30.html#c22_level1_3)
+        1. [Microsoft Test Manager](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_30.html#c22_level1_4)
+        1. [Managing Automated Tests with Visual Studio](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_30.html#c22_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_30.html#c22_level1_6)
+    1. [Chapter 23: Manual Testing](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_31.html)
+        1. [Microsoft Test Manager](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_31.html#c23_level1_1)
+        1. [Using Test Plans](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_31.html#c23_level1_2)
+        1. [Running Tests and Tracking Results](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_31.html#c23_level1_3)
+        1. [Exploratory Testing](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_31.html#c23_level1_4)
+        1. [Running Automated Tests](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_31.html#c23_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_31.html#c23_level1_6)
+    1. [Chapter 24: Coded User Interface Testing](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_32.html)
+        1. [Wrox.com Code Downloads for this Chapter](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_32.html#c24_level1_1)
+        1. [Creating Coded UI Tests Using the Coded UI Test Builder](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_32.html#c24_level1_2)
+        1. [Creating Coded UI Tests Using Action Recordings](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_32.html#c24_level1_3)
+        1. [Supported Technologies](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_32.html#c24_level1_4)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_32.html#c24_level1_5)
+    1. [Chapter 25: Web Performance and Load Testing](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_33.html)
+        1. [Wrox.com Code Downloads for this Chapter](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_33.html#c25_level1_1)
+        1. [Web Performance Tests](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_33.html#c25_level1_2)
+        1. [Load Tests](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_33.html#c25_level1_3)
+        1. [Distributed Load Tests](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_33.html#c25_level1_4)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_33.html#c25_level1_5)
+    1. [Chapter 26: Lab Management](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_34.html)
+        1. [Lab Management Infrastructure](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_34.html#c26_level1_1)
+        1. [SCVMM Environments](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_34.html#c26_level1_2)
+        1. [Testing with Environments](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_34.html#c26_level1_3)
+        1. [Automated Build-Deploy-Test with Environments](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_34.html#c26_level1_4)
+        1. [Standard Environments](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_34.html#c26_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_34.html#c26_level1_6)
+1. [Introduction](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_41.html)
+1. [Advertisements](https://ebookreading.net/view/book/Professional+Application+Lifecycle+Management+with+Visual+Studio+2012-EB9781118332092_42.html)

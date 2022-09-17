@@ -1,0 +1,130 @@
+![Cover image for Practical SharePoint 2010 Branding and Customization](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781430240266.jpg)
+
+[Practical SharePoint 2010 Branding and Customization](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_1.html "Practical SharePoint 2010 Branding and Customization")
+====================================================================================================================
+
+Author : [Erik Swenson](https://ebookreading.net/search/author/Erik+Swenson)
+
+Release Date : 2011/12/01
+
+ISBN : 9781430240266
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+With Practical SharePoint 2010 Branding and Customization, SharePoint branding expert Erik Swenson cuts through the fluff and discusses accessible, easy-to-understand consulting and processes to create aesthetically pleasing, highly usable branded and customized SharePoint websites, both internally and externally. Designed to be a quick reference, how-to guide that lets you dive straight into the task at hand, you'll find this book's attention to detail and pragmatism make it an attractive companion during your branding experience.
+SharePoint 2010 deployments are more common than ever, as is the desire to make the environment branded and attractive to both internal and external clients. However, since SharePoint is more than just a collection of web pages, customizing the look and feel and completing the process of branding the platform itself is complex and requires a knowledge of web development, web design techniques, and a familiarity with SharePoint administration—a curious niche, to be sure. And sometimes, you just need to make quick fixes, while at other times, building an entirely customized and branded environment is a multi-step process with lots of stakeholder buy-in and development time required.
+Whether you're interested in applying just a touch of style to a team site, or you're branding a public-facing Fortune 500 website based on SharePoint, Practical SharePoint 2010 Branding and Customization is the only book you'll need to quickly, easily, and efficiently brand and customize your environment.
+Bonus:Includes the SharePoint 2010 Branding Starter Kit! This kit has everything you need to jumpstart successful and compelling designs. The kit includes a layered Adobe Photoshop file of a SharePoint 2010 site, two pre-built visual design examples, and a Visual Studio solution you can use to deploy either of the designs included. This starter kit is specifically prepared to save you substantial time kicking off your SharePoint branding project and to minimize potential roadblocks. These branding tools would cost you as much as $500 if purchased separately, but they're included with the purchase of this book at no additional charge! Get started today.
+What you'll learn
+Plan for branding projects, including creating wireframes and creative mockups as well as gathering requirements and estimation
+Use cascading style sheets (CSS), master pages, page layouts, web parts and XSLT to customize branding
+Deploy SharePoint branding to production servers using solution packages (WSP)
+Who this book is for
+This book is for anyone who works within SharePoint sites and wants to make changes to how those sites look, whether they're minor changes or wholesale branding and customization efforts.
+              
+Table of Contents
+-----------------
+
+1. [Title](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_1.html)
+1. [Dedication](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_2.html)
+1. [Contents at a Glance](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_3.html#contents_at_a_glanc)
+1. [Contents](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_4.html#contents_Contents)
+1. [About the Authors](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_5.html#about_the_authors)
+1. [About the Technical Reviewers](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_6.html#about_the_technical)
+1. [Acknowledgments](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_7.html#acknowledgments_Ack)
+1. [Introduction](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_8.html#introduction_Introd)
+    1. [Who This Book Is For](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_9.html#who_this_book_is_fo)
+    1. [How This Book Is Structured](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_10.html#how_this_book_is_st)
+    1. [Prerequisites](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_11.html#prereuisites)
+    1. [Downloading the code](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_12.html#downloading_the_cod)
+1. [Chapter 1: Intro to SharePoint 2010 Branding](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_13.html#ch1)
+    1. [Why Brand SharePoint?](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_14.html#why_brand_sharepoin)
+    1. [Key Topics and Guiding Principles](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_15.html#key_topics_and_guid)
+    1. [What to Expect and Things to Know](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_16.html#what_to_expect_and_)
+    1. [Basic HTML](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_17.html#basic_html)
+    1. [Cascading Style Sheets](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_18.html#cascading_style_she)
+    1. [SharePoint Master Pages](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_19.html#sharepoint_master_p)
+    1. [Summary](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_20.html#summary)
+1. [Chapter 2: Overview of UX/Branding Process](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_21.html#ch2)
+    1. [The 4 Ds ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_22.html#the_4_ds_)
+    1. [Roles and Responsibilities ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_23.html#roles_and_responsib)
+    1. [Summary](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_24.html#summary1)
+1. [Chapter 3: Gathering Branding Requirements](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_25.html#ch3)
+    1. [Key Questions to Ask ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_26.html#key_questions_to_as)
+    1. [The Value of Referencing Other Designs ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_27.html#the_value_of_refere)
+    1. [Things to Watch Out For ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_28.html#things_to_watch_out)
+    1. [Generating Creative and UX Discovery Briefs](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_29.html#generating_creative)
+    1. [Estimating Effort Level and Time Required ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_29.html#estimating_effort_l)
+    1. [Summary](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_30.html#summary2)
+1. [Chapter 4: Creating the Visual Design](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_31.html#ch4)
+    1. [Design Preparations ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_32.html#design_preparations)
+    1. [Creating the Design](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_33.html#creating_the_design)
+    1. [Design Grids](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_34.html#design_grids)
+    1. [Conducting Design Reviews](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_35.html#conducting_design_r)
+    1. [Summary](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_36.html#summary3)
+1. [Chapter 5: Development Environment Setup](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_37.html#ch5)
+    1. [Virtual Environment or Physical Server](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_38.html#virtual_environment)
+    1. [Choosing Your SharePoint Edition](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_39.html#choosing_your_share)
+    1. [Running SharePoint on Windows 7](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_40.html#running_sharepoint_)
+    1. [Virtualization](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_41.html#virtualization_)
+    1. [Server Configurations](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_42.html#server_configuratio)
+    1. [Minimum Requirements for Branding](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_43.html#minimum_requirement)
+    1. [Remote Desktop](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_44.html#remote_desktop_)
+    1. [Required Access Levels](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_45.html#required_access_lev)
+    1. [Features That Affect Branding](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_46.html#features_that_affec)
+    1. [List of Required Applications](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_47.html#list_of_required_ap)
+    1. [Source Control](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_48.html#source_control_)
+    1. [The 14 Hive](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_49.html#the_14_hive_)
+    1. [Summary](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_50.html#summary4)
+1. [Chapter 6: Building the Design](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_51.html#ch6)
+    1. [Build Approach](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_52.html#build_approach_)
+    1. [Connecting the Pieces](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_53.html#connecting_the_piec)
+    1. [Prepare a Basic Branding Solution in Visual Studio](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_54.html#prepare_a_basic_bra)
+    1. [Summary](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_55.html#summary5)
+1. [Chapter 7: Testing the Visual Build](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_56.html#ch7)
+    1. [Testing Types](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_57.html#testing_types)
+    1. [Testing Out Of The Box (OOTB) SharePoint Templates](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_58.html#testing_out_of_the_)
+    1. [Testing SharePoint Features and Functions](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_59.html#testing_sharepoint_)
+    1. [Summary](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_60.html#summary6)
+1. [Chapter 8: Tips and Tricks](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_61.html#ch8)
+    1. [Creating a Sub-Brand](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_62.html#creating_a_subbrand)
+    1. [Photoshop Tips](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_63.html#photoshop_tips)
+    1. [Creating a Center Fixed-width Design](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_64.html#creating_a_center_f)
+    1. [Customizing Dialog Windows](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_65.html#customizing_dialog_)
+    1. [Changing the Logo Globally Using Only CSS](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_66.html#changing_the_logo_g)
+    1. [Hiding Quick Launch (Left Navigation)](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_67.html#hiding_quick_launch)
+    1. [Displaying Small Social Tag and Notes Icons](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_68.html#displaying_small_so)
+    1. [Working with Web-part Zones](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_69.html#working_with_webpar)
+    1. [SharePoint 2010 Themes](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_70.html#sharepoint_2010_the)
+    1. [Basics of CSS3](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_71.html#basics_of_css3)
+    1. [Summary](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_72.html#summary8)
+1. [Chapter 9: Tools and Resources](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_73.html#ch9)
+    1. [Microsoft SharePoint Designer 2010 ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_74.html#microsoft_sharepoin)
+    1. [Microsoft Visual Studio 2010 ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_75.html#microsoft_visual_st)
+    1. [Browsers and Add-ons ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_76.html#browsers_and_addons)
+    1. [Additional Resources ](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_77.html#additional_resource)
+    1. [Summary](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_78.html#summary9)
+1. [Appendix A: CSS Reference Guide](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_79.html#chapp)
+    1. [#1: The Ribbon Container](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_80.html#the_ribbon_containe)
+    1. [#2: Site Actions](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_81.html#site_actions_)
+    1. [#3: Site Breadcrumb](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_82.html#site_breadcrumb_)
+    1. [#4: Welcome Menu](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_83.html#welcome_menu_)
+    1. [#5: Content Containers](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_84.html#content_containers_)
+    1. [#6: Site Logo](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_85.html#site_logo_)
+    1. [#7: Page Breadcrumb](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_86.html#page_breadcrumb_)
+    1. [#8: Social Tags &amp; Notes](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_87.html#social_tags_amp_not)
+    1. [#9: Top Header 2](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_88.html#top_header_2_)
+    1. [#10: Top Navigation](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_89.html#top_navigation_)
+    1. [#11: Search &amp; Help](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_90.html#search_amp_help_)
+    1. [#12: Status Bar](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_91.html#status_bar_)
+    1. [#13: Quick Launch (Left Panel)](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_92.html#quick_launch_left_p)
+    1. [#14: Content Area](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_93.html#content_area_)
+    1. [#15: Web-Part Elements](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_94.html#webpart_elements_)
+    1. [#16: Dialog Windows](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_95.html#dialog_windows_)
+    1. [#17: Blog Posts](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_96.html#blog_posts_)
+    1. [#18: My Profile](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_97.html#my_profile_)
+    1. [#19: Search Results](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_98.html#search_results_)
+1. [Index](https://ebookreading.net/view/book/Practical+SharePoint+2010+Branding+and+Customization-EB9781430240266_99.html#index_Index)

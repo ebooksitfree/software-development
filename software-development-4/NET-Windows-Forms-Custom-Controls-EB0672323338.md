@@ -1,0 +1,92 @@
+![Cover image for .NET Windows® Forms Custom Controls](https://imgdetail.ebookreading.net/cover/cover/software_development/EB0672323338.jpg)
+
+[.NET Windows® Forms Custom Controls](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_1.html ".NET Windows® Forms Custom Controls")
+====================================================================================================================
+
+Author : [Richard Weeks](https://ebookreading.net/search/author/Richard+Weeks)
+
+Release Date : 2002/01/01
+
+ISBN : 0672323338
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+The intent of this book is to teach .NET developers the skills necessary to create their own leading edge custom controls. The art of creating custom controls has never been truly explored in detail, often the examples provided are trivial and do not begin to explore the requirements need for a commercial quality custom control. This book will not only provide that knowledge, but, in addition provide the source for a fully functional Outlook Bar control.
+              
+Table of Contents
+-----------------
+
+1. [Copyright](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_1.html)
+1. [About the Author](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_2.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_3.html)
+1. [Tell Us What You Think!](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_4.html)
+1. [Introduction](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_5.html)
+1. [Windows Controls](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_6.html)
+    1. [Control Concepts](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_7.html)
+    1. [Control Anatomy 101](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_8.html)
+    1. [Control Appearance and Behavior](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_9.html)
+    1. [Composite Controls](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_10.html)
+    1. [VS .NET Integrated Development Environment (IDE)](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_11.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_12.html)
+1. [Control Basics](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_13.html)
+    1. [Control Base Classes](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_14.html)
+    1. [Properties](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_15.html)
+    1. [Events](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_16.html)
+    1. [The IconButton Control](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_17.html)
+    1. [Testing the IconButton Control](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_18.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_19.html)
+1. [Designer Basics](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_20.html)
+    1. [The ControlDesigner Base Class](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_21.html)
+    1. [DesignerAttribute](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_22.html)
+    1. [The IconButton Designer](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_23.html)
+    1. [Adding a Toolbox Bitmap](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_24.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_25.html)
+1. [GDI+](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_26.html)
+    1. [The Graphics Class](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_27.html)
+    1. [Brushes](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_28.html)
+    1. [Pens](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_29.html)
+    1. [Fonts](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_30.html)
+    1. [Working with Images](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_31.html)
+    1. [The ControlPaint Class](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_32.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_33.html)
+1. [Advanced Control Development](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_34.html)
+    1. [Control Base Classes](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_35.html)
+    1. [Designer Base Classes](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_36.html)
+    1. [Designer Services](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_37.html)
+    1. [Designer Attributes](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_38.html)
+    1. [Design-Time UI Clues](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_39.html)
+    1. [Attributes](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_40.html)
+    1. [Properties](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_41.html)
+    1. [Basic Control Debugging](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_42.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_43.html)
+1. [Control Design Concepts](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_44.html)
+    1. [Control Design](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_45.html)
+    1. [Control Internals](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_46.html)
+    1. [A Preview of the OutlookBar Control](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_47.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_48.html)
+1. [OutlookBarTab Component](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_49.html)
+    1. [Detailed Design](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_50.html)
+    1. [Implementation](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_51.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_52.html)
+1. [OutlookBar Control](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_53.html)
+    1. [Control Design](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_54.html)
+    1. [OutlookBar Control Implementation](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_55.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_56.html)
+1. [ImageListView Control](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_57.html)
+    1. [Design](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_58.html)
+    1. [Implementation](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_59.html)
+    1. [Testing the OutlookBar Control](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_60.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_61.html)
+1. [Control Deployment](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_62.html)
+    1. [Licensing](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_63.html)
+    1. [Hosting Controls in Internet Explorer](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_64.html)
+    1. [GAC (Global Assembly Cache) Versus Local Assemblies](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_65.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_66.html)
+1. [Extender Providers](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_67.html)
+    1. [Creating Extender Providers](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_68.html)
+    1. [Control-Based Extender Providers](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_69.html)
+    1. [Summary](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_70.html)
+1. [Index](https://ebookreading.net/view/book/.NET+Windows%C2%AE+Forms+Custom+Controls-EB0672323338_71.html)

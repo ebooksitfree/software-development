@@ -1,0 +1,101 @@
+![Cover image for Pro Visual Studio Team System Application Lifecycle Management](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781430210801.jpg)
+
+[Pro Visual Studio Team System Application Lifecycle Management](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_1.html "Pro Visual Studio Team System Application Lifecycle Management")
+====================================================================================================================
+
+Author : [Joachim Rossberg](https://ebookreading.net/search/author/Joachim+Rossberg)
+
+Release Date : 2008/10/01
+
+ISBN : 9781430210801
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+You can have the best coders in the world working in your teams, but if your project management isn't up to scratch, your project is almost certain to be delayed, to come in over budget, and in some cases to fail entirely. By taking precise control of your application development process, you can make changes, both large and small, throughout your project's life cycle that will lead to better–quality finished products that are consistently delivered on time and within budget.
+Application lifecycle management (ALM) is an area of rapidly growing interest within the development community. Because its techniques allow you to deal with the process of developing applications across many areas of responsibility and across many different disciplines, its effects on your project can be wide ranging and pronounced. It is a project management tool that has practical implications for the whole team—from architects to designers, from developers to testers.
+This book focuses on the most powerful ALM tool available for the Microsoft .NET Framework: Visual Studio Team System (VSTS). It demonstrates the key concepts and techniques of ALM and illustrates how they can be achieved using the tools VSTS provides in a clear succinct style. After reading the book, you will understand how VSTS can be used to generate continuous meaningful reporting on your project's health for the decision makers on your team as well as for your project's sponsors.
+              
+Table of Contents
+-----------------
+
+1. [Title Page](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_2.html)
+1. [Dedication](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_4.html#dedication)
+1. [Contents at a Glance](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_5.html#contents_at_a_glanc)
+1. [Contents](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_6.html#contents)
+1. [Foreword](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_7.html#foreword)
+1. [About the Author](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_8.html#about_the_author)
+1. [About the Technical Reviewers](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_9.html#about_the_technical)
+1. [Acknowledgments](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_10.html#acknowledgments)
+1. [Introduction](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_11.html#introduction)
+    1. [What This Book Will Cover](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_11.html#what_this_book_will)
+    1. [Who Should Read This Book](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_11.html#who_should_read_thi)
+1. [CHAPTER 1: Why Do We Develop Business Software and Systems?](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_12.html#why_do_we_develop_b)
+    1. [Understanding the Cornerstones of Business](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_12.html#understanding_the_c)
+    1. [Understanding the Need for Business Software](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_12.html#understanding_the_n)
+    1. [Today&#39;s Business Environment and the Problems We Face](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_12.html#today_apostrophy_s_)
+    1. [Summary](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_12.html#summary)
+1. [CHAPTER 2: Application Lifecycle Management](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_13.html#application_lifecyc)
+    1. [Roles in the ALM Process](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_13.html#roles_in_the_alm_pr)
+    1. [Four Ways of Looking at Application Lifecycle Management](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_13.html#four_ways_of_lookin)
+    1. [Three Pillars of Application Lifecycle Management](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_13.html#three_pillars_of_ap)
+    1. [A Brief History of ALM Tools](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_13.html#a_brief_history_of_)
+    1. [Application Lifecycle Management 1.0](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_13.html#application_lifecyc)
+    1. [Application Lifecycle Management 2.0](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_13.html#application_lifecyc)
+    1. [ALM and PPM](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_13.html#alm_and_ppm-id1)
+    1. [Summary](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_13.html#summary-id1)
+1. [CHAPTER 3: Development Processes and Frameworks](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#development_process)
+    1. [Waterfall Model](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#waterfall_model)
+    1. [Spiral Model](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#spiral_model)
+    1. [Rational Unified Process (RUP)](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#rational_unified_pr)
+    1. [Manifesto for Agile Software Development](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#manifesto_for_agile)
+    1. [Extreme Programming (XP)](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#extreme_programming)
+    1. [Scrum](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#scrum)
+    1. [Essential Unified Process (EssUP)](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#essential_unified_p)
+    1. [Capability Maturity Model Integration for Development (CMMI-DEV)](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#capability_maturity)
+    1. [Microsoft Solutions Framework (MSF)](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#microsoft_solutions)
+    1. [Summary](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_14.html#summary-id2)
+1. [CHAPTER 4: The Agile Enterprise—Or How We Could Bridge the Gap](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_15.html#the_agile_enterpris)
+    1. [Radically Simple IT](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_15.html#radically_simple_it)
+    1. [Enterprise Architecture](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_15.html#enterprise_architec)
+    1. [Service-Oriented Architecture](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_15.html#service-oriented_ar)
+    1. [A Redefined View of the Architect Role(s)](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_15.html#a_redefined_view_of)
+    1. [Summary](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_15.html#summary-id3)
+1. [CHAPTER 5: ALM Assessments](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_16.html#alm_assessments)
+    1. [Microsoft Application Platform Optimization (APO) Model](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_16.html#microsoft_applicati)
+    1. [The APO Assessment](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_16.html#the_apo_assessment)
+    1. [Application Platform Capability Assessment](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_16.html#application_platfor)
+    1. [The Assessment Builder](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_16.html#the_assessment_buil)
+    1. [How to Use These Tools](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_16.html#how_to_use_these_to)
+    1. [Why Do an Assessment?](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_16.html#why_do_an_assessmen)
+    1. [Summary](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_16.html#summary-id4)
+1. [CHAPTER 6: Application Lifecycle Management Using Visual Studio Team System](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#application_lifecyc)
+    1. [Application Lifecycle Management Overview](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#application_lifecyc)
+    1. [Visual Studio Team System Overview](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#visual_studio_team_)
+    1. [Traceability](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#traceability)
+    1. [Automation of High-Level Processes](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#automation_of_high-)
+    1. [Visibility](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#visibility)
+    1. [Collaboration](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#collaboration)
+    1. [IT and Business Gap](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#it_and_business_gap)
+    1. [Use of One Tool/Role Based](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#use_of_one_tool_sol)
+    1. [Extensibility](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#extensibility)
+    1. [Summary](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_17.html#summary-id5)
+1. [CHAPTER 7: Working with VSTS Customization to Further Enhance the ALM Process](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_18.html#working_with_vsts_c)
+    1. [The Overall Architecture of Visual Studio Team System](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_18.html#the_overall_archite)
+    1. [Editions of Visual Studio Team System](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_18.html#editions_of_visual_)
+    1. [Automation of High-Level Processes](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_18.html#automation_of_high-)
+    1. [Visibility](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_18.html#visibility-id1)
+    1. [Traceability](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_18.html#traceability-id1)
+    1. [Extensibility](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_18.html#extensibility-id1)
+    1. [Collaboration](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_18.html#collaboration-id1)
+    1. [Summary](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_18.html#summary-id6)
+1. [CHAPTER 8: Real-Life Example](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_19.html#real-life_example)
+    1. [Customer Case](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_19.html#customer_case)
+    1. [ALM Assessment](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_19.html#alm_assessment)
+    1. [Workshop with Priorities (Lowest-Hanging Fruits)](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_19.html#workshop_with_prior)
+    1. [Implementation](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_19.html#implementation)
+    1. [Follow-Up](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_19.html#follow-up)
+    1. [Summary](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_19.html#summary-id7)
+1. [Index](https://ebookreading.net/view/book/Pro+Visual+Studio+Team+System+Application+Lifecycle+Management-EB9781430210801_20.html#index)
