@@ -1,0 +1,90 @@
+![Cover image for Generation Entrepreneur](https://imgdetail.ebookreading.net/cover/cover/software_development/EB0273649205.jpg)
+
+[Generation Entrepreneur](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_1.html "Generation Entrepreneur")
+====================================================================================================================
+
+Author : [Des Dearlove](https://ebookreading.net/search/author/Des+Dearlove),[ Stuart Crainer](https://ebookreading.net/search/author/+Stuart+Crainer)
+
+Release Date : 2000/12/01
+
+ISBN : 0273649205
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+Something has changed the business world. Big business has lost its allure for the new generation. Where once youthful employees pursued corporate goals, generation entrepreneur dream their own dreams. Corporate man is dead. Long live generation entrepreneur This is the age of the entrepreneur. What began in Silicon Valley as a dream for a select few has become a worldwide phenomenon. For growing numbers of young business people, creating a business has become a calling, a vocation, a mission. They are what they do, and they do what they are. Above all, they do their own thing. Meet the new wealth creators and read the handbook for a new business generation.
+              
+Table of Contents
+-----------------
+
+1. [Copyright](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+1. [About the Authors](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+1. [1. gen e](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [1. e world](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [2. from raising hell to raising capital](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [3. The bagel queen](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [4. e isn&#39;t x](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [5. dollars and amazonians](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+1. [2. defining a generation](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [6. a little bit hyperkinetc](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [7. united distillers](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [8. only connect](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [9. trained to the max](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [10. the calling](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [11. people people](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [12. emotional economics](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [13. making a difference](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [14. the ad men](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [15. direct action](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [16. the art of balance](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [17. cake eating](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [18. back to the lab](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [19. persistence sucks](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+1. [3. the new economy](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [20. the chicken and e](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [21. sitting comfortably](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [22. the new economy is here to stay](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [23. the Dell model](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [24. beyond Silicon Valley](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [25. e hotbeds](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+        1. [Oulu, Finland](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch25lev1sec1)
+        1. [Cambridge, England](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch25lev1sec2)
+        1. [Stockholm, Sweden](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch25lev1sec3)
+        1. [Sophia Antipolis, France](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch25lev1sec4)
+        1. [Karlsruhe, Germany](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch25lev1sec5)
+        1. [Tel Aviv, Israel](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch25lev1sec6)
+        1. [Hsinchu, Taiwan](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch25lev1sec7)
+1. [4. power shifts](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [26. brawn to brain](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [27. thinkers for the new age](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [28. executive gold](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [29. attracting gen e](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [30. the new power elite](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [31. what if?](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [32. outsider&#39;s paradise](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [33. the beauty of virginity](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+1. [5. e working](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [34. free at last](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [35. pez heads](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [36. e careers](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [37. the richer the better](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [38. taking control](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [39. the trouble with employability](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+1. [6. corporate life and death](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [40. e inc.](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [41. organizational glue](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [42. the loyalty factor](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [43. managing gen e](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+        1. [understanding individuals](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch43lev1sec1)
+        1. [searching for the best of both worlds](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch43lev1sec2)
+        1. [succession planning](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch43lev1sec3)
+        1. [growing your own](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch43lev1sec4)
+        1. [quitting while ahead](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch43lev1sec5)
+        1. [planning to replace the irreplaceable](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html#ch43lev1sec6)
+    1. [44. the value-led corporation](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [45. managing with values](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [46. watch Bill](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)
+    1. [47. e pig](https://ebookreading.net/view/book/Generation+Entrepreneur-EB0273649205_0.html)

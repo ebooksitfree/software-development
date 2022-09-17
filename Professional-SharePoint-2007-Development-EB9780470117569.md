@@ -1,0 +1,147 @@
+![Cover image for Professional SharePoint® 2007 Development](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9780470117569.jpg)
+
+[Professional SharePoint® 2007 Development](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_1.html "Professional SharePoint® 2007 Development")
+====================================================================================================================
+
+Author : [Tom Rizzo](https://ebookreading.net/search/author/Tom+Rizzo),[ Adam Buenz](https://ebookreading.net/search/author/+Adam+Buenz),[ J. Dan Attis](https://ebookreading.net/search/author/+J.+Dan+Attis),[ Matt Ranlett](https://ebookreading.net/search/author/+Matt+Ranlett),[ Brendon Schwartz](https://ebookreading.net/search/author/+Brendon+Schwartz),[ Eli Robilla](https://ebookreading.net/search/author/+Eli+Robilla)
+
+Release Date : 2007/06/01
+
+ISBN : 9780470117569
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+If you're a .NET or Microsoft Office developer, this book will give you the tools and the techniques you need to build great solutions for the SharePoint platform. It offers practical insights that will help you take advantage of this powerful new integrated suite of server-based collaboration software tools along with specific examples that show you how to implement your own custom solutions. You'll then be able to apply this information to create collaborative web-based applications that enhance user productivity and deliver rich user experiences.
+You'll start by building a strong foundation based on a thorough understanding of the technologies that come with the SharePoint platform, while also drilling into specific implementation areas. Next, you'll dive into seven key SharePoint development areas: the base collaboration platform, portal and composite application frameworks, enterprise search, ECM, business process automation and workflow, electronic forms, and business intelligence.
+This book is for ASP.NET developers who want to add collaboration support to their existing applications, Windows/Office client developers who want to move their solutions from the desktop to the web, and experienced SharePoint version 2.0 developers who want to take advantage of the new capabilities available in Windows SharePoint Services 3.0.
+You will learn all about Windows SharePoint Services and MOSS 2007, including the following:
+Ways to enhance collaboration using calendars, tasks, issues, and email alerts
+Techniques for developing applications with integrated RSS, blogs and Wikis
+How to build, configure, and manage portal solutions
+Strategies for using enterprise search, XML, and XSLT
+Methods for improving enterprise content management and business intelligence
+Ways to take advantage of built-in support for regulatory compliance and web publishing
+How to create custom workflows and integrate them into your solutions
+This book is also available as part of the 4-book SharePoint 2007 Wrox Box (ISBN: 0470431946) with these 4 books:
+Professional SharePoint 2007 Development (ISBN: 0470117567)
+Real World SharePoint 2007 (ISBN: 0470168358)
+Professional Microsoft SharePoint 2007 Design (ISBN: 047028580X)
+Professional SharePoint 2007 Web Content Management Development (ISBN: 0470224754)
+              
+Table of Contents
+-----------------
+
+1. [Copyright](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_1.html)
+1. [Dedication](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_2.html)
+1. [About the Authors](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_3.html)
+1. [Credits](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_4.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_5.html)
+1. [Foreword](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_6.html)
+1. [Introduction](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_7.html)
+1. [The Microsoft Application Platform and SharePoint](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_8.html)
+    1. [SharePoint Products and Technologies](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_9.html)
+    1. [The Microsoft Application Platform](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_10.html)
+    1. [A Service-Oriented View of the Microsoft Application Platform](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_11.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_12.html)
+1. [MOSS 2007 Overview for Developers](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_13.html)
+    1. [Architectural Overview of SharePoint](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_14.html)
+    1. [Your Development Environment](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_15.html)
+    1. [Configure Remote Debugging](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_16.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_17.html)
+1. [The SharePoint User Experience](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_18.html)
+    1. [Site Design Starts with Web Applications](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_19.html)
+    1. [Content Is Stored in a Site Collection](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_20.html)
+    1. [Using SharePoint Lists and Libraries](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_21.html)
+    1. [Improved Storage with Lists](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_22.html)
+    1. [Working with Site Columns](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_23.html)
+    1. [Understanding Content Types](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_24.html)
+    1. [Windows SharePoint Services Pages](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_25.html)
+    1. [Windows SharePoint Services Mobility](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_26.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_27.html)
+1. [WSS v3 Platform Services](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_28.html)
+    1. [Site Definitions](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_29.html)
+    1. [Custom Field Types](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_30.html)
+    1. [Features](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_31.html)
+    1. [Solutions](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_32.html)
+    1. [Web Parts](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_33.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_34.html)
+1. [Programming Windows SharePoint Services](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_35.html)
+    1. [Object Model](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_36.html)
+    1. [Event Handling](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_37.html)
+    1. [Web Services](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_38.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_39.html)
+1. [A Sample Collaboration Solution](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_40.html)
+    1. [The Project](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_41.html)
+    1. [Designing a Solution](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_42.html)
+    1. [Project Review](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_43.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_44.html)
+1. [RSS, Blogs, and Wikis](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_45.html)
+    1. [RSS](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_46.html)
+    1. [Blogs](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_47.html)
+    1. [Wikis](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_48.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_49.html)
+1. [Building Personalized Solutions](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_50.html)
+    1. [Building Rich Portal Solutions on SharePoint](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_51.html)
+    1. [Membership and User Profiles](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_52.html)
+    1. [SharePoint Audiences](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_53.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_54.html)
+1. [Using Enterprise Search](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_55.html)
+    1. [Introduction to Enterprise Search](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_56.html)
+    1. [SharePoint Server Enterprise Search Object Model Architecture](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_57.html)
+    1. [Extending Enterprise Search](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_58.html)
+    1. [Configuring Enterprise Search](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_59.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_60.html)
+1. [Using the Business Data Catalog](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_61.html)
+    1. [Business Data Catalog Architecture](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_62.html)
+    1. [Connecting to Web Services](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_63.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_64.html)
+1. [Building Document Management Solutions](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_65.html)
+    1. [Understanding the Document Lifecycle](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_66.html)
+    1. [Defining Metadata Using Content Types](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_67.html)
+    1. [Managing Document Creation](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_68.html)
+    1. [Managing the Document Revision Cycle](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_69.html)
+    1. [Developing XML-Driven Document Management Solutions](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_70.html)
+    1. [Creating Policy Administration Tools](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_71.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_72.html)
+1. [Building Records Management Solutions](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_73.html)
+    1. [SharePoint Support for Records Management](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_74.html)
+    1. [The SharePoint Records Repository](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_75.html)
+    1. [Information Management Policy](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_76.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_77.html)
+1. [Building Web Content Management Solutions](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_78.html)
+    1. [WCM in Office SharePoint Server 2007](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_79.html)
+    1. [Customizing the Authoring Experience](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_80.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_81.html)
+1. [Electronic Forms in MOSS 2007](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_82.html)
+    1. [The Structure of an InfoPath Form](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_83.html)
+    1. [Form Templates and Form Data](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_84.html)
+    1. [Understanding InfoPath Security](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_85.html)
+    1. [Form Programming](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_86.html)
+    1. [Form Deployment and Distribution](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_87.html)
+    1. [Using Browser-Based Forms](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_88.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_89.html)
+1. [Building Workflow Solutions](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_90.html)
+    1. [Workflow Foundation Basics](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_91.html)
+    1. [Workflow in MOSS](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_92.html)
+    1. [Workflow Development](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_93.html)
+    1. [Building Declarative Workflows Using SharePoint Designer 2007](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_94.html)
+    1. [Building Reusable Workflows Using Visual Studio 2005](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_95.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_96.html)
+1. [Business Intelligence and SharePoint Server 2007](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_97.html)
+    1. [Business Intelligence Overview](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_98.html)
+    1. [Dashboards and Report Center](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_99.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_100.html)
+1. [Using the Microsoft Visual Studio 2005 Extension for Windows SharePoint Services 3.0](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_101.html)
+    1. [Installation Requirements](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_102.html)
+    1. [Building a Custom Solution Using the VSeWSS](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_103.html)
+    1. [Using VSeWSS to Build Site Definitions and Custom Modules](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_104.html)
+    1. [Using VSeWSS to Build Content Types](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_105.html)
+    1. [Building a Custom Content Type Using VSeWSS](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_106.html)
+    1. [Using VSeWSS to Build List Definitions](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_107.html)
+    1. [Using VSeWSS to Build Web Parts](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_108.html)
+    1. [Leveraging the SharePoint Solution Generator](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_109.html)
+    1. [Summary](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_110.html)
+1. [Index](https://ebookreading.net/view/book/Professional+SharePoint%C2%AE+2007+Development-EB9780470117569_111.html)

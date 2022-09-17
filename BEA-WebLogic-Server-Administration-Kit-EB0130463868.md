@@ -1,0 +1,161 @@
+![Cover image for BEA WebLogic Server™ Administration Kit](https://imgdetail.ebookreading.net/cover/cover/software_development/EB0130463868.jpg)
+
+[BEA WebLogic Server™ Administration Kit](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_1.html "BEA WebLogic Server™ Administration Kit")
+====================================================================================================================
+
+Author : [Scott Hawkins](https://ebookreading.net/search/author/Scott+Hawkins)
+
+Release Date : 2003/01/01
+
+ISBN : 0130463868
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+The definitive guide to administering WebLogic Server 7!
+Maximizing performance, reliability, and efficiency
+Covers architecture, domains, clustering, JDBC, JMS, monitoring, and much more
+Includes 90-day trial version of WebLogic Server 7
+WebLogic Server 7 administration complete: Maximizing efficiency, reliability, and performance.
+BEA WebLogic Server Administration Kit is the definitive guide to administering BEA WebLogic Server 7! Scott Hawkins starts where the documentation leaves off, illuminating crucial concepts and offering practical guidance for maximizing the performance, reliability, and efficiency of any WebLogic Server system. Unlike previous books on BEA WebLogic Server, this book is 100% focused on administration—and it presents essential techniques you simply won't find anywhere else. Coverage includes:
+Installing, starting, and stopping WebLogic Servers
+Defining effective Web Logic Server architectures
+Establishing and managing WebLogic Server domains
+Managing HTTP services
+Creating and working with WebLogic Server clusters
+Configuring and managing JDBC and JMS
+In-depth coverage of monitoring and performance tuning
+CD-ROM INCLUDED
+The accompanying CD-ROM contains a 90-day trial version of BEA WebLogic Server 7.0, the latest version of BEA's award-winning Java application server for developing, deploying, and managing Web applications with maximum scalability, performance, and fault tolerance.
+              
+Table of Contents
+-----------------
+
+1. [Copyright](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_1.html)
+1. [The Prentice Hall PTR Advanced Web Development Series](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_2.html)
+1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_3.html)
+1. [Installation](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_4.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_5.html)
+    1. [Platform Issues](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_6.html)
+    1. [Version 6.x GUI Installation](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_7.html)
+    1. [Command-Line Installation](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_8.html)
+    1. [Version 7.x GUI Installation](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_9.html)
+    1. [Recap](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_10.html)
+1. [Starting and Stopping](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_11.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_12.html)
+    1. [Windows Application Start](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_13.html)
+    1. [Windows Service Start](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_14.html)
+    1. [Scripted Start](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_15.html)
+    1. [Command-Line Start](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_16.html)
+    1. [Remote Start](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_17.html)
+    1. [Stopping the Server](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_18.html)
+    1. [Recap](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_19.html)
+1. [Domains](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_20.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_21.html)
+    1. [Creating a New Domain](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_22.html)
+    1. [Adding a Managed Server](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_23.html)
+    1. [Adding a Managed Server, Part 2—On the Managed Server Side](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_24.html)
+    1. [Recap](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_25.html)
+1. [Architecture](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_26.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_27.html)
+    1. [Basic Architecture](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_28.html)
+    1. [Multiple-Tier Architecture](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_29.html)
+    1. [Proxies](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_30.html)
+    1. [Recap](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_31.html)
+1. [HTTP Servers](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_32.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_33.html)
+    1. [HttpProxyServlet](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_34.html)
+    1. [Apache](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_35.html)
+    1. [Netscape](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_36.html)
+    1. [IIS](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_37.html)
+    1. [Parameters](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_38.html)
+    1. [Recap](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_39.html)
+1. [Clusters](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_40.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_41.html)
+    1. [Communication](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_42.html)
+    1. [HttpClusterServlet](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_43.html)
+    1. [HTTP Servers](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_44.html)
+    1. [Configuration](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_45.html)
+    1. [Cluster Operations](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_46.html)
+    1. [Configuration in WebLogic Server 7.x](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_47.html)
+    1. [Recap](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_48.html)
+1. [JDBC](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_49.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_50.html)
+    1. [Connection Pools](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_51.html)
+    1. [MultiPools](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_52.html)
+    1. [Data Sources](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_53.html)
+1. [JMS](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_54.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_55.html)
+    1. [Administering JMS](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_56.html)
+    1. [Clustering JMS](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_57.html)
+    1. [Messaging Bridges](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_58.html)
+    1. [Recap](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_59.html)
+1. [Monitoring](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_60.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_61.html)
+    1. [Performance Tab](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_62.html)
+    1. [SNMP](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_63.html)
+    1. [Configuring SNMP](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_64.html)
+1. [Performance Tuning](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_65.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_66.html)
+    1. [Tuning the JVM](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_67.html)
+    1. [Tuning WebLogic Server](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_68.html)
+    1. [Execute Queues](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_69.html)
+    1. [Recap](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_70.html)
+1. [Security](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_71.html)
+    1. [Introduction](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_72.html)
+    1. [SSL](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_73.html)
+    1. [6.x Security](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_74.html)
+    1. [7.x Security](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_75.html)
+1. [Administration Console Reference](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_76.html)
+    1. [Clusters](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_77.html)
+    1. [Machines](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_78.html)
+    1. [Services](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_79.html)
+    1. [Security](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_80.html)
+1. [Networking Concepts](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_81.html)
+    1. [TCP/IP](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_82.html)
+    1. [Network Troubleshooting](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_83.html)
+    1. [Physical Connection Failures](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_84.html)
+    1. [Software Diagnostics](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_85.html)
+    1. [Things to Look at When You Can&#39;t Connect](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_86.html)
+    1. [If You Can Ping Successfully](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_87.html)
+1. [Selected Procedures](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_88.html)
+    1. [Starting the Administration Console](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_89.html)
+    1. [Starting All Managed Servers in a Domain](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_90.html)
+    1. [Starting All Managed Servers in a Cluster](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_91.html)
+    1. [Killing All Servers in a Domain](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_92.html)
+    1. [Killing All Servers in a Cluster](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_93.html)
+    1. [Storing the Username and Password in a Boot Identity File](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_94.html)
+    1. [Confirming Windows Service Configuration](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_95.html)
+    1. [Using the Control Panel to Set Startup Options](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_96.html)
+    1. [Removing a Server as a Windows Service](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_97.html)
+    1. [Configuring a Virtual Host](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_98.html)
+    1. [Configuring JTA Transactions](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_99.html)
+    1. [Enable Transactions across Multiple Domains](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_100.html)
+    1. [Logging and Monitoring Transactions](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_101.html)
+    1. [Recovering Transactions on a Backup Server](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_102.html)
+    1. [Recovering Transactions for a Failed Clustered Server](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_103.html)
+    1. [Configuring JDBC Connectivity](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_104.html)
+    1. [Configuring a Basic JMS Implementation](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_105.html)
+    1. [Monitoring JMS Objects](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_106.html)
+    1. [Monitoring Durable Subscribers](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_107.html)
+    1. [Creating a Paging Store for a JMS Server](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_108.html)
+    1. [Configuring Paging on a JMS Server](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_109.html)
+    1. [Configuring Paging on a JMS Template](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_110.html)
+    1. [Configuring Paging on Destinations](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_111.html)
+    1. [Overriding Paging Settings on a JMS Template](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_112.html)
+    1. [Configuring Message Load Balancing](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_113.html)
+    1. [Configuring Server Affinity](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_114.html)
+    1. [Configuring a JMS Bridge Destination](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_115.html)
+    1. [Configuring a General Bridge Destination](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_116.html)
+    1. [Configuring a Messaging Bridge](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_117.html)
+    1. [Configuring Connectors for Deployment](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_118.html)
+    1. [Display a Connection Profile for a Connector](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_119.html)
+    1. [Deploying Resource Adapters (Connectors)](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_120.html)
+    1. [Displaying a Deployed Connector](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_121.html)
+    1. [Undeploying Deployed Resource Adapters](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_122.html)
+    1. [Updating Deployed Resource Adapters](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_123.html)
+    1. [Monitoring Connections](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_124.html)
+    1. [Viewing Leaked Connections](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_125.html)
+    1. [Identifying Idle Connections](https://ebookreading.net/view/book/BEA+WebLogic+Server%E2%84%A2+Administration+Kit-EB0130463868_126.html)

@@ -1,0 +1,118 @@
+![Cover image for Getting Started with Unity](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781849695848.jpg)
+
+[Getting Started with Unity](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_1.html "Getting Started with Unity")
+====================================================================================================================
+
+Author : [Patrick Felicia](https://ebookreading.net/search/author/Patrick+Felicia)
+
+Release Date : 2013/08/01
+
+ISBN : 9781849695848
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+Learn how to use Unity by creating your very own 'Outbreak' survival game while   developing your essential skills 
+Use basic AI techniques to bring your game to lifeLearn how to use Mecanim; create states and manage them through scriptingUse scripting to manage the graphical interface, collisions, animations, persistent data, or transitions between scenesIn Detail
+Unity is a game development engine which is fully integrated with a complete set of intuitive tools and rapid workflows used to create interactive 3D content. Unity is best used for making great games that can deploy to numerous platforms.
+"Getting Started with Unity" guides you progressively through the necessary steps to create a survival game using Unity3D’s built-in objects and components, JavaScript, animations with Mecanim, and some basic AI.
+In this book, you will be introduced to a wide range of the core features used for games developed with Unity3D, including the user interface and much more. Furthermore, you will also learn about essential aspects like transformations, scripting, navigation, and built-in controllers.
+Beginning with an introduction to the user interface, you will learn the necessary skills required to create a survival video game. Each section is a stepping-stone toward the completion of the final game. By the end of the book, you will have created an indoor level with enemies, AI, weapons, objects to collect, and all the logic to control the game.
+              
+Table of Contents
+-----------------
+
+1. [Getting Started with Unity](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_2.html)
+    1. [Getting Started with Unity](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_4.html)
+    1. [Credits](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_5.html)
+    1. [About the Author](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_6.html)
+    1. [About the Reviewer](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_7.html)
+    1. [www.packtpub.com](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_8.html)
+        1. [Support files, eBooks, discount offers and more](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_8.html#ch00lvl3sec01)
+            1. [Why Subscribe?](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_8.html#ch00lvl4sec01)
+            1. [Free Access for Packt account holders](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_8.html#ch00lvl4sec02)
+    1. [Preface](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_9.html)
+        1. [What this book covers](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_9.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_10.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_11.html)
+        1. [Conventions](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_12.html)
+        1. [Reader feedback](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_13.html)
+        1. [Customer support](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_14.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_14.html#ch00lvl2sec02)
+            1. [Errata](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_14.html#ch00lvl2sec03)
+            1. [Piracy](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_14.html#ch00lvl2sec04)
+            1. [Questions](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_14.html#ch00lvl2sec05)
+    1. [1. Getting to Know Unity3D](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_15.html)
+        1. [Introduction to game engines](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_15.html#ch01lvl1sec08)
+        1. [Why choose Unity](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_16.html)
+        1. [What&#39;s new in Unity3D 4](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_17.html)
+        1. [Downloading Unity3D](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_18.html)
+        1. [Launching Unity3D](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_19.html)
+        1. [Unity3D&#39;s interface](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_20.html)
+            1. [The Scene view](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_20.html#ch01lvl2sec06)
+                1. [Navigating in the scene](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_20.html#ch01lvl3sec02)
+            1. [The Hierarchy view](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_20.html#ch01lvl2sec07)
+            1. [The Project view](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_20.html#ch01lvl2sec08)
+            1. [The Inspector](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_20.html#ch01lvl2sec09)
+            1. [The Console](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_20.html#ch01lvl2sec10)
+        1. [Navigating through the AngryBots scene](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_21.html)
+        1. [Creating a new project and scene](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_22.html)
+        1. [Adding objects to a scene](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_23.html)
+            1. [Creating a cube](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_23.html#ch01lvl2sec11)
+                1. [Adding a texture to objects](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_23.html#ch01lvl2sec12)
+                1. [Inserting imported objects](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_23.html#ch01lvl2sec13)
+        1. [Implementing first- and third-person views](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_24.html)
+            1. [Adding a first-person controller](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_24.html#ch01lvl2sec14)
+            1. [Adding a third-person controller](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_24.html#ch01lvl2sec15)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_25.html)
+    1. [2. Creating a Maze with Built-in Objects](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_26.html)
+        1. [Creating a maze based on built-in objects](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_26.html#ch02lvl1sec19)
+        1. [Fine-tuning the level](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_27.html)
+        1. [Understanding colliders](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_28.html)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_29.html)
+    1. [3. Using Scripts to Interact with Objects](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_30.html)
+        1. [Introduction to scripting in Unity3D](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_30.html#ch03lvl1sec23)
+        1. [Importing necessary assets](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_31.html)
+        1. [Creating our first script](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_32.html)
+        1. [Collecting objects](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_33.html)
+        1. [Adding audio](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_34.html)
+        1. [Creating and displaying an inventory system](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_35.html)
+        1. [Finishing the game](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_36.html)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_37.html)
+    1. [4. Creating and Tracking Objects](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_38.html)
+        1. [Displaying the health bar](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_38.html#ch04lvl1sec31)
+        1. [Displaying a mini-map of the level](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_39.html)
+        1. [Creating a gun](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_40.html)
+        1. [Allowing for repeated shots](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_41.html)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_42.html)
+    1. [5. Bringing Your Game to Life with AI and Animations](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_43.html)
+        1. [Importing and configuring the 3D character](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_43.html#ch05lvl1sec36)
+        1. [Animating the character for the game](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_44.html)
+        1. [Creating parameters and transitions](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_45.html)
+        1. [Adding basic AI to enemies](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_46.html)
+        1. [Sending messages to alert other close enemies](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_47.html)
+        1. [Creating additional states](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_48.html)
+        1. [Using waypoints to define a path](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_49.html)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_50.html)
+    1. [6. Finalizing and Optimizing Your Game](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_51.html)
+        1. [Improving the AI using breadcrumbing](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_51.html#ch06lvl1sec44)
+            1. [Allowing enemies to throw and follow their own breadcrumbs](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_51.html#ch06lvl2sec16)
+            1. [Allowing enemies to follow the player&#39;s breadcrumbs](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_51.html#ch06lvl2sec17)
+        1. [Creating and updating prefabs](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_52.html)
+        1. [Keeping track of the number of lives](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_53.html)
+        1. [Animating the door that leads to the water section](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_54.html)
+        1. [Creating a menu system for your game](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_55.html)
+        1. [Keeping track of the number of lives](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_56.html)
+        1. [Optimizing the game](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_57.html)
+        1. [Exporting your game to the web](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_58.html)
+        1. [Where to go from here](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_59.html)
+            1. [Game design](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_59.html#ch06lvl2sec18)
+            1. [Artificial intelligence](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_59.html#ch06lvl2sec19)
+            1. [3D characters](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_59.html#ch06lvl2sec20)
+            1. [Creating your audio files](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_59.html#ch06lvl2sec21)
+            1. [Learning more about Unity3D](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_59.html#ch06lvl2sec22)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_60.html)
+    1. [Index](https://ebookreading.net/view/book/Getting+Started+with+Unity-EB9781849695848_61.html)

@@ -1,0 +1,183 @@
+![Cover image for Java Quick Syntax Reference](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781430262862.jpg)
+
+[Java Quick Syntax Reference](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_1.html "Java Quick Syntax Reference")
+====================================================================================================================
+
+Author : [Mikael Olsson](https://ebookreading.net/search/author/Mikael+Olsson)
+
+Release Date : 2013/08/01
+
+ISBN : 9781430262862
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+The Java Quick Syntax Reference is a condensed code and syntax reference to the Java programming language. It presents the essential Java syntax in a well-organized format that can be used as a handy reference.
+You won't find any technical jargon, bloated samples, drawn out history lessons or witty stories in this book. What you will find is a language reference that is concise, to the point and highly accessible.  The book is packed with useful information and is a must-have for any Java programmer.
+In the Java Quick Syntax Reference, you will find:
+A concise reference to the Java language syntax
+Short, simple and focused code examples
+A well laid out table of contents and a comprehensive index allowing easy review
+What you'll learn
+How to do a Java HelloWorld
+How to compile and run
+What are Java variables and operators
+What are arrays, strings, conditionals, loops and more
+How to use methods, classes and more
+How to work with constructors, inheritance and overriding
+How to use packages, access levels, constants, and interfaces
+How to code with enums and generics
+How to handle exceptions
+How to do boxing and unboxing
+Who this book is for
+This book is a handy, pocket quick syntax reference for experienced Java programmers as well as other programmers new to Java.
+              
+Table of Contents
+-----------------
+
+1. [Title Page](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_2.html)
+1. [Contents at a Glance](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_4.html)
+1. [Contents](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_5.html)
+1. [About the Author](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_6.html)
+1. [Introduction](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_7.html)
+1. [CHAPTER 1: Hello World](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_8.html)
+    1. [Installing](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_8.html#Sec1)
+    1. [Creating a project](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_8.html#Sec2)
+    1. [Hello world](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_8.html#Sec3)
+    1. [Code hints](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_8.html#Sec4)
+1. [CHAPTER 2: Compile and Run](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_9.html)
+    1. [Running from the IDE](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_9.html#Sec1)
+    1. [Running from a console window](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_9.html#Sec2)
+    1. [Comments](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_9.html#Sec3)
+1. [CHAPTER 3: Variables](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html)
+    1. [Data types](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html#Sec1)
+    1. [Declaring variables](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html#Sec2)
+    1. [Assigning variables](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html#Sec3)
+    1. [Using variables](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html#Sec4)
+    1. [Integer types](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html#Sec5)
+    1. [Floating-point types ](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html#Sec6)
+    1. [Char type](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html#Sec7)
+    1. [Boolean type](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html#Sec8)
+    1. [Variable scope](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html#Sec9)
+    1. [Anonymous block](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_10.html#Sec10)
+1. [CHAPTER 4: Operators](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_11.html)
+    1. [Arithmetic operators](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_11.html#Sec1)
+    1. [Assignment operators](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_11.html#Sec2)
+    1. [Combined assignment operators](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_11.html#Sec3)
+    1. [Increment and decrement operators](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_11.html#Sec4)
+    1. [Comparison operators](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_11.html#Sec5)
+    1. [Logical operators](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_11.html#Sec6)
+    1. [Bitwise operators](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_11.html#Sec7)
+    1. [Operator precedence](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_11.html#Sec8)
+1. [CHAPTER 5: String](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_12.html)
+    1. [Combining strings](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_12.html#Sec1)
+    1. [Escape characters](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_12.html#Sec2)
+    1. [String compare](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_12.html#Sec3)
+    1. [StringBuffer class](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_12.html#Sec4)
+1. [CHAPTER 6: Arrays](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_13.html)
+    1. [Array declaration](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_13.html#Sec1)
+    1. [Array allocation](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_13.html#Sec2)
+    1. [Array assignment](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_13.html#Sec3)
+    1. [Multi-dimensional arrays](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_13.html#Sec4)
+    1. [ArrayList class](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_13.html#Sec5)
+1. [CHAPTER 7: Conditionals](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_14.html)
+    1. [If statement](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_14.html#Sec1)
+    1. [Switch statement](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_14.html#Sec2)
+    1. [Ternary operator](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_14.html#Sec3)
+1. [CHAPTER 8: Loops](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_15.html)
+    1. [While loop](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_15.html#Sec1)
+    1. [Do-while loop](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_15.html#Sec2)
+    1. [For loop](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_15.html#Sec3)
+    1. [Foreach loop](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_15.html#Sec4)
+    1. [Break and continue](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_15.html#Sec5)
+    1. [Labeled block](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_15.html#Sec6)
+1. [CHAPTER 9: Methods](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_16.html)
+    1. [Defining methods](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_16.html#Sec1)
+    1. [Calling methods](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_16.html#Sec2)
+    1. [Method parameters](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_16.html#Sec3)
+    1. [Return statement](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_16.html#Sec4)
+    1. [Method overloading](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_16.html#Sec5)
+    1. [Passing arguments](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_16.html#Sec6)
+1. [CHAPTER 10: Class](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html)
+    1. [Object creation](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec1)
+    1. [Accessing object members](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec2)
+    1. [Constructor](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec3)
+    1. [This keyword](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec4)
+    1. [Constructor overloading](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec5)
+    1. [Constructor chaining](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec6)
+    1. [Initial field values](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec7)
+    1. [Default constructor](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec8)
+    1. [Null](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec9)
+    1. [Default values](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec10)
+    1. [Garbage collector](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_17.html#Sec11)
+1. [CHAPTER 11: Static](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_18.html)
+    1. [Accessing static members](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_18.html#Sec1)
+    1. [Static methods](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_18.html#Sec2)
+    1. [Static fields](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_18.html#Sec3)
+    1. [Static initialization blocks](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_18.html#Sec4)
+    1. [Instance Initialization blocks](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_18.html#Sec5)
+1. [CHAPTER 12: Inheritance](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_19.html)
+    1. [Object](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_19.html#Sec1)
+    1. [Upcasting](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_19.html#Sec2)
+    1. [Downcasting](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_19.html#Sec3)
+    1. [Instanceof operator](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_19.html#Sec4)
+1. [CHAPTER 13: Overriding](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_20.html)
+    1. [Overriding members](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_20.html#Sec1)
+    1. [Override annotation](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_20.html#Sec2)
+    1. [Hiding members](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_20.html#Sec3)
+    1. [Preventing method inheritance](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_20.html#Sec4)
+    1. [Accessing overridden methods](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_20.html#Sec5)
+    1. [Calling parent constructor](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_20.html#Sec6)
+1. [CHAPTER 14: Packages and Import](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_21.html)
+    1. [Import specific class](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_21.html#Sec1)
+    1. [Import package](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_21.html#Sec2)
+    1. [Import static](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_21.html#Sec3)
+1. [CHAPTER 15: Access Levels](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_22.html)
+    1. [Private access](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_22.html#Sec1)
+    1. [Package-private access](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_22.html#Sec2)
+    1. [Protected access](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_22.html#Sec3)
+    1. [Public access](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_22.html#Sec4)
+    1. [Top-level access](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_22.html#Sec5)
+    1. [Nested class access](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_22.html#Sec6)
+    1. [Access level guideline](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_22.html#Sec7)
+1. [CHAPTER 16: Constants](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_23.html)
+    1. [Local constants](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_23.html#Sec1)
+    1. [Constant fields](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_23.html#Sec2)
+    1. [Constant method parameters](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_23.html#Sec3)
+    1. [Compile-time and run-time constants](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_23.html#Sec4)
+    1. [Constant guideline](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_23.html#Sec5)
+1. [CHAPTER 17: Interface](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_24.html)
+    1. [Interface members](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_24.html#Sec1)
+    1. [Interface example](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_24.html#Sec2)
+    1. [Functionality interface](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_24.html#Sec3)
+    1. [Class interface](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_24.html#Sec4)
+    1. [Interface classes](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_24.html#Sec5)
+1. [CHAPTER 18: Abstract](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_25.html)
+    1. [Abstract class example](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_25.html#Sec1)
+    1. [Abstract classes and interfaces](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_25.html#Sec2)
+    1. [Abstract class and interface guideline](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_25.html#Sec3)
+1. [CHAPTER 19: Enum](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_26.html)
+    1. [Enum example](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_26.html#Sec1)
+    1. [Enum class](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_26.html#Sec2)
+1. [CHAPTER 20: Exception Handling](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_27.html)
+    1. [Try-catch](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_27.html#Sec1)
+    1. [Catch block](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_27.html#Sec2)
+    1. [Finally block](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_27.html#Sec3)
+    1. [Throwing exceptions](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_27.html#Sec4)
+    1. [Checked and unchecked exceptions](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_27.html#Sec5)
+    1. [Exception hierarchy](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_27.html#Sec6)
+1. [CHAPTER 21: Boxing and Unboxing](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_28.html)
+    1. [Autoboxing and autounboxing](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_28.html#Sec1)
+    1. [Primitive and wrapper guideline](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_28.html#Sec2)
+1. [CHAPTER 22: Generics](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_29.html)
+    1. [Generic classes](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_29.html#Sec1)
+    1. [Generic methods](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_29.html#Sec2)
+    1. [Calling generic methods](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_29.html#Sec3)
+    1. [Generic interfaces](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_29.html#Sec4)
+    1. [Generic type parameters](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_29.html#Sec5)
+    1. [Generic variable usages](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_29.html#Sec6)
+    1. [Bounded type parameters](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_29.html#Sec7)
+    1. [Generics and Object](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_29.html#Sec8)
+1. [Index](https://ebookreading.net/view/book/Java+Quick+Syntax+Reference-EB9781430262862_30.html)

@@ -1,0 +1,90 @@
+![Cover image for Cucumber Recipes](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781941222607.jpg)
+
+[Cucumber Recipes](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_1.html "Cucumber Recipes")
+====================================================================================================================
+
+Author : [Aslak Hellesoy](https://ebookreading.net/search/author/Aslak+Hellesoy),[ Matt Wynne](https://ebookreading.net/search/author/+Matt+Wynne),[ Ian Dees](https://ebookreading.net/search/author/+Ian+Dees)
+
+Release Date : 2013/02/01
+
+ISBN : 9781941222607
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+You can test just about anything with Cucumber.  We certainly have, and in Cucumber Recipes we'll show you how to apply our hard-won field experience to your own projects.  Once you've mastered the basics, this book will show you how to get the most out of Cucumber--from specific situations to advanced test-writing advice. With over forty practical recipes, you'll test desktop, web, mobile, and server applications across a variety of platforms. This book gives you tools that you can use today to automate any system that you encounter, and do it well.
+              
+Table of Contents
+-----------------
+
+1. [Cucumber Recipes](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_2.html)
+1. [For the Best Reading Experience...](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_4.html)
+1. [Table of Contents](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_5.html)
+1. [Early Praise for Cucumber Recipes](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_6.html)
+1. [Foreword](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_7.html)
+    1. [Agile](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_8.html)
+    1. [Patterns](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_9.html)
+    1. [Platforms](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_10.html)
+    1. [Progress](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_11.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_12.html)
+1. [Introduction](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_13.html)
+    1. [Who This Book Is For](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_14.html)
+    1. [How to Use This Book](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_15.html)
+    1. [Getting the Tools You’ll Need](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_16.html)
+    1. [Online Resources](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_17.html)
+1. [Chapter 1: Cucumber Techniques](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_18.html)
+    1. [Compare and Transform Tables of Data](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_19.html)
+    1. [Generate an RTF Report with a Custom Formatter](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_20.html)
+    1. [Run Slow Setup/Teardown Code with Global Hooks](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_21.html)
+    1. [Refactor to Extract Your Own Application Driver DSL](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_22.html)
+    1. [Define Steps as Regular Ruby Methods](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_23.html)
+    1. [Compare Images](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_24.html)
+    1. [Test Across Multiple Cores](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_25.html)
+    1. [Test Across Multiple Machines with SSH](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_26.html)
+    1. [Run Your Features Automatically with Guard and Growl](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_27.html)
+    1. [Add Cucumber to Your Continuous Integration Server](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_28.html)
+    1. [Publish Your Documentation on Relish](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_29.html)
+    1. [Test Through Multiple Interfaces Using Worlds](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_30.html)
+    1. [Manipulate Time](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_31.html)
+    1. [Drive Cucumber’s Wire Protocol](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_32.html)
+    1. [Implement a Wire Protocol Listener](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_33.html)
+1. [Chapter 2: Java](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_34.html)
+    1. [Use Cucumber Directly with JRuby](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_35.html)
+    1. [Use Cucumber with Java via Cucumber-JVM](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_36.html)
+    1. [Drive a Spring + Hibernate Project](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_37.html)
+    1. [Test a Grails App Using grails-cucumber](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_38.html)
+    1. [Test Scala Code](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_39.html)
+    1. [Test Clojure Code](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_40.html)
+    1. [Drive a Swing Interface with FEST](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_41.html)
+1. [Chapter 3: .NET and Windows](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_42.html)
+    1. [Get Good Text Output on Windows](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_43.html)
+    1. [Test .NET Code with SpecFlow](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_44.html)
+    1. [Drive a Windows App Using White](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_45.html)
+    1. [Test Windows GUIs with AutoIt](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_46.html)
+    1. [Test on Windows Phone](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_47.html)
+1. [Chapter 4: Mobile and Web](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_48.html)
+    1. [Test on iOS Using Frank](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_49.html)
+    1. [Test Android Apps with Calabash](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_50.html)
+    1. [Parse HTML Tables](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_51.html)
+    1. [Drive JavaScript/CoffeeScript Using Cucumber-JS](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_52.html)
+    1. [Test a Web App Using Watir](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_53.html)
+    1. [Test a PHP App with cuke4php](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_54.html)
+    1. [Play Back Canned Network Data Using VCR](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_55.html)
+    1. [Drive a Flash App Using Cuke4AS3](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_56.html)
+    1. [Monitor a Web Service Using Nagios and Cucumber](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_57.html)
+1. [Chapter 5: Other Languages and Platforms](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_58.html)
+    1. [Drive a Mac GUI Using AppleScript and System Events](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_59.html)
+    1. [Drive a Mac GUI Using MacRuby and AXElements](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_60.html)
+    1. [Test Python Code Using Lettuce](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_61.html)
+    1. [Test Erlang Code](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_62.html)
+    1. [Test Lua Code Using cucumber-lua](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_63.html)
+    1. [Test a GUI on Linux, Mac, or Windows with Sikuli](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_64.html)
+    1. [Test an Arduino Project Using Serial](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_65.html)
+1. [Appendix 1: RSpec Expectations](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_66.html)
+    1. [Basics](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_67.html)
+    1. [Custom Matchers](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_68.html)
+    1. [Alternatives](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_69.html)
+1. [Bibliography](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_70.html)
+    1. [You May Be Interested In…](https://ebookreading.net/view/book/Cucumber+Recipes-EB9781941222607_71.html)

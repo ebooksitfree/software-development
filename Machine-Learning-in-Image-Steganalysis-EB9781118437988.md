@@ -1,0 +1,120 @@
+![Cover image for Machine Learning in Image Steganalysis](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781118437988.jpg)
+
+[Machine Learning in Image Steganalysis](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_1.html "Machine Learning in Image Steganalysis")
+====================================================================================================================
+
+Author : [Hans Georg Schaathun](https://ebookreading.net/search/author/Hans+Georg+Schaathun)
+
+Release Date : 2012/10/01
+
+ISBN : 9781118437988
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+Steganography is the art of communicating a secret message, hiding the very existence of a secret message. This is typically done by hiding the message within a non-sensitive document. Steganalysis is the art and science of detecting such hidden messages.  The task in steganalysis is to take an object (communication) and classify it as either a steganogram or a clean document. Most recent solutions apply classification algorithms from machine learning and pattern recognition, which tackle problems too complex for analytical solution by teaching computers to learn from empirical data.
+Part 1 of the book is an introduction to steganalysis as part of the wider trend of multimedia forensics, as well as a practical tutorial on machine learning in this context. Part 2 is a survey of a wide range of feature vectors proposed for steganalysis with performance tests and comparisons. Part 3 is an in-depth study of machine learning techniques and classifier algorithms, and presents a critical assessment of the experimental methodology and applications in steganalysis.
+Key features:
+Serves as a tutorial on the topic of steganalysis with brief introductions to much of the basic theory provided, and also presents a survey of the latest research.
+Develops and formalises the application of machine learning in steganalysis; with much of the understanding of machine learning to be gained from this book adaptable for future study of machine learning in other applications.
+Contains Python programs and algorithms to allow the reader to modify and reproduce outcomes discussed in the book.
+Includes companion software available from the author's website.
+              
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_1.html)
+1. [Title Page](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_3.html)
+1. [Copyright](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_4.html)
+1. [Preface](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_5.html)
+1. [Chapter 1: Introduction](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_6.html)
+    1. [1.1 Real Threat or Hype?](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_6.html#c01_level1_1)
+    1. [1.2 Artificial Intelligence and Learning](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_6.html#c01_level1_2)
+    1. [1.3 How to Read this Book](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_6.html#c01_level1_3)
+1. [Chapter 2: Steganography and Steganalysis](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_7.html)
+    1. [2.1 Cryptography versus Steganography](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_7.html#c02_level1_1)
+    1. [2.2 Steganography](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_7.html#c02_level1_2)
+    1. [2.3 Steganalysis](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_7.html#c02_level1_3)
+    1. [2.4 Summary and Notes](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_7.html#c02_level1_4)
+1. [Chapter 3: Getting Started with a Classifier](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_8.html)
+    1. [3.1 Classification](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_8.html#c03_level1_1)
+    1. [3.2 Estimation and Confidence](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_8.html#c03_level1_2)
+    1. [3.3 Using libSVM](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_8.html#c03_level1_3)
+    1. [3.4 Using Python](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_8.html#c03_level1_4)
+    1. [3.5 Images for Testing](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_8.html#c03_level1_5)
+    1. [3.6 Further Reading](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_8.html#c03_level1_6)
+1. [Chapter 4: Histogram Analysis](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_9.html)
+    1. [4.1 Early Histogram Analysis](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_9.html#c04_level1_1)
+    1. [4.2 Notation](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_9.html#c04_level1_2)
+    1. [4.3 Additive Independent Noise](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_9.html#c04_level1_3)
+    1. [4.4 Multi-dimensional Histograms](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_9.html#c04_level1_4)
+    1. [4.5 Experiment and Comparison](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_9.html#c04_level1_5)
+1. [Chapter 5: Bit-plane Analysis](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_10.html)
+    1. [5.1 Visual Steganalysis](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_10.html#c05_level1_1)
+    1. [5.2 Autocorrelation Features](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_10.html#c05_level1_2)
+    1. [5.3 Binary Similarity Measures](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_10.html#c05_level1_3)
+    1. [5.4 Evaluation and Comparison](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_10.html#c05_level1_4)
+1. [Chapter 6: More Spatial Domain Features](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_11.html)
+    1. [6.1 The Difference Matrix](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_11.html#c06_level1_1)
+    1. [6.2 Image Quality Measures](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_11.html#c06_level1_2)
+    1. [6.3 Colour Images](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_11.html#c06_level1_3)
+    1. [6.4 Experiment and Comparison](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_11.html#c06_level1_4)
+1. [Chapter 7: The Wavelets Domain](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_12.html)
+    1. [7.1 A Visual View](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_12.html#c07_level1_1)
+    1. [7.2 The Wavelet Domain](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_12.html#c07_level1_2)
+    1. [7.3 Farid&#39;s Features](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_12.html#c07_level1_3)
+    1. [7.4 HCF in the Wavelet Domain](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_12.html#c07_level1_4)
+    1. [7.5 Denoising and the WAM Features](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_12.html#c07_level1_5)
+    1. [7.6 Experiment and Comparison](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_12.html#c07_level1_6)
+1. [Chapter 8: Steganalysis in the JPEG Domain](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_13.html)
+    1. [8.1 JPEG Compression](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_13.html#c08_level1_1)
+    1. [8.2 Histogram Analysis](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_13.html#c08_level1_2)
+    1. [8.3 Blockiness](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_13.html#c08_level1_3)
+    1. [8.4 Markov Model-based Features](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_13.html#c08_level1_4)
+    1. [8.5 Conditional Probabilities](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_13.html#c08_level1_5)
+    1. [8.6 Experiment and Comparison](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_13.html#c08_level1_6)
+1. [Chapter 9: Calibration Techniques](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_14.html)
+    1. [9.1 Calibrated Features](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_14.html#c09_level1_1)
+    1. [9.2 JPEG Calibration](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_14.html#c09_level1_2)
+    1. [9.3 Calibration by Downsampling](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_14.html#c09_level1_3)
+    1. [9.4 Calibration in General](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_14.html#c09_level1_4)
+    1. [9.5 Progressive Randomisation](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_14.html#c09_level1_5)
+1. [Chapter 10: Simulation and Evaluation](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_15.html)
+    1. [10.1 Estimation and Simulation](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_15.html#c10_level1_1)
+    1. [10.2 Scalar Measures](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_15.html#c10_level1_2)
+    1. [10.3 The Receiver Operating Curve](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_15.html#c10_level1_3)
+    1. [10.4 Experimental Methodology](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_15.html#c10_level1_4)
+    1. [10.5 Comparison and Hypothesis Testing](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_15.html#c10_level1_5)
+    1. [10.6 Summary](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_15.html#c10_level1_6)
+1. [Chapter 11: Support Vector Machines](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_16.html)
+    1. [11.1 Linear Classifiers](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_16.html#c11_level1_1)
+    1. [11.2 The Kernel Function](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_16.html#c11_level1_2)
+    1. [11.3 ν-SVM](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_16.html#c11_level1_3)
+    1. [11.4 Multi-class Methods](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_16.html#c11_level1_4)
+    1. [11.5 One-class Methods](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_16.html#c11_level1_5)
+    1. [11.6 Summary](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_16.html#c11_level1_6)
+1. [Chapter 12: Other Classification Algorithms](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_17.html)
+    1. [12.1 Bayesian Classifiers](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_17.html#c12_level1_1)
+    1. [12.2 Estimating Probability Distributions](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_17.html#c12_level1_2)
+    1. [12.3 Multivariate Regression Analysis](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_17.html#c12_level1_3)
+    1. [12.4 Unsupervised Learning](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_17.html#c12_level1_4)
+    1. [12.5 Summary](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_17.html#c12_level1_5)
+1. [Chapter 13: Feature Selection and Evaluation](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_18.html)
+    1. [13.1 Overfitting and Underfitting](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_18.html#c13_level1_1)
+    1. [13.2 Scalar Feature Selection](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_18.html#c13_level1_2)
+    1. [13.3 Feature Subset Selection](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_18.html#c13_level1_3)
+    1. [13.4 Selection Using Information Theory](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_18.html#c13_level1_4)
+    1. [13.5 Boosting Feature Selection](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_18.html#c13_level1_5)
+    1. [13.6 Applications in Steganalysis](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_18.html#c13_level1_6)
+1. [Chapter 14: The Steganalysis Problem](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_19.html)
+    1. [14.1 Different Use Cases](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_19.html#c14_level1_1)
+    1. [14.2 Images and Training Sets](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_19.html#c14_level1_2)
+    1. [14.3 Composite Classifier Systems](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_19.html#c14_level1_3)
+    1. [14.4 Summary](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_19.html#c14_level1_4)
+1. [Chapter 15: Future of the Field](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_20.html)
+    1. [15.1 Image Forensics](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_20.html#c15_level1_1)
+    1. [15.2 Conclusions and Notes](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_20.html#c15_level1_2)
+1. [Bibliography](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_21.html)
+1. [Index](https://ebookreading.net/view/book/Machine+Learning+in+Image+Steganalysis-EB9781118437988_22.html)

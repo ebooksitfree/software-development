@@ -1,0 +1,122 @@
+![Cover image for Java™ After Hours: 10 Projects You&#39;ll Never Do at Work](https://imgdetail.ebookreading.net/cover/cover/software_development/EB0672327473.jpg)
+
+[Java™ After Hours: 10 Projects You&#39;ll Never Do at Work](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_1.html "Java™ After Hours: 10 Projects You&#39;ll Never Do at Work")
+====================================================================================================================
+
+Author : [Steven Holzner](https://ebookreading.net/search/author/Steven+Holzner)
+
+Release Date : 2005/06/01
+
+ISBN : 0672327473
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+Take your Java programming skills beyond the ordinary. Java After Hours: 10 Projects You'll Never Do at Work will make Java your playground with ten detailed projects that will have you exploring the various fields that Java offers to build exciting new programs. You'll learn to:
+Create graphics interactively on Web servers
+Send images to Web browsers
+Tinker with Java's Swing package to make it do seemingly impossible things
+Search websites and send e-mail from Java programs
+Use multithreading, Ant and more!
+Increase your Java arsenal by taking control of Java and explore its possibilities with Java After Hours.
+              
+Table of Contents
+-----------------
+
+1. [Copyright](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_1.html)
+1. [About the Author](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_2.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_3.html)
+1. [We Want to Hear from You!](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_4.html)
+1. [Introduction](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_5.html)
+1. [Making Fish Swim in the Multithreaded Aquarium](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_6.html)
+    1. [Building the Aquarium](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_7.html)
+    1. [Loading the Fish](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_8.html)
+    1. [Moving Those Fish](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_9.html)
+    1. [Double-Buffering the Drawing](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_10.html)
+    1. [Creating the Fish](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_11.html)
+    1. [Making the Fish Swim](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_12.html)
+    1. [Drawing the Fish](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_13.html)
+    1. [Conclusion](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_14.html)
+1. [Slapshot! The Interactive Hockey Game](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_15.html)
+    1. [Creating the Rink](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_16.html)
+    1. [Starting a Game](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_17.html)
+    1. [Moving Those Pucks](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_18.html)
+    1. [Getting the Pucks to Bounce Off Each Other](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_19.html)
+    1. [How the Computer Blocks Pucks](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_20.html)
+    1. [How the User Blocks Pucks](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_21.html)
+    1. [Setting the Speed](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_22.html)
+    1. [Creating the Pucks](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_23.html)
+    1. [Conclusion](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_24.html)
+1. [The Graphicizer Image-Editing and Conversion Tool](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_25.html)
+    1. [Creating the Graphicizer Window](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_26.html)
+    1. [Opening an Image File](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_27.html)
+    1. [Painting the Image](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_28.html)
+    1. [Saving an Image File](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_29.html)
+    1. [Embossing an Image](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_30.html)
+    1. [Sharpening an Image](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_31.html)
+    1. [Brightening an Image](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_32.html)
+    1. [Blurring an Image](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_33.html)
+    1. [Reducing an Image](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_34.html)
+    1. [Undoing a Change](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_35.html)
+    1. [Conclusion](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_36.html)
+1. [Creating Stunning Graphics with Painter](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_37.html)
+    1. [Creating the Painter Window](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_38.html)
+    1. [Handling Menu Selections](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_39.html)
+    1. [Handling the Mouse](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_40.html)
+    1. [Drawing Some Graphics](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_41.html)
+    1. [Drawing Lines](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_42.html)
+    1. [Drawing Ellipses](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_43.html)
+    1. [Drawing Rectangles](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_44.html)
+    1. [Drawing Rounded Rectangles](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_45.html)
+    1. [Drawing Freehand](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_46.html)
+    1. [Drawing Text](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_47.html)
+    1. [Drawing the Final Image](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_48.html)
+    1. [Setting Colors](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_49.html)
+    1. [Conclusion](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_50.html)
+1. [Chatting on the Internet with the Chat Room](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_51.html)
+    1. [Creating the Chat HTML Page](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_52.html)
+    1. [Creating JSP Pages](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_53.html)
+    1. [Getting the Tomcat Web Server](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_54.html)
+    1. [Using Some Java in JSP](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_55.html)
+    1. [Reading Data from HTML Controls in JSP](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_56.html)
+    1. [Using Request Objects](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_57.html)
+    1. [Using the Session and Application Objects](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_58.html)
+    1. [Creating a Hit Counter Using Sessions](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_59.html)
+    1. [Creating a Hit Counter Using Applications](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_60.html)
+    1. [Displaying the Current User Comments](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_61.html)
+    1. [Storing New Comments](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_62.html)
+    1. [Conclusion](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_63.html)
+1. [Who&#39;s There? Logging Access to Your Website with WebLogger](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_64.html)
+    1. [All About Filters](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_65.html)
+    1. [Creating a Simple Filter](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_66.html)
+    1. [Restricting Access Based on Time of Day](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_67.html)
+    1. [Restricting Access Based on Password](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_68.html)
+    1. [Creating WebLogger](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_69.html)
+    1. [Conclusion](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_70.html)
+1. [Running Any Program Via Remote Control with the Robot](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_71.html)
+    1. [Running the Robot](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_72.html)
+    1. [Creating the Robot&#39;s Window](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_73.html)
+    1. [Reading the Robot&#39;s Commands](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_74.html)
+    1. [Executing Commands](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_75.html)
+    1. [Making the Robot Reappear](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_76.html)
+    1. [Conclusion](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_77.html)
+1. [Creating a Custom Web Browser in Java: The Browser Project](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_78.html)
+    1. [Introducing the SWT](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_79.html)
+    1. [Getting the SWT](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_80.html)
+    1. [Creating an SWT Application](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_81.html)
+    1. [Working with SWT Events](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_82.html)
+    1. [Using SWT Toolbars](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_83.html)
+    1. [Creating the Browser Project](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_84.html)
+    1. [Conclusion](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_85.html)
+1. [Typing Across the Internet: The Intercom Project](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_86.html)
+    1. [Using the Intercom](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_87.html)
+    1. [Creating Intercom 1](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_88.html)
+    1. [Creating Intercom 2](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_89.html)
+    1. [Conclusion](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_90.html)
+1. [Getting a Graphical Weather Forecast: The Forecaster Project](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_91.html)
+    1. [Creating the Forecaster JSP](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_92.html)
+    1. [Creating the Desktop Version](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_93.html)
+    1. [Conclusion](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_94.html)
+1. [Index](https://ebookreading.net/view/book/Java%E2%84%A2+After+Hours%3A+10+Projects+You%26%2339%3Bll+Never+Do+at+Work-EB0672327473_95.html)
