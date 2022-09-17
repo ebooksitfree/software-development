@@ -1,0 +1,101 @@
+![Cover image for Introduction to Blockchain and Ethereum](https://imgdetail.ebookreading.net/cover/cover/business/EB9781789612714.jpg)
+
+[Introduction to Blockchain and Ethereum](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_1.html "Introduction to Blockchain and Ethereum")
+====================================================================================================================
+
+Author : [Fatima Castiglione Maldonado](https://ebookreading.net/search/author/Fatima+Castiglione+Maldonado)
+
+Release Date : 2018/09/01
+
+ISBN : 9781789612714
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+ Build distributed applications that resolve data ownership issues when working with transactions between multiple parties
+Key FeaturesExplore a perfect balance between theories and hands-on activities Discover popular Blockchain use cases such as Bitcoin Create your first smart contract in Solidity for Ethereum Blockchain applications provide a single-shared ledger to eliminate trust issues involving multiple stakeholders. With the help of Introduction to Blockchain and Ethereum, you'll learn how to create distributed Blockchain applications which do not depend on a central server or datacenter. The course begins by explaining Bitcoin, Altcoins, and Ethereum, followed by taking you through distributed programming using the Solidity language on the Ethereum Blockchain. By the end of this course, you'll be able to write, compile, and deploy your own smart contracts to the Ethereum Blockchain. 
+What you will learnGrasp Blockchain concepts such as private and public keys, addresses, wallets, and hashes Send and analyze transactions in the Ethereum Rinkeby test network Compile and deploy your own ERC20-compliant smart contracts and tokens Test your smart contracts using MyEtherWallet Create a distributed web interface for your contract Combine Solidity and JavaScript to create your very own decentralized application Who this book is forIntroduction to Blockchain and Ethereum is ideal for you if you want to get to grips with Blockchain technology and develop your own distributed applications with smart contracts written in Solidity. Prior exposure to an object-oriented programming language such as JavaScript is needed, as you'll cover the basics before getting straight to work. 
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Preface](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-1)
+    1. [About the Book](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-2)
+        1. [About the Author](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-3)
+        1. [Objectives](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-4)
+        1. [Audience](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-5)
+        1. [Approach](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-6)
+        1. [Minimum Hardware Requirements](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-7)
+        1. [Software Requirements](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-8)
+        1. [Installing the Code Bundle](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-9)
+        1. [Additional Resources](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-10)
+        1. [Conventions](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_3.html#_idParaDest-11)
+1. [Ethereum Blockchain](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-12)
+    1. [Introduction](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-13)
+    1. [Introducing the Ethereum Blockchain](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-14)
+        1. [The Blockchain Data Structure](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-15)
+        1. [Public Key Cryptography](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-16)
+        1. [Distributed Ledgers](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-17)
+        1. [Consensus Mechanism](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-18)
+        1. [Introducing Cryptocurrencies](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-19)
+        1. [Introducing Networks and Smart Contracts ](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-20)
+    1. [Cryptology and Keys](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-21)
+        1. [Traditional Codes and Cryptography](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-22)
+        1. [New Cryptography](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-23)
+    1. [Opening an Ethereum Account](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-24)
+        1. [Account Numbers and their Associated Private Keys](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-25)
+        1. [Wallets](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-26)
+        1. [Exercise 1: Creating a Wallet and Safeguarding its Information](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-27)
+        1. [Private Keys and Public Keys](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-28)
+        1. [Using your Wallet](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-29)
+        1. [Exercise 2: Getting the Toy Ether from the Rinkeby Test Network ](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-30)
+    1. [The Ethereum Network, Nodes, and Mining](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-31)
+        1. [The Ethereum Network](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-32)
+        1. [Nodes](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-33)
+        1. [Mining ](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-34)
+    1. [Transactions and Blocks](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-35)
+        1. [Transactions and Calls](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-36)
+        1. [Calls](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-37)
+        1. [Exercise 3: Calling the Ethereum Network](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-38)
+        1. [Transactions, Transaction Hashes, and Gas](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-39)
+        1. [Blocks and Block Hashes](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-40)
+        1. [Confirmations](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-41)
+    1. [Sending and Checking Transactions](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-42)
+        1. [Sending Transactions](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-43)
+        1. [Exercise 4: Sending and Receiving Transactions](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-44)
+        1. [Receiving Transactions](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-45)
+        1. [Checking Transactions](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-46)
+    1. [Summary](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_4.html#_idParaDest-47)
+1. [Learning Solidity](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-48)
+    1. [Introduction](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-49)
+    1. [The Solidity Language](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-50)
+    1. [Your First Smart Contract](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-51)
+        1. [Activity 1: Creating an Ethereum Token](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-52)
+        1. [Exercise 5: Using Remix to Compile Our Token](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-53)
+    1. [Basic Solidity](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-54)
+        1. [Solidity Data Types](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-55)
+        1. [Global and Local Variables](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-56)
+        1. [Collections](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-57)
+        1. [Mappings](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-58)
+        1. [Exercise 6: Creating Our Own Collection](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-59)
+    1. [Testing Solidity](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-60)
+        1. [Exercise 7: Deploying and Testing a Smart Contract](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-61)
+    1. [Summary](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_5.html#_idParaDest-62)
+1. [Solidity Contracts](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-63)
+    1. [Introduction](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-64)
+    1. [Your First dApp](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-65)
+        1. [Architecture of a dApp](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-66)
+        1. [Ganache](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-67)
+        1. [Exercise 8: Using MetaMask to connect to Ganache](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-68)
+        1. [Voting Contract](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-69)
+        1. [Compiling and Deploying Contracts](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-70)
+        1. [A Simple Web Page](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-71)
+    1. [Using an Oracle](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-72)
+        1. [Interface](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-73)
+        1. [Payment](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-74)
+        1. [Calculating Payments](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-75)
+        1. [Request Types](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-76)
+        1. [Functions and Getters](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-77)
+    1. [Summary](https://ebookreading.net/view/book/Introduction+to+Blockchain+and+Ethereum-EB9781789612714_6.html#_idParaDest-78)
