@@ -1,0 +1,102 @@
+![Cover image for Analytical Performance Modeling for Computer Systems, 3rd Edition](https://imgdetail.ebookreading.net/cover/cover/20200920/EB9781681733906.jpg)
+
+[Analytical Performance Modeling for Computer Systems, 3rd Edition](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_1.html "Analytical Performance Modeling for Computer Systems, 3rd Edition")
+====================================================================================================================
+
+Author : [Y.C. Tay](https://ebookreading.net/search/author/Y.C.+Tay)
+
+Release Date : 2018/07/01
+
+Book Description
+-----------------
+
+
+    
+    Engineering mechanics is one of the fundamental branches of science that is important in the education of professional engineers of any major. Most of the basic engineering courses, such as mechanics of materials, fluid and gas mechanics, machine design, mechatronics, acoustics, vibrations, etc. are based on engineering mechanics courses. In order to absorb the materials of engineering mechanics, it is not enough to consume just theoretical laws and theorems—a student also must develop an ability to solve practical problems. Therefore, it is necessary to solve many problems independently. This book is a part of a four-book series designed to supplement the engineering mechanics courses. This series instructs and applies the principles required to solve practical engineering problems in the following branches of mechanics: statics, kinematics, dynamics, and advanced kinetics. Each book contains between 6 and 8 topics on its specific branch and each topic features 30 problems to be assigned as homework, tests, and/or midterm/final exams with the consent of the instructor. A solution of one similar sample problem from each topic is provided.
+This first book contains seven topics of statics, the branch of mechanics concerned with the analysis of forces acting on construction systems without an acceleration (a state of the static equilibrium). The book targets the undergraduate students of the sophomore/junior level majoring in science and engineering.
+
+  
+
+Table of Contents
+-----------------
+
+1. [Preface (1/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_4.html)
+1. [Preface (2/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_5.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_6.html)
+1. [Preliminaries (1/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_7.html)
+1. [Preliminaries (2/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_8.html)
+1. [Concepts and Little's Law](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_9.html)
+    1. [Concepts](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_9.html)
+    1. [Open and Closed Systems](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_10.html)
+    1. [Little's Law](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_11.html)
+    1. [Discussion of Papers](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_11.html)
+1. [Single Queues](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_12.html)
+    1. [Applying Little's Law to a 1-server Queue](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_12.html)
+    1. [Queue Specification](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_13.html)
+    1. [Pollaczek–Khinchin Formula](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_14.html)
+    1. [Discussion of Papers](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_15.html)
+1. [Open Systems](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_16.html)
+    1. [Residual Life](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_16.html)
+    1. [Birth-Death Process](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_17.html)
+    1. [Open Queueing Networks: Jackson Networks](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_18.html)
+    1. [Discussion of Papers](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_19.html)
+1. [Markov Chains](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_20.html)
+    1. [Markov Chain for a Closed Network](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_20.html)
+    1. [Markov Chain for a Multi-Class Network](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_21.html)
+    1. [State Aggregation](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_22.html)
+    1. [Discussion of Papers](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_22.html)
+1. [Closed Systems](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_23.html)
+    1. [Poisson Arrivals See Time Averages (PASTA)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_23.html)
+    1. [Arrival Theorem](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_24.html)
+    1. [Mean Value Analysis (MVA)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_25.html)
+    1. [Discussion of Papers](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_26.html)
+1. [Bottlenecks and Flow Equivalence](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_27.html)
+    1. [Bottleneck Analysis](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_27.html)
+    1. [Flow Equivalence](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_28.html)
+    1. [Equivalence Between Open and Closed](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_29.html)
+    1. [Discussion of Papers (1/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_30.html)
+    1. [Discussion of Papers (2/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_31.html)
+1. [Deterministic Approximations](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_32.html)
+    1. [Average Value Approximation (AVA)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_32.html)
+    1. [Fluid Approximation](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_33.html)
+    1. [Discussion of Papers (1/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_34.html)
+    1. [Discussion of Papers (2/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_35.html)
+1. [Transient Analysis](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_36.html)
+    1. [Decomposing an Equilibrium](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_36.html)
+    1. [Epidemic Models](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_37.html)
+    1. [Discussion of Papers (1/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_38.html)
+    1. [Discussion of Papers (2/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_39.html)
+1. [Experimental Validation and Analysis](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_40.html)
+    1. [Case Study: Database Transaction Locking](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_40.html)
+    1. [Model Validation and Experimental Analysis](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_41.html)
+        1. [The Need for Validation](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_41.html)
+        1. [Data Presentation](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_42.html)
+        1. [Real Systems and Workloads](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_42.html)
+        1. [Simulation](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_43.html)
+        1. [Parameter Space Reduction](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_43.html)
+        1. [Uninteresting Regions of Parameter Space](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_44.html)
+        1. [Quantitative Prediction vs. Qualitative Understanding](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_44.html)
+        1. [Analytic Validation](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_45.html)
+    1. [Discussion of Papers](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_45.html)
+1. [Analysis with an Analytical Model](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_48.html)
+    1. [The Science and Art in Performance Modeling](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_48.html)
+        1. [Power](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_48.html)
+        1. [Technique](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_49.html)
+        1. [Assumptions and Approximations](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_49.html)
+        1. [Metrics](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_50.html)
+        1. [Science and Technology](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_50.html)
+        1. [Intuition and Contradiction](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_51.html)
+    1. [Discussion of Papers (1/3)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_52.html)
+    1. [Discussion of Papers (2/3)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_53.html)
+    1. [Discussion of Papers (3/3)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_54.html)
+1. [Exercises (1/4)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_55.html)
+1. [Exercises (2/4)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_56.html)
+1. [Exercises (3/4)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_57.html)
+1. [Exercises (4/4)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_58.html)
+1. [Bibliography (1/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_59.html)
+1. [Bibliography (2/2)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_60.html)
+1. [Author's Biography](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_61.html)
+1. [Index](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_62.html)
+1. [Blank Page (1/3)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_1.html)
+1. [Blank Page (2/3)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_2.html)
+1. [Blank Page (3/3)](https://ebookreading.net/view/book/Analytical+Performance+Modeling+for+Computer+Systems%2C+3rd+Edition-EB9781681733906_3.html)
