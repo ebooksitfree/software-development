@@ -1,0 +1,120 @@
+![Cover image for Beginning iOS Game Development](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781118107324.jpg)
+
+[Beginning iOS Game Development](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_1.html "Beginning iOS Game Development")
+====================================================================================================================
+
+Author : [Patrick Alessi](https://ebookreading.net/search/author/Patrick+Alessi)
+
+Release Date : 2011/12/01
+
+ISBN : 9781118107324
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+Get in the game and start building games for the iPhone or iPad!
+Whether you only have a little experience with iOS programming or even none at all, this accessible guide is ideal for getting started developing games for the iPhone and iPad. Experienced developer and author Patrick Alessi presents the iOS system architecture, gives you the step-by-step of game development, and introduces the languages used to develop games. From the basic building blocks to including drawing, responding to user interaction, animation, and sound, this book provides a one-stop-shop for getting your game up and running.
+Explores the tools and methodology used to develop games for the iPhone and iPad
+Requires no previous experience with building a game for the iOS platform
+Details how iOS games require different considerations than other applications
+Addresses working with the Xcode programming environment, how to draw with the Quartz 2D API, ways to handle user input, and techniques for incorporating animation with Core Animation and sound with Core Audio
+If you're ready to jump on the gaming app bandwagon, then this book is what you need to get started!
+              
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_1.html)
+1. [Introduction](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_22.html)
+1. [Part I: The Tools to Get Started](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_3.html)
+    1. [Chapter 1: Games on iOS](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_4.html)
+        1. [What Makes a Good iOS Game?](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_4.html#c01_level1_1)
+        1. [Developing Your Idea](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_4.html#c01_level1_2)
+        1. [Game-Related Frameworks](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_4.html#c01_level1_3)
+        1. [Summary](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_4.html#c01_level1_4)
+    1. [Chapter 2: The Xcode Programming Environment](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_5.html)
+        1. [The Coding Environment](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_5.html#c02_level1_1)
+        1. [Xcode Debugging Tools](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_5.html#c02_level1_2)
+        1. [Building a Simple Interface](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_5.html#c02_level1_3)
+        1. [Summary](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_5.html#c02_level1_4)
+        1. [Exercises](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_5.html#c02_level1_5)
+    1. [Chapter 3: The C Programming Language](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_6.html)
+        1. [Introducing C](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_6.html#c03_level1_1)
+        1. [Variables and Expressions](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_6.html#c03_level1_2)
+        1. [Loops](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_6.html#c03_level1_3)
+        1. [Execution Flow and Decisions](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_6.html#c03_level1_4)
+        1. [Breaking Up Code with Functions](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_6.html#c03_level1_5)
+        1. [Pointers](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_6.html#c03_level1_6)
+        1. [A Game Example](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_6.html#c03_level1_7)
+        1. [Summary](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_6.html#c03_level1_8)
+        1. [Exercises](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_6.html#c03_level1_9)
+    1. [Chapter 4: The Objective-C Programming Language](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_7.html)
+        1. [Classes and Objects](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_7.html#c04_level1_1)
+        1. [Inheritance](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_7.html#c04_level1_2)
+        1. [Building a Game in Objective-C](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_7.html#c04_level1_3)
+        1. [Summary](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_7.html#c04_level1_4)
+        1. [Exercises](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_7.html#c04_level1_5)
+    1. [Chapter 5: The Cocoa Foundation Framework](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html)
+        1. [Model-View-Controller Architecture](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html#c05_level1_1)
+        1. [Your First iOS Game](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html#c05_level1_2)
+        1. [Building the UI](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html#c05_level1_3)
+        1. [Outlets and Actions](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html#c05_level1_4)
+        1. [Handling Text with NSString](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html#c05_level1_5)
+        1. [Collecting Objects with NSArray](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html#c05_level1_6)
+        1. [Building the Game Model](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html#c05_level1_7)
+        1. [Periodic Events and Timers](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html#c05_level1_8)
+        1. [Summary](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html#c05_level1_9)
+        1. [Exercises](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_8.html#c05_level1_10)
+1. [Part II: Game Building Blocks](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_9.html)
+    1. [Chapter 6: Drawing with UIKit and Core Graphics](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_10.html)
+        1. [Introducing the Drawing Frameworks](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_10.html#c06_level1_1)
+        1. [The Drawing Environment](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_10.html#c06_level1_2)
+        1. [Advanced Drawing with Core Graphics](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_10.html#c06_level1_3)
+        1. [Starting the Blocker game with the BlockView](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_10.html#c06_level1_4)
+        1. [Working with Images](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_10.html#c06_level1_5)
+        1. [Animation and Timing with CADisplayLink](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_10.html#c06_level1_6)
+        1. [Finishing the Blocker Game](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_10.html#c06_level1_7)
+        1. [Summary](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_10.html#c06_level1_8)
+        1. [Exercises](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_10.html#c06_level1_9)
+    1. [Chapter 7: Responding to User Interaction](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_11.html)
+        1. [Events in iOS](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_11.html#c07_level1_1)
+        1. [Building a Simple Touch-Based Game: Simon Says](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_11.html#c07_level1_2)
+        1. [Responding to Motion with the Accelerometer](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_11.html#c07_level1_3)
+        1. [Recognizing Gestures](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_11.html#c07_level1_4)
+        1. [Summary](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_11.html#c07_level1_5)
+        1. [Exercises](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_11.html#c07_level1_6)
+    1. [Chapter 8: Animating Your Graphics](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_12.html)
+        1. [Animating Images with UIImageView](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_12.html#c08_level1_1)
+        1. [Introducing Core Animation](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_12.html#c08_level1_2)
+        1. [A Brief Introduction to Blocks](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_12.html#c08_level1_3)
+        1. [Animating UIView Properties and Transitions](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_12.html#c08_level1_4)
+        1. [Core Animation Basics](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_12.html#c08_level1_5)
+        1. [Summary](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_12.html#c08_level1_6)
+        1. [Exercises](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_12.html#c08_level1_7)
+    1. [Chapter 9: Making Noise with iOS Audio APIs](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_13.html)
+        1. [Playing Simple Sounds with the System Sound Services](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_13.html#c09_level1_1)
+        1. [Playing Sounds with the AV Foundation Framework](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_13.html#c09_level1_2)
+        1. [Media Player Framework](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_13.html#c09_level1_3)
+        1. [Summary](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_13.html#c09_level1_4)
+        1. [Exercises](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_13.html#c09_level1_5)
+    1. [Chapter 10: Building a Networked Game with GameKit](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_14.html)
+        1. [Introducing GameKit](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_14.html#c10_level1_1)
+        1. [Starting Out](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_14.html#c10_level1_2)
+        1. [Networking Your Game](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_14.html#c10_level1_3)
+        1. [NSData and NSCoding](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_14.html#c10_level1_4)
+        1. [Converting Classes to Data with Archives](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_14.html#c10_level1_5)
+        1. [Connecting and Sending Data](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_14.html#c10_level1_6)
+        1. [Running the Game](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_14.html#c10_level1_7)
+        1. [Summary](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_14.html#c10_level1_8)
+        1. [Exercises](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_14.html#c10_level1_9)
+1. [Appendix](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_15.html)
+    1. [Chapter 2](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_15.html#b01_level1_1)
+    1. [Chapter 3](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_15.html#b01_level1_2)
+    1. [Chapter 4](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_15.html#b01_level1_3)
+    1. [Chapter 5](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_15.html#b01_level1_4)
+    1. [Chapter 6](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_15.html#b01_level1_5)
+    1. [Chapter 7](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_15.html#b01_level1_6)
+    1. [Chapter 8](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_15.html#b01_level1_7)
+    1. [Chapter 9](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_15.html#b01_level1_8)
+    1. [Chapter 10](https://ebookreading.net/view/book/Beginning+iOS+Game+Development-EB9781118107324_15.html#b01_level1_9)

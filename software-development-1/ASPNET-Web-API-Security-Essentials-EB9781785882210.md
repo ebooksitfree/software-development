@@ -1,0 +1,148 @@
+![Cover image for ASP.NET Web API Security Essentials](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781785882210.jpg)
+
+[ASP.NET Web API Security Essentials](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_1.html "ASP.NET Web API Security Essentials")
+====================================================================================================================
+
+Author : [Rajesh Gunasundaram](https://ebookreading.net/search/author/Rajesh+Gunasundaram)
+
+Release Date : 2015/11/01
+
+ISBN : 9781785882210
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+ Take the security of your ASP.NET Web API to the next level using some of the most amazing security techniques around
+About This Book
+This book has been completely updated for ASP.NET Web API 2.0 including the new features of ASP.NET Web API such as Cross-Origin Resource Sharing (CORS) and OWIN self-hostingLearn various techniques to secure ASP.NET Web API, including basic authentication using authentication filters, forms, Windows Authentication, external authentication services, and integrating ASP.NET's Identity systemAn easy-to-follow guide to enable SSL, prevent Cross-Site Request Forgery (CSRF) attacks, and enable CORS in ASP.NET Web APIWho This Book Is For
+This book is intended for anyone who has previous knowledge of developing ASP.NET Web API applications. Good working knowledge and experience with C# and.NET Framework are prerequisites for this book.
+What You Will Learn
+Secure your web API by enabling Secured Socket Layer (SSL)Manage your application's user accounts by integrating ASP.NET's Identity systemEnsure the security of your web API by implementing basic authenticationImplement forms and Windows authentication to secure your web APIUse external authentication such as Facebook and Twitter to authenticate a request to a web APIProtect your web API from CSRF attacksEnable CORS in your web API to explicitly allow some cross-origin requests while rejecting othersFortify your web API using OAuth2In Detail
+This book incorporates the new features of ASP.NET Web API 2 that will help you to secure an ASP.NET Web API and make a well-informed decision when choosing the right security mechanism for your security requirements.
+We start by showing you how to set up a browser client to utilize ASP.NET Web API services. We then cover ASP.NET Web API's security architecture, authentication, and authorization to help you secure a web API from unauthorized users. Next, you will learn how to use SSL with ASP.NET Web API, including using SSL client certificates, and integrate the ASP.NET Identity system with ASP.NET Web API.
+We'll show you how to secure a web API using OAuth2 to authenticate against a membership database using OWIN middleware. You will be able to use local logins to send authenticated requests using OAuth2. We also explain how to secure a web API using forms authentication and how users can log in with their Windows credentials using integrated Windows authentication. You will come to understand the need for external authentication services to enable OAuth/OpenID and social media authentication. We'll then help you implement anti-Cross-Site Request Forgery (CSRF) measures in ASP.NET Web API.
+Finally, you will discover how to enable Cross-Origin Resource Sharing (CORS) in your web API application.
+Style and approach
+Each chapter is dedicated to a specific security technique, in a task-based and easy-to-follow way. Most of the chapters are accompanied with source code that demonstrates the step-by-step guidelines of implementing the technique, and includes an explanation of how each technique works.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [ASP.NET Web API Security Essentials](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_2.html)
+    1. [ASP.NET Web API Security Essentials](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_4.html)
+    1. [Credits](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_5.html)
+    1. [About the Author](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_6.html)
+    1. [Acknowledgments](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_7.html)
+    1. [About the Reviewer](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_8.html)
+    1. [www.PacktPub.com](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_9.html)
+        1. [Support files, eBooks, discount offers, and more](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_9.html#ch00lvl1sec01)
+            1. [Why subscribe?](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_9.html#ch00lvl2sec01)
+            1. [Free access for Packt account holders](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_9.html#ch00lvl2sec02)
+    1. [Preface](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_10.html)
+        1. [What this book covers](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_10.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_11.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_12.html)
+            1. [Conventions](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_12.html#ch00lvl2sec03)
+        1. [Reader feedback](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_13.html)
+        1. [Customer support](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_14.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_14.html#ch00lvl2sec04)
+            1. [Errata](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_14.html#ch00lvl2sec06)
+            1. [Piracy](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_14.html#ch00lvl2sec07)
+            1. [Questions](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_14.html#ch00lvl2sec08)
+    1. [1. Setting up a Browser Client](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_15.html)
+        1. [ASP.NET Web API security architecture](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_15.html#ch01lvl1sec07)
+        1. [Setting up your browser client](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_16.html)
+            1. [Implementing Web API lookup service](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_16.html#ch01lvl2sec09)
+                1. [Adding a model](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_16.html#ch01lvl3sec01)
+                1. [Adding a controller](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_16.html#ch01lvl3sec02)
+            1. [Consuming the Web API using JavaScript and jQuery](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_16.html#ch01lvl2sec10)
+                1. [Getting a list of contacts](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_16.html#ch01lvl3sec03)
+                1. [Getting a contact by ID](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_16.html#ch01lvl3sec04)
+                1. [Running the application](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_16.html#ch01lvl3sec05)
+        1. [Authentication and authorization](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_17.html)
+            1. [Authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_17.html#ch01lvl2sec11)
+            1. [Authorization](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_17.html#ch01lvl2sec12)
+        1. [Implementing authentication in HTTP message handlers](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_18.html)
+        1. [Setting the principal](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_19.html)
+        1. [Using the [Authorize] attribute](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_20.html)
+            1. [Global authorization filter](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_20.html#ch01lvl2sec13)
+            1. [Controller level authorization filter](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_20.html#ch01lvl2sec14)
+            1. [Action level authorization filter](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_20.html#ch01lvl2sec15)
+        1. [Custom authorization filters](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_21.html)
+        1. [Authorization inside a controller action](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_22.html)
+        1. [Summary](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_23.html)
+    1. [2. Enabling SSL for ASP.NET Web API](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_24.html)
+        1. [Enforcing SSL in a Web API controller](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_24.html#ch02lvl1sec16)
+        1. [Using client certificates in Web API](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_25.html)
+            1. [Creating an SSL Client Certificate](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_25.html#ch02lvl2sec16)
+            1. [Configuring IIS to accept client certificates](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_25.html#ch02lvl2sec17)
+            1. [Verifying Client Certificates in Web API](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_25.html#ch02lvl2sec18)
+        1. [Summary](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_26.html)
+    1. [3. Integrating ASP.NET Identity System with Web API](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_27.html)
+        1. [Creating an Empty Web API Application](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_27.html#ch03lvl1sec19)
+        1. [Installing the ASP.NET Identity NuGet packages](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_28.html)
+        1. [Setting up ASP.NET Identity 2.1](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_29.html)
+            1. [ASP.NET Identity](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_29.html#ch03lvl2sec19)
+        1. [Defining Web API Controllers and methods](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_30.html)
+            1. [Testing the application](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_30.html#ch03lvl2sec20)
+        1. [Summary](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_31.html)
+    1. [4. Securing Web API Using OAuth2](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_32.html)
+        1. [Hosting OWIN in IIS and adding Web API to the OWIN pipeline](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_32.html#ch04lvl1sec24)
+        1. [Individual User Account authentication flow](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_33.html)
+        1. [Sending an unauthorized request](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_34.html)
+        1. [Get an access token](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_35.html)
+        1. [Send an authenticated request](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_36.html)
+        1. [Summary](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_37.html)
+    1. [5. Enabling Basic Authentication using Authentication Filter in Web API](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_38.html)
+        1. [Basic authentication with IIS](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_38.html#ch05lvl1sec30)
+        1. [Basic authentication with custom membership](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_39.html)
+        1. [Basic authentication using an authentication filter](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_40.html)
+        1. [Setting an authentication filter](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_41.html)
+            1. [Action-level authentication filter](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_41.html#ch05lvl2sec21)
+            1. [Controller-level authentication filter](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_41.html#ch05lvl2sec22)
+            1. [Global-level authentication filter](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_41.html#ch05lvl2sec23)
+        1. [Implementing a Web API authentication filter](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_42.html)
+        1. [Setting an error result](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_43.html)
+        1. [Combining authentication filters with host-level authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_44.html)
+        1. [Summary](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_45.html)
+    1. [6. Securing a Web API using Forms and Windows Authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_46.html)
+        1. [Working of Forms authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_46.html#ch06lvl1sec38)
+        1. [Implementing Forms authentication in Web API](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_47.html)
+        1. [What is Integrated Windows Authentication?](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_48.html)
+        1. [Advantages and disadvantages of using the Integrated Windows Authentication mechanism](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_49.html)
+        1. [Configuring Windows Authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_50.html)
+        1. [Difference between Basic Authentication and Windows authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_51.html)
+        1. [Enabling Windows authentication in Katana](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_52.html)
+        1. [Summary](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_53.html)
+    1. [7. Using External Authentication Services with ASP.NET Web API](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_54.html)
+        1. [Using OWIN external authentication services](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_54.html#ch07lvl1sec46)
+            1. [Creating an ASP.NET MVC Application](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_54.html#ch07lvl2sec24)
+        1. [Implementing Facebook authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_55.html)
+        1. [Implementing Twitter authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_56.html)
+        1. [Implementing Google authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_57.html)
+        1. [Implementing Microsoft authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_58.html)
+        1. [Discussing authentication](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_59.html)
+        1. [Summary](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_60.html)
+    1. [8. Avoiding Cross-Site Request Forgery Attacks in Web API](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_61.html)
+        1. [What is a CSRF attack?](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_61.html#ch08lvl1sec53)
+        1. [Anti-forgery tokens using HTML Form or Razor View](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_62.html)
+            1. [How does an Anti-forgery token work?](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_62.html#ch08lvl2sec25)
+        1. [Anti-forgery tokens using AJAX](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_63.html)
+        1. [Summary](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_64.html)
+    1. [9. Enabling Cross-Origin Resource Sharing (CORS) in ASP.NET Web API](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_65.html)
+        1. [What is CORS?](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_65.html#ch09lvl1sec57)
+        1. [How CORS works](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_66.html)
+        1. [Setting the allowed origins](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_67.html)
+        1. [Setting the allowed HTTP methods](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_68.html)
+        1. [Setting the allowed request headers](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_69.html)
+        1. [Setting the allowed response headers](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_70.html)
+        1. [Passing credentials in cross-origin requests](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_71.html)
+        1. [Enabling CORS at various scope](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_72.html)
+            1. [Enable at action level](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_72.html#ch09lvl2sec26)
+            1. [Enable at controller level](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_72.html#ch09lvl2sec27)
+            1. [Enable CORS globally](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_72.html#ch09lvl2sec28)
+        1. [Summary](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_73.html)
+    1. [Index](https://ebookreading.net/view/book/ASP.NET+Web+API+Security+Essentials-EB9781785882210_74.html)

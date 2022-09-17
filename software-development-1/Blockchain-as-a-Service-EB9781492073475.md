@@ -1,0 +1,102 @@
+![Cover image for Blockchain as a Service](https://imgdetail.ebookreading.net/cover/cover/20200215/EB9781492073475.jpg)
+
+[Blockchain as a Service](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_1.html "Blockchain as a Service")
+====================================================================================================================
+
+Author : [Karen Kilroy](https://ebookreading.net/search/author/Karen+Kilroy)
+
+Release Date : 2019/11/01
+
+ISBN : 9781492073475
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+ While the merits of cryptocurrency continue to be debated, the underlying technology—the blockchain—can be applied in many other ways to solve problems that have plagued organizations for years. To spur adoption of blockchain for these newer use cases, many technology providers and leading businesses have begun offering cloud-based blockchain-as-a-service (BaaS) options. This report brings you up to speed on these emerging opportunities.
+Author Karen Kilroy helps technical business leaders, solutions architects, and innovation officers understand blockchain and evaluate options for BaaS. Through interviews with enterprise blockchain experts and practitioners, you’ll learn how this service model has evolved and what it offers. You’ll also examine the landscape of BaaS offerings, get a project started, and learn where the technology is going.
+You’ll learn:
+Why blockchain is different from a relational database or other distributed ledger technologiesHow blockchain is used in business applicationsThe nuts and bolts of a blockchain network, including participants, assets, transactions, and smart contractsHow to architect a typical BaaS application as a standalone multiuser applicationCurrent BaaS offerings and how to choose the one that’s right for youFive industry-changing use cases for BaaS, including international trade, identity verification, and royalties trackingExamples of how BaaS may be used in the future        Show and hide more                
+Table of Contents
+-----------------
+
+1. [1. Introduction to the Report](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_4.html#introduction_to_the)
+    1. [About This Report](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_4.html#about_this_report)
+    1. [Acknowledgments](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_4.html#acknowledgments)
+1. [2. Overview of Blockchain Technology and Introduction to BaaS](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#overview_of_blockch)
+    1. [Blockchain in Action](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#blockchain_in_actio)
+    1. [           What Is Blockchain?         ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#what_is_blockchain)
+        1. [How Blockchain Works](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#how_blockchain_work)
+    1. [DLT Versus Blockchain](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#dlt_versus_blockcha)
+    1. [Cryptographic Hashes and Immutability](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#cryptographic_hashe)
+    1. [           Validating and Distributing Transactions         ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#validating_and_dist)
+        1. [             Smart Contracts            ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#smart_contracts)
+        1. [             Consensus           ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#consensus_idk7Hc43)
+    1. [           Storage and Containers         ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#storage_and_contain)
+        1. [Where Blocks Are Stored](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#where_blocks_are_st)
+        1. [The World State Database](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#world_state_datab)
+        1. [             Using Containers           ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#using_containers)
+    1. [           Reading and Using            Blockchain            Data         ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#reading_and_using_b)
+    1. [Centralized Components of a Decentralized System](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#centralized_compone)
+        1. [Ordering Service](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#ordering_service)
+    1. [           Enterprise Identity Management         ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#enterprise_identity)
+    1. [           Security         ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#security_idJAJ2bT)
+        1. [Permissioned Versus Permissionless Blockchain](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#permissioned_versus)
+    1. [Three Approaches to Blockchain](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#three_approaches_to)
+        1. [Approach 1: Blockchain Platform](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#approach_1_blockcha)
+        1. [Approach 2: BaaS](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#approach_2_baas)
+            1. [Blockchain Platforms Used for BaaS](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#blockchain_platform)
+        1. [Approach 3: SaaS with Blockchain](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#approach_3_saas_wit)
+    1. [           Consider Your Requirements         ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#consider_your_requi)
+    1. [Summary](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_5.html#summary_idN0LYej)
+1. [3. Planning Your BaaS Use Case](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#planning_your_baas_)
+    1. [Participants, Assets, and Transactions](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#participants_assets)
+        1. [Participants](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#participants)
+        1. [Assets](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#assets_idoHp0uA)
+        1. [Transactions](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#transactions)
+    1. [Smart Contracts and Business Logic](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#smart_contracts_and)
+    1. [Do You Really Need Blockchain?](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#do_you_really_need_)
+        1. [Multiparticipant Workflow](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#multiparticipant_wo)
+        1. [Detection of Tampering and Corruption](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#detection_of_tamper)
+    1. [Do You Need BaaS?](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#do_you_need_baas)
+    1. [Building the Right Development Team](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#building_the_right_)
+    1. [Adopting a Prebuilt BaaS Versus Developing Your Own BaaS or Blockchain Platform](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#adopting_preuilt_ba)
+        1. [When to Build Your Own BaaS or SaaS with Blockchain](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#when_to_build_your_)
+    1. [Summary](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_6.html#summary_idEgjuZX)
+1. [4. Architecture of a BaaS Application](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#architecture_of_a_b)
+    1. [Top Architectural Consideration: Security](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#top_architectural_c)
+    1. [Immutability Versus Privacy](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#immutability_versus)
+    1. [Blockchain Clients](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#blockchain_clients)
+    1. [Decentralized Apps (dApps) Versus Centralized/Decentralized Apps](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#decentralized_apps_)
+    1. [Blockchain Clients and Integration with Existing Systems](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#blockchain_clients_)
+    1. [Standalone Application or Integrated Workflow](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#standalone_applicat)
+    1. [Custom Application Elements](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#custom_application_)
+    1. [Workflow and Integration Scenarios for a BaaS Application](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#workflow_and_integr)
+        1. [Scenario 1: Standalone Multiuser Application](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#scenario_1_standalo)
+        1. [Scenario 2: Integration with APIs and Web Services](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#scenario_2_integrat)
+    1. [Summary](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_7.html#summary_idh5fGUK)
+1. [5. Current BaaS Offerings](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_8.html#current_baas_offeri)
+    1. [Three Approaches to Blockchain](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_8.html#three_approaches_to)
+    1. [The Big Four BaaS Providers](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_8.html#the_big_four_baas_p)
+    1. [Current BaaS Providers](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_8.html#list_of_baas_provid)
+    1. [Choosing a BaaS Provider](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_8.html#choosing_a_baas_pro)
+    1. [Summary](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_8.html#summary_idbciuSF)
+1. [6. BaaS Use Cases](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_9.html#baas_use_cases)
+    1. [BaaS in Action](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_9.html#baas_in_action)
+        1. [Diamond Trading: Everledger](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_9.html#diamond_trading_eve)
+        1. [International Shipping: CargoSmart/Global Shipping Business Network ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_9.html#international_shipp)
+        1. [Trust Your Supplier: IBM](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_9.html#trust_your_supplier)
+        1. [ID Verification: Dun &amp; Bradstreet’s Blockchain Solution](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_9.html#id_verification_dun)
+        1. [Video Game Distribution: Xbox Game Publisher Royalties](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_9.html#video_game_distribu)
+    1. [Summary](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_9.html#summary_idlqPwYC)
+1. [7. Summary: Using BaaS](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_10.html#summary_using_baas)
+    1. [Create Living Partnerships](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_10.html#create_living_partn)
+        1. [Consortiums](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_10.html#consortiums)
+        1. [Ensure Collaboration Between Business and Technical Teams](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_10.html#ensure_collaboratio)
+        1. [Budget for Follow-Through](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_10.html#budget_for_follow_t)
+    1. [Selecting the Best Option ](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_10.html#selecting_the_best_)
+    1. [BaaS in the Future](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_10.html#baas_in_the_future)
+        1. [BaaS in Government](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_10.html#baas_in_government)
+        1. [BaaS and Hardware-Level Security](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_10.html#baas_and_hardware_l)
+    1. [Next Steps](https://ebookreading.net/view/book/Blockchain+as+a+Service-EB9781492073475_10.html#next_steps)

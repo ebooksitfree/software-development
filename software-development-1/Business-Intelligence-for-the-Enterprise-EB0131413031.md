@@ -1,0 +1,132 @@
+![Cover image for Business Intelligence for the Enterprise](https://imgdetail.ebookreading.net/cover/cover/software_development/EB0131413031.jpg)
+
+[Business Intelligence for the Enterprise](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_1.html "Business Intelligence for the Enterprise")
+====================================================================================================================
+
+Author : [Mike Biere](https://ebookreading.net/search/author/Mike+Biere)
+
+Release Date : 2003/06/01
+
+ISBN : 0131413031
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+Making business intelligence work: Start-to-finish guidance for managers
+This book offers a true enterprise view of business intelligence. IBM expert Mike Biere shows managers how to create a coherent BI plan that reflects the needs of users throughout the organization-and then implement that plan successfully. Biere explains how to objectively assess the business case for BI, and identifies proven solutions for the obstacles that lead many BI projects to fail. Coverage includes:
+Setting appropriate expectations and goals for your BI project
+Understanding how the key components of a complete BI solution fit together
+Designing effective BI solutions-including content management, handling unstructured data, and end-user segmentation
+Providing effective support for BI end users
+Introducing Corporate Performance Management (CPM): an executive's view of BI
+Previewing tomorrow's "next wave" in BI solutions
+Comprehensive checklists for planning your BI project
+              
+Table of Contents
+-----------------
+
+1. [Copyright](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_1.html)
+    1. [Dedication](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_1.html#dedi01)
+1. [IBM DB2 Certification Guide Series](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_2.html)
+1. [1. Introduction to Business Intelligence](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_3.html)
+1. [2. Defining Business Intelligence](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html)
+    1. [Query Tools](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html#ch02lev1sec1)
+        1. [The RFI/RFP Factor](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html#ch02lev2sec1)
+    1. [Data Warehouse Processes](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html#ch02lev1sec2)
+    1. [BI Biases and Internal Squabbles](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html#ch02lev1sec3)
+    1. [Establishing a More Global BI Perspective](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html#ch02lev1sec4)
+    1. [BI at the Business Unit and Departmental Levels](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html#ch02lev1sec5)
+    1. [BI at the Enterprise Level](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html#ch02lev1sec6)
+    1. [Hindsight “Rules”](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html#ch02lev1sec7)
+    1. [Intranets/Extranets—Data and Analysis Within You and Without You](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html#ch02lev1sec8)
+    1. [Know Your User Base](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_4.html#ch02lev1sec9)
+1. [3. The History of Business Intelligence](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_5.html)
+    1. [The Early End-User Computing Era](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_5.html#ch03lev1sec1)
+    1. [The Information Center Era](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_5.html#ch03lev1sec2)
+    1. [Charge-Back Systems](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_5.html#ch03lev1sec3)
+    1. [Personal Computers](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_5.html#ch03lev1sec4)
+    1. [The Client/Server Wave](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_5.html#ch03lev1sec5)
+    1. [The Information Warehouse Concept](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_5.html#ch03lev1sec6)
+    1. [The Data Warehouse Era of BI](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_5.html#ch03lev1sec7)
+    1. [Advanced Analytics: Delivering Information to “Mahogany Row”](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_5.html#ch03lev1sec8)
+    1. [BI Milestones](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_5.html#ch03lev1sec9)
+1. [4. The Impact of Business Intelligence](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_6.html)
+    1. [The IT Department and Business Intelligence](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_6.html#ch04lev1sec1)
+    1. [Non-Technical End Users and Business Intelligence](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_6.html#ch04lev1sec2)
+    1. [Business Analysts and Business Intelligence](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_6.html#ch04lev1sec3)
+    1. [External End Users—The Extranet Environment](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_6.html#ch04lev1sec4)
+    1. [Business Intelligence and the Enterprise](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_6.html#ch04lev1sec5)
+1. [5. Content Management and Unstructured Data](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_7.html)
+    1. [Industry-Related Content Management Areas](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_7.html#ch05lev1sec1)
+    1. [Why a Relational Database Can&#39;t Solve This](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_7.html#ch05lev1sec2)
+1. [6. End-User Segmentation](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_8.html)
+    1. [End-User Segmentation](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_8.html#ch06lev1sec1)
+    1. [End-User Attributes](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_8.html#ch06lev1sec2)
+    1. [A Holistic View of the Users](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_8.html#ch06lev1sec3)
+1. [7. Elements of Business Intelligence Solutions](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html)
+    1. [Data Warehouse versus Data Marts](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec1)
+    1. [Setting Up Information for BI Processing](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec2)
+    1. [Data Extraction, Transformation, and Cleansing](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec3)
+    1. [The Data Side of BI](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec4)
+    1. [The Analytics Tools](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec5)
+    1. [End-User Assumptions about Tools](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec6)
+    1. [The Spreadsheet&#39;s Role in BI](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec7)
+    1. [The Three Major Categories of BI Analytics Tools](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec8)
+    1. [Query and Reporting Tools](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec9)
+    1. [Time and Date Elements in Reporting](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec10)
+    1. [OLAP Tools](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec11)
+    1. [Data Mining Tools](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec12)
+    1. [Advanced Analytics—Executive Information Systems (EIS)](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_9.html#ch07lev1sec13)
+1. [8. Justifying Business Intelligence Solutions](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_10.html)
+    1. [ROI: Return on Investment](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_10.html#ch08lev1sec1)
+    1. [Business Impact Justification](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_10.html#ch08lev1sec2)
+    1. [The True Costs of BI](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_10.html#ch08lev1sec3)
+    1. [Big Purchase with No Plan](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_10.html#ch08lev1sec4)
+    1. [Bringing in the “Hired Guns”](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_10.html#ch08lev1sec5)
+    1. [Your Justification Scenario](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_10.html#ch08lev1sec6)
+1. [9. Corporate Performance Management (CPM) and the Executive View of Business Intelligence](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_11.html)
+    1. [Data Readiness and Availability for CPM](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_11.html#ch09lev1sec1)
+    1. [Role-Based Analytics](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_11.html#ch09lev1sec2)
+    1. [Pushing Information: Proactive BI—Effective Communication](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_11.html#ch09lev1sec3)
+    1. [Buy or Build CPM](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_11.html#ch09lev1sec4)
+    1. [A Viable Approach to CPM](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_11.html#ch09lev1sec5)
+1. [10. Platform Selection, Technology Biases, and Other “Traps”](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_12.html)
+    1. [Traditional IT Traps](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_12.html#ch10lev1sec1)
+    1. [The BI Trap](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_12.html#ch10lev1sec2)
+    1. [Evaluating Analytics Usage for User Populations](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_12.html#ch10lev1sec3)
+    1. [The Database Is the Most Critical Choice](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_12.html#ch10lev1sec4)
+    1. [How Well Do Your Approved BI Tools Support the Database Decision?](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_12.html#ch10lev1sec5)
+    1. [A “Typical” History Lesson](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_12.html#ch10lev1sec6)
+1. [11. End-User Support and Productivity](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_13.html)
+    1. [BI Products Are Still Computer-Based](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_13.html#ch11lev1sec1)
+    1. [A “Straw Person” Scenario](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_13.html#ch11lev1sec2)
+    1. [Setting Up BI Support](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_13.html#ch11lev1sec3)
+        1. [Internal Support Issues](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_13.html#ch11lev2sec1)
+        1. [Vendor Support Issues](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_13.html#ch11lev2sec2)
+        1. [Internal Support Issues Addressed](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_13.html#ch11lev2sec3)
+        1. [Vendor Support Issues Addressed](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_13.html#ch11lev2sec4)
+1. [12. Implementation for Business Intelligence Solutions](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_14.html)
+    1. [Back Up and Restore What You Have Already Done](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_14.html#ch12lev1sec1)
+    1. [System Sizing, Measurements, and Dependencies](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_14.html#ch12lev1sec2)
+    1. [Setting Early Expectations and Measuring the Results](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_14.html#ch12lev1sec3)
+    1. [End-User Provisos](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_14.html#ch12lev1sec4)
+    1. [Recap the First Project, and Tune Your Support and Implementation Models](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_14.html#ch12lev1sec5)
+    1. [OLAP Implementations](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_14.html#ch12lev1sec6)
+    1. [Expanding BI Based on What You Now Know](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_14.html#ch12lev1sec7)
+    1. [Establishing a BI Competency Center (BICC)](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_14.html#ch12lev1sec8)
+1. [13. Planning for the Future—What&#39;s the Next Wave of Business Intelligence?](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_15.html)
+    1. [Advanced Analytics](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_15.html#ch13lev1sec1)
+    1. [Database Enhancements and BI](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_15.html#ch13lev1sec2)
+    1. [Thinner and Thinner Clients](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_15.html#ch13lev1sec3)
+    1. [Data Formats with BI Aspects](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_15.html#ch13lev1sec4)
+    1. [Portals](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_15.html#ch13lev1sec5)
+    1. [BI Networks](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_15.html#ch13lev1sec6)
+    1. [Conclusion](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_15.html#ch13lev1sec7)
+1. [A. Checklist for BI Planning](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_16.html)
+    1. [Corporate BI Strategy](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_16.html#app01lev1sec1)
+    1. [End-User Support Strategy](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_16.html#app01lev1sec2)
+    1. [Database and Tools Strategy](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_16.html#app01lev1sec3)
+    1. [Intranet and Extranet Strategy](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_16.html#app01lev1sec4)
+1. [About the Author](https://ebookreading.net/view/book/Business+Intelligence+for+the+Enterprise-EB0131413031_17.html)
