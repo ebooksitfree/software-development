@@ -1,0 +1,80 @@
+![Cover image for The Joy of Dog Training](https://imgdetail.ebookreading.net/cover/cover/202109/EB9781631599712.jpg)
+
+[The Joy of Dog Training](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_1.html "The Joy of Dog Training")
+====================================================================================================================
+
+Release Date : 2020/10/01
+
+ISBN : 9781631599712
+
+Book Description
+-----------------
+
+The Joy of Dog Training&nbsp;is an engaging and interactive guide for training your dog by teaching them 30 fundamental tricks.
+
+Table of Contents
+-----------------
+
+1. [Introduction](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_4.html)
+1. [TIMING THE BASIS OF ANIMAL TRAINING](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html)
+    1. [Get Prepared with Training Tools](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec1)
+    1. [lesson 1 Reward at the Correct Time](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec2a)
+    1. [PRACTICE » Touch My Hand](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec4)
+    1. [lesson 2 Reward in the Correct Position](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec6)
+    1. [PRACTICE » Sit](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec8)
+    1. [lesson 3 Reward Markers &amp;amp; Clickers 3 Reward Markers &amp; Clickers](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec10)
+    1. [PRACTICE » Touch a Target Disc](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec13)
+    1. [lesson 4 Progression](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec15)
+    1. [PRACTICE » Paws in a Box](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec17)
+    1. [lesson 5 Regression](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec19)
+    1. [PRACTICE » Send to a Mark](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec21)
+    1. [Is Your Dog Right-Pawed or Left-Pawed?](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec21a)
+    1. [lesson 6 Teach Verbal Cues](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec23)
+    1. [PRACTICE » Introduce a Verbal Cue](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec25)
+    1. [lesson 7 Visual Guide to Hand Signals](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_5.html#ch00lev1sec27)
+1. [TECHNIQUE THE SIX TOOLS IN OUR TOOLBOX](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html)
+    1. [The Six Ways to Elicit a Behavior](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec28)
+    1. [lesson 8 Luring](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec30)
+    1. [PRACTICE » Spin Circles](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec32)
+    1. [PRACTICE » Paws Up](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec34)
+    1. [lesson 9 Targeting](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec36)
+    1. [PRACTICE » Touch a Target Stick](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec38)
+    1. [Build on Known Behaviors](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec38a)
+    1. [PRACTICE » Down](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec40)
+    1. [lesson 10 Modeling](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec42)
+    1. [PRACTICE » Stay in a Square](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec44)
+    1. [lesson 11 Mimicking](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec46)
+    1. [PRACTICE » Jump over a Bar](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec48)
+    1. [lesson 12 Capturing](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec50)
+    1. [PRACTICE » Speak](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec52)
+    1. [lesson 13 Shaping](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec54)
+    1. [PRACTICE » Pick Up a Toy](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_6.html#ch00lev1sec56)
+1. [MOTIVATION PRINCIPLES OF POSITIVE REINFORCEMENT](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html)
+    1. [You Owe This to Your Dog](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec57)
+    1. [lesson 14 Operant ConditioningThe Motivation Quadrants](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec59)
+    1. [lesson 15 Positive Reinforcement](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec61)
+    1. [PRACTICE » Which Hand Holds the Treat?](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec63)
+    1. [Train Joyfully!](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec63a)
+    1. [lesson 16 Reward Success; Ignore the Rest](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec65)
+    1. [PRACTICE » Cup and Ball Game](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec67)
+    1. [lesson 17 Learning Occurs with Successes](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec69)
+    1. [PRACTICE » Take a Bow](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec71)
+    1. [PRACTICE » Retrieve an Object](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec73)
+    1. [lesson 18 Jackpot Rewards](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec75)
+    1. [lesson 19 Breed Motivation](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec77)
+    1. [lesson 20 Nonfood Rewards](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec79)
+    1. [PRACTICE » Ring a Bell to Go Out](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_7.html#ch00lev1sec81)
+1. [SELF-CONTROL TECHNIQUES TO TURN OFF FRUSTRATION](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_8.html)
+    1. [lesson 21 Impulse Control](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_8.html#ch00lev1sec83)
+    1. [PRACTICE » Loose-Leash Walking](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_8.html#ch00lev1sec85)
+    1. [lesson 22 Extinction](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_8.html#ch00lev1sec87)
+    1. [lesson 23 Positive Redirection](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_8.html#ch00lev1sec89)
+    1. [lesson 24 Home Base](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_8.html#ch00lev1sec91)
+    1. [PRACTICE » Send/Stay on Platform](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_8.html#ch00lev1sec93)
+1. [ENRICHMENT THE SIX COMPONENTS OF JOY](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_9.html)
+    1. [lesson 25 Puzzle Challenges](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_9.html#ch00lev1sec95)
+    1. [lesson 26 Exploration](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_9.html#ch00lev1sec97)
+    1. [lesson 27 Choice](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_9.html#ch00lev1sec99)
+    1. [lesson 28 Desire to Be Loved](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_9.html#ch00lev1sec101)
+    1. [lesson 29 Order](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_9.html#ch00lev1sec103)
+    1. [lesson 30 Sense of Humor and Play](https://ebookreading.net/view/book/The+Joy+of+Dog+Training-EB9781631599712_9.html#ch00lev1sec105)

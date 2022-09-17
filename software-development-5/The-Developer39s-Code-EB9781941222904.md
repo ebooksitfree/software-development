@@ -1,0 +1,93 @@
+![Cover image for The Developer&#39;s Code](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781941222904.jpg)
+
+[The Developer&#39;s Code](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_1.html "The Developer&#39;s Code")
+====================================================================================================================
+
+Author : [Ka Wai Cheung](https://ebookreading.net/search/author/Ka+Wai+Cheung)
+
+Release Date : 2012/02/01
+
+ISBN : 9781941222904
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+You're already a great coder, but awesome coding chops aren't always enough to get you through your toughest projects. You need these 50+ nuggets of wisdom. Veteran programmers: reinvigorate your passion for developing web applications. New programmers: here's the guidance you need to get started. With this book, you'll think about your job in new and enlightened ways.The Developer's Code isn't about the code you write, it's about the code you live by.There are no trite superlatives here. Packed with lessons learned from more than a decade of software development experience, author Ka Wai Cheung takes you through the programming profession from nearly every angle to uncover ways of sustaining a healthy connection with your work.You'll see how to stay productive even on the longest projects. You'll create a workflow that works with you, not against you. And you'll learn how to deal with clients whose goals don't align with your own. If you don't handle them just right, issues such as these can crush even the most seasoned, motivated developer. But with the right approach, you can transcend these common problems and become the professional developer you want to be.In more than 50 nuggets of wisdom, you'll learn:Why many traditional approaches to process and development roles in this industry are wrong - and how to sniff them out.Why you must always say "no" to the software pet project and open-ended timelines.How to incorporate code generation into your development process, and why its benefits go far beyond just faster code output.What to do when your client or end user disagrees with an approach you believe in.How to pay your knowledge forward to future generations of programmers through teaching and evangelism.If you're in this industry for the long run, you'll be coming back to this book again and again.
+              
+Table of Contents
+-----------------
+
+1. [The Developer’s Code](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_2.html)
+    1. [Copyright](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_3.html)
+    1. [For the Best Reading Experience...](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_4.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_5.html)
+    1. [Early Praise for The Developer’s Code](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_6.html)
+    1. [Acknowledgments](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_7.html)
+    1. [Chapter 1: Introduction](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_8.html)
+        1. [Who Is the 21st-Century Programmer?](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_9.html)
+        1. [Discovering the Lessons Firsthand](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_10.html)
+        1. [This Book Is About Us](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_11.html)
+    1. [Chapter 2: Metaphor](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_12.html)
+    1. [Follow Metaphors with Care](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_13.html)
+    1. [Plan Enough, Then Build](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_14.html)
+    1. [Launch Is Just the First Release](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_15.html)
+    1. [The “Ivory Tower” Architect Is a Myth](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_16.html)
+    1. [Throw Away Your Old Code](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_17.html)
+    1. [Diversification Over Specialization](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_18.html)
+    1. [Metaphors Hide Better Ways of Working](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_19.html)
+    1. [Chapter 3: Motivation](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_20.html)
+    1. [The Perks Are in the Work](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_21.html)
+    1. [Begin Where You Love to Begin](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_22.html)
+    1. [Be Imperfect](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_23.html)
+    1. [Stop Programming](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_24.html)
+    1. [Test Your Work First Thing in the Morning](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_25.html)
+    1. [Work Outside the Bedroom](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_26.html)
+    1. [First Impressions Are Just That](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_27.html)
+    1. [The Emotional Value of Launch](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_28.html)
+    1. [Find an Argument](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_29.html)
+    1. [Chapter 4: Productivity](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_30.html)
+    1. [Just Say “No” to the Pet Project](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_31.html)
+    1. [Constrain All of Your Parameters](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_32.html)
+    1. [Cut the Detail Out of the Timeline](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_33.html)
+    1. [Improve Your Product in Two Ways Daily](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_34.html)
+    1. [Invest in a Good Work Environment](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_35.html)
+    1. [Keep a Personal To-Do List](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_36.html)
+    1. [Create “Off-Time” with Your Team](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_37.html)
+    1. [Work in Small, Autonomous Teams](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_38.html)
+    1. [Eliminate the “We” in Productivity](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_39.html)
+    1. [Chapter 5: Complexity](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_40.html)
+    1. [Sniff Out Bad Complexity](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_41.html)
+    1. [The Simplicity Paradox](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_42.html)
+    1. [Complexity as a Game of Pickup Sticks](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_43.html)
+    1. [Keep Complexity Under the Surface](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_44.html)
+    1. [“Hard to Code” Might Mean “Hard to Use”](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_45.html)
+    1. [Know When to Refactor](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_46.html)
+    1. [Develop a Programming Cadence](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_47.html)
+    1. [Chapter 6: Teaching](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_48.html)
+    1. [Teaching Is Unlike Coding](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_49.html)
+    1. [Beware the “Curse of Knowledge”](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_50.html)
+    1. [Teach with Obvious Examples](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_51.html)
+    1. [Lie to Simplify](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_52.html)
+    1. [Encourage Autonomous Thought](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_53.html)
+    1. [Chapter 7: Clients](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_54.html)
+    1. [The Tough Client Is Ubiquitous](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_55.html)
+    1. [Demystify the Black Magic of Software](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_56.html)
+    1. [Define the Goals of Your Application](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_57.html)
+    1. [Be Enthusiastic and Opinionated](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_58.html)
+    1. [Be Forgiving and Personable](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_59.html)
+    1. [Value Is Much More Than Time](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_60.html)
+    1. [Respect Your Project Manager](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_61.html)
+    1. [Chapter 8: Code](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_62.html)
+    1. [Write Code As a Last Resort](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_63.html)
+    1. [A Plug-in Happy Culture](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_64.html)
+    1. [Code Is the Ultimate Junior Developer](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_65.html)
+    1. [Separate Robot Work from Human Work](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_66.html)
+    1. [Generating Code at Its Core](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_67.html)
+    1. [The Case for Rolling Your Own](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_68.html)
+    1. [Chapter 9: Pride](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_69.html)
+        1. [We Have a Marketing Problem](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_70.html)
+        1. [Lessons from the Cooking Industry](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_71.html)
+    1. [Appendix 1: Bibliography](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_72.html)
+        1. [You May Be Interested In…](https://ebookreading.net/view/book/The+Developer%26%2339%3Bs+Code-EB9781941222904_73.html)
