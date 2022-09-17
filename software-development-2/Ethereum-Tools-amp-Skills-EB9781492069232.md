@@ -1,0 +1,96 @@
+![Cover image for Ethereum: Tools &amp; Skills](https://imgdetail.ebookreading.net/cover/cover/business/EB9781492069232.jpg)
+
+[Ethereum: Tools &amp; Skills](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_1.html "Ethereum: Tools &amp; Skills")
+====================================================================================================================
+
+Author : [Tonino Jankov](https://ebookreading.net/search/author/Tonino+Jankov),[ Mislav Javor](https://ebookreading.net/search/author/+Mislav+Javor),[ Ahmed Bouchefra](https://ebookreading.net/search/author/+Ahmed+Bouchefra),[ Bruno Skvorc](https://ebookreading.net/search/author/+Bruno+Skvorc)
+
+Release Date : 2018/08/01
+
+ISBN : 9781492069232
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+ As the Ethereum platform has grown, so has the ecosystem of tools that support it. In this book, we'll examine some of the most popular Ethereum tools, and walk you through how to use them when building your own Ethereum-based apps. It contains:
+Remix: Develop Smart Contracts for the Ethereum Blockchain by Ahmed BouchefraAn Introduction to Geth and Running Ethereum Nodes by Mislav JavorIntroducing Mist, a Human-friendly Geth Interface by Mislav JavorIntroducing Truffle, a Blockchain Smart Contract Suite by Mislav JavorQuality Solidity Code with OpenZeppelin and Friends by Tonino JankovTruffle: Testing Smart Contracts by Mislav JavorTruffle Migrations Explained by Mislav JavorFlattening Contracts and Debugging with Remix by Ahmed BouchefraDebugging with Truffle CLI by Mislav JavorUsing Puppeth, the Ethereum Private Network Manager by Bruno SkvorcThis book is for anyone interested in using the Ethereum platform for development. It's advised that you read The Developer's Guide to Ethereum before reading this book if you are not familiar with blockchain technology.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Ethereum: Tools &amp; Skills](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_1.html)
+1. [Notice of Rights](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_1.html#sigil_toc_id_1)
+1. [Notice of Liability](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_1.html#sigil_toc_id_2)
+1. [Trademark Notice](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_1.html#sigil_toc_id_3)
+1. [About SitePoint](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_1.html#sigil_toc_id_4)
+1. [Preface](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_2.html)
+    1. [Who Should Read This Book?](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_2.html#who-should-read-thi)
+    1. [Conventions Used](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_2.html#preface-conventions)
+1. [Chapter 1: emix: Develop Smart Contracts for the Ethereum Blockchain](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_3.html)
+    1. [Accessing the Remix IDE](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_3.html#accessingtheremixid)
+    1. [Remix Panels](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_3.html#remixpanels)
+    1. [Remix Execution Environments](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_3.html#remixexecutionenvir)
+    1. [Using Remix IDE to Compile and Deploy a Smart Contract](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_3.html#usingremixidetocomp)
+    1. [Remix Alternatives](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_3.html#remixalternatives)
+    1. [Conclusion](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_3.html#conclusion)
+1. [Chapter 2: An Introduction to Geth and Running Ethereum Nodes](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_4.html)
+    1. [Types of Nodes](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_4.html#typesofnodes)
+    1. [Installing Geth](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_4.html#installinggeth)
+    1. [Running Geth](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_4.html#runninggeth)
+    1. [Creating a New Account](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_4.html#creatinganewaccount)
+    1. [Accessing Geth from Other Clients](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_4.html#accessinggethfromot)
+    1. [Conclusion](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_4.html#conclusion)
+1. [Chapter 3: Introducing Mist, a Human-friendly Geth Interface](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_5.html)
+    1. [What is Mist?](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_5.html#whatismist)
+    1. [Mist: First Run](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_5.html#mistfirstrun)
+    1. [Mist: Addresses](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_5.html#mistaddresses)
+    1. [Sending and Receiving Ether](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_5.html#sendingandreceiving)
+    1. [Contracts](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_5.html#contracts)
+    1. [Conclusion](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_5.html#conclusion)
+1. [Chapter 4: Introducing Truffle, a Blockchain Smart Contract Suite](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_6.html)
+    1. [Installing Truffle](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_6.html#installingtruffle)
+    1. [Getting Started](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_6.html#gettingstarted)
+    1. [The Truffle Project Structure](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_6.html#thetruffleprojectst)
+    1. [Migrations Folder](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_6.html#migrationsfolder)
+    1. [Test Folder](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_6.html#testfolder)
+    1. [Configuration File](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_6.html#configurationfile)
+    1. [Running the Code](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_6.html#runningthecode)
+    1. [Conclusion](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_6.html#conclusion)
+1. [Chapter 5: Quality Solidity Code with OpenZeppelin and Friends](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_7.html)
+    1. [Helper Tools](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_7.html#helpertools)
+    1. [ICO patterns](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_7.html#icopatterns)
+    1. [ZeppelinOs](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_7.html#zeppelinos)
+    1. [Truffle Boxes](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_7.html#truffleboxes)
+    1. [TokenMarket](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_7.html#tokenmarket)
+    1. [ConsenSys](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_7.html#consensys)
+    1. [Conclusion](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_7.html#conclusion)
+1. [Chapter 6: Truffle: Testing Smart Contracts](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_8.html)
+    1. [Getting Started](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_8.html#gettingstarted)
+    1. [Testing Smart Contracts](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_8.html#testingsmartcontrac)
+    1. [JavaScript Testing](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_8.html#javascripttesting)
+1. [Chapter 7: Truffle Migrations Explained](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_9.html)
+    1. [Prerequisites](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_9.html#prerequisites)
+    1. [Getting Started](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_9.html#gettingstarted)
+    1. [Initial Migrations](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_9.html#initialmigrations)
+    1. [Migrations Data](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_9.html#migrationsdata)
+    1. [Writing Migrations](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_9.html#writingmigrations)
+    1. [Conclusion](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_9.html#conclusion)
+1. [Chapter 8: Flattening Contracts and Debugging with Remix](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_10.html)
+    1. [Why Flatten a Smart Contract?](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_10.html#whyflattenasmartcon)
+    1. [Writing a Simple Token Using Truffle and OpenZeppelin](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_10.html#writingasimpletoken)
+    1. [Debugging the Custom Token Contract](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_10.html#debuggingthecustomt)
+    1. [Conclusion](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_10.html#conclusion)
+1. [Chapter 9: Debugging with Truffle CLI](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_11.html)
+    1. [Solidity Debugger](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_11.html#soliditydebugger)
+    1. [Getting Started](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_11.html#gettingstarted)
+    1. [Setting Up the Project](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_11.html#settinguptheproject)
+    1. [Writing and Deploying the Contract](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_11.html#writinganddeploying)
+    1. [Using the Debugger](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_11.html#usingthedebugger)
+1. [Chapter 10: Using Puppeth, the Ethereum Private Network Manager](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_12.html)
+    1. [Bootstrapping](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_12.html#bootstrapping)
+    1. [Prerequisites](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_12.html#prerequisites)
+    1. [Puppeth](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_12.html#puppeth)
+    1. [Deploying Network Components](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_12.html#deployingnetworkcom)
+    1. [Conclusion](https://ebookreading.net/view/book/Ethereum%3A+Tools+%26amp%3B+Skills-EB9781492069232_12.html#conclusion)

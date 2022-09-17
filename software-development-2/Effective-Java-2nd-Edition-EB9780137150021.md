@@ -1,0 +1,131 @@
+![Cover image for Effective Java, 2nd Edition](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9780137150021.jpg)
+
+[Effective Java, 2nd Edition](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_1.html "Effective Java, 2nd Edition")
+====================================================================================================================
+
+Author : [Joshua Bloch](https://ebookreading.net/search/author/Joshua+Bloch)
+
+Release Date : 2008/05/01
+
+ISBN : 9780137150021
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+Are you looking for a deeper understanding of the Java™ programming language so that you can write code that is clearer, more correct, more robust, and more reusable? Look no further! Effective Java™, Second Edition, brings together seventy-eight indispensable programmer’s rules of thumb: working, best-practice solutions for the programming challenges you encounter every day.
+This highly anticipated new edition of the classic, Jolt Award-winning work has been thoroughly updated to cover Java SE 5 and Java SE 6 features introduced since the first edition. Bloch explores new design patterns and language idioms, showing you how to make the most of features ranging from generics to enums, annotations to autoboxing.
+Each chapter in the book consists of several “items” presented in the form of a short, standalone essay that provides specific advice, insight into Java platform subtleties, and outstanding code examples. The comprehensive descriptions and explanations for each item illuminate what to do, what not to do, and why.
+Highlights include:
+ New coverage of generics, enums, annotations, autoboxing, the for-each loop, varargs, concurrency utilities, and much more 
+ Updated techniques and best practices on classic topics, including objects, classes, libraries, methods, and serialization 
+ How to avoid the traps and pitfalls of commonly misunderstood subtleties of the language 
+ Focus on the language and its most fundamental libraries: java.lang, java.util, and, to a lesser extent, java.util.concurrent and java.io 
+Simply put, Effective Java™, Second Edition, presents the most practical, authoritative guidelines available for writing efficient, well-designed programs.
+              
+Table of Contents
+-----------------
+
+1. [Copyright](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_1.html)
+    1. [Dedication](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_1.html#ded01)
+1. [Praise for the First Edition](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_2.html)
+1. [The Java™ Series](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_3.html)
+1. [Foreword](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_4.html)
+1. [Preface](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_5.html)
+    1. [Preface to the Second Edition](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_5.html#pref04lev1sec1)
+    1. [Preface to the First Edition](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_5.html#pref04lev1sec2)
+1. [Acknowledgments](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_6.html)
+    1. [Acknowledgments for the Second Edition](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_6.html#pref05lev1sec1)
+    1. [Acknowledgments for the First Edition](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_6.html#pref05lev1sec2)
+1. [1. Introduction](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_7.html)
+1. [2. Creating and Destroying Objects](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_8.html)
+    1. [Item 1: Consider static factory methods instead of constructors](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_8.html#ch02lev1sec1)
+    1. [Item 2: Consider a builder when faced with many constructor parameters](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_8.html#ch02lev1sec2)
+    1. [Item 3: Enforce the singleton property with a private constructor or an enum type](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_8.html#ch02lev1sec3)
+    1. [Item 4: Enforce noninstantiability with a private constructor](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_8.html#ch02lev1sec4)
+    1. [Item 5: Avoid creating unnecessary objects](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_8.html#ch02lev1sec5)
+    1. [Item 6: Eliminate obsolete object references](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_8.html#ch02lev1sec6)
+    1. [Item 7: Avoid finalizers](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_8.html#ch02lev1sec7)
+1. [3. Methods Common to All Objects](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_9.html)
+    1. [Item 8: Obey the general contract when overriding equals](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_9.html#ch03lev1sec1)
+    1. [Item 9: Always override hashCode when you override equals](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_9.html#ch03lev1sec2)
+    1. [Item 10: Always override toString](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_9.html#ch03lev1sec3)
+    1. [Item 11: Override clone judiciously](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_9.html#ch03lev1sec4)
+    1. [Item 12: Consider implementing Comparable](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_9.html#ch03lev1sec5)
+1. [4. Classes and Interfaces](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html)
+    1. [Item 13: Minimize the accessibility of classes and members](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html#ch04lev1sec1)
+    1. [Item 14: In public classes, use accessor methods, not public fields](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html#ch04lev1sec2)
+    1. [Item 15: Minimize mutability](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html#ch04lev1sec3)
+    1. [Item 16: Favor composition over inheritance](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html#ch04lev1sec4)
+    1. [Item 17: Design and document for inheritance or else prohibit it](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html#ch04lev1sec5)
+    1. [Item 18: Prefer interfaces to abstract classes](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html#ch04lev1sec6)
+    1. [Item 19: Use interfaces only to define types](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html#ch04lev1sec7)
+    1. [Item 20: Prefer class hierarchies to tagged classes](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html#ch04lev1sec8)
+    1. [Item 21: Use function objects to represent strategies](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html#ch04lev1sec9)
+    1. [Item 22: Favor static member classes over nonstatic](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_10.html#ch04lev1sec10)
+1. [5. Generics](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_11.html)
+    1. [Item 23: Don’t use raw types in new code](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_11.html#ch05lev1sec1)
+    1. [Item 24: Eliminate unchecked warnings](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_11.html#ch05lev1sec2)
+    1. [Item 25: Prefer lists to arrays](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_11.html#ch05lev1sec3)
+    1. [Item 26: Favor generic types](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_11.html#ch05lev1sec4)
+    1. [Item 27: Favor generic methods](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_11.html#ch05lev1sec5)
+    1. [Item 28: Use bounded wildcards to increase API flexibility](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_11.html#ch05lev1sec6)
+    1. [Item 29: Consider typesafe heterogeneous containers](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_11.html#ch05lev1sec7)
+1. [6. Enums and Annotations](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_12.html)
+    1. [Item 30: Use enums instead of int constants](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_12.html#ch06lev1sec1)
+    1. [Item 31: Use instance fields instead of ordinals](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_12.html#ch06lev1sec2)
+    1. [Item 32: Use EnumSet instead of bit fields](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_12.html#ch06lev1sec3)
+    1. [Item 33: Use EnumMap instead of ordinal indexing](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_12.html#ch06lev1sec4)
+    1. [Item 34: Emulate extensible enums with interfaces](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_12.html#ch06lev1sec5)
+    1. [Item 35: Prefer annotations to naming patterns](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_12.html#ch06lev1sec6)
+    1. [Item 36: Consistently use the Override annotation](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_12.html#ch06lev1sec7)
+    1. [Item 37: Use marker interfaces to define types](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_12.html#ch06lev1sec8)
+1. [7. Methods](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_13.html)
+    1. [Item 38: Check parameters for validity](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_13.html#ch07lev1sec1)
+    1. [Item 39: Make defensive copies when needed](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_13.html#ch07lev1sec2)
+    1. [Item 40: Design method signatures carefully](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_13.html#ch07lev1sec3)
+    1. [Item 41: Use overloading judiciously](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_13.html#ch07lev1sec4)
+    1. [Item 42: Use varargs judiciously](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_13.html#ch07lev1sec5)
+    1. [Item 43: Return empty arrays or collections, not nulls](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_13.html#ch07lev1sec6)
+    1. [Item 44: Write doc comments for all exposed API elements](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_13.html#ch07lev1sec7)
+1. [8. General Programming](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html)
+    1. [Item 45: Minimize the scope of local variables](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec1)
+    1. [Item 46: Prefer for-each loops to traditional for loops](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec2)
+    1. [Item 47: Know and use the libraries](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec3)
+    1. [Item 48: Avoid float and double if exact answers are required](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec4)
+    1. [Item 49: Prefer primitive types to boxed primitives](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec5)
+    1. [Item 50: Avoid strings where other types are more appropriate](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec6)
+    1. [Item 51: Beware the performance of string concatenation](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec7)
+    1. [Item 52: Refer to objects by their interfaces](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec8)
+    1. [Item 53: Prefer interfaces to reflection](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec9)
+    1. [Item 54: Use native methods judiciously](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec10)
+    1. [Item 55: Optimize judiciously](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec11)
+    1. [Item 56: Adhere to generally accepted naming conventions](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_14.html#ch08lev1sec12)
+1. [9. Exceptions](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_15.html)
+    1. [Item 57: Use exceptions only for exceptional conditions](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_15.html#ch09lev1sec1)
+    1. [Item 58: Use checked exceptions for recoverable conditions and runtime exceptions for programming errors](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_15.html#ch09lev1sec2)
+    1. [Item 59: Avoid unnecessary use of checked exceptions](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_15.html#ch09lev1sec3)
+    1. [Item 60: Favor the use of standard exceptions](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_15.html#ch09lev1sec4)
+    1. [Item 61: Throw exceptions appropriate to the abstraction](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_15.html#ch09lev1sec5)
+    1. [Item 62: Document all exceptions thrown by each method](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_15.html#ch09lev1sec6)
+    1. [Item 63: Include failure-capture information in detail messages](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_15.html#ch09lev1sec7)
+    1. [Item 64: Strive for failure atomicity](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_15.html#ch09lev1sec8)
+    1. [Item 65: Don’t ignore exceptions](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_15.html#ch09lev1sec9)
+1. [10. Concurrency](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_16.html)
+    1. [Item 66: Synchronize access to shared mutable data](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_16.html#ch10lev1sec1)
+    1. [Item 67: Avoid excessive synchronization](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_16.html#ch10lev1sec2)
+    1. [Item 68: Prefer executors and tasks to threads](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_16.html#ch10lev1sec3)
+    1. [Item 69: Prefer concurrency utilities to wait and notify](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_16.html#ch10lev1sec4)
+    1. [Item 70: Document thread safety](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_16.html#ch10lev1sec5)
+    1. [Item 71: Use lazy initialization judiciously](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_16.html#ch10lev1sec6)
+    1. [Item 72: Don’t depend on the thread scheduler](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_16.html#ch10lev1sec7)
+    1. [Item 73: Avoid thread groups](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_16.html#ch10lev1sec8)
+1. [11. Serialization](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_17.html)
+    1. [Item 74: Implement Serializable judiciously](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_17.html#ch11lev1sec1)
+    1. [Item 75: Consider using a custom serialized form](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_17.html#ch11lev1sec2)
+    1. [Item 76: Write readObject methods defensively](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_17.html#ch11lev1sec3)
+    1. [Item 77: For instance control, prefer enum types to readResolve](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_17.html#ch11lev1sec4)
+    1. [Item 78: Consider serialization proxies instead of serialized instances](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_17.html#ch11lev1sec5)
+1. [Items Corresponding to First Edition](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_18.html)
+1. [References](https://ebookreading.net/view/book/Effective+Java%2C+2nd+Edition-EB9780137150021_19.html)

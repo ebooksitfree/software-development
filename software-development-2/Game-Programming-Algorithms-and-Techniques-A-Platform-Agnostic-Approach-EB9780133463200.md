@@ -1,0 +1,172 @@
+![Cover image for Game Programming Algorithms and Techniques: A Platform-Agnostic Approach](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9780133463200.jpg)
+
+[Game Programming Algorithms and Techniques: A Platform-Agnostic Approach](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_1.html "Game Programming Algorithms and Techniques: A Platform-Agnostic Approach")
+====================================================================================================================
+
+Author : [Sanjay Madhav](https://ebookreading.net/search/author/Sanjay+Madhav)
+
+Release Date : 2013/12/01
+
+ISBN : 9780133463200
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+Game Programming Algorithms and Techniques is a detailed overview of many of the important algorithms and techniques used in video game programming today. Designed for programmers who are familiar with object-oriented programming and basic data structures, this book focuses on practical concepts that see actual use in the game industry.
+Sanjay Madhav takes a unique platform- and framework-agnostic approach that will help develop virtually any game, in any genre, with any language or framework. He presents the fundamental techniques for working with 2D and 3D graphics, physics, artificial intelligence, cameras, and much more.
+Each concept is illuminated with pseudocode that will be intuitive to any C#, Java, or C++ programmer, and has been refined and proven in Madhav’s game programming courses at the University of Southern California. Review questions after each chapter help solidify the most important concepts before moving on.
+Madhav concludes with a detailed analysis of two complete games: a 2D iOS side-scroller (written in Objective-Cusing cocos2d) and a 3D PC/Mac/Linux tower defense game (written in C# using XNA/ MonoGame). These games illustrate many of the algorithms and techniques covered in the earlier chapters, and the full source code is available at gamealgorithms.net.
+Coverage includes
+ Game time management, speed control, and ensuring consistency on diverse hardware 
+ Essential 2D graphics techniques for modern mobile gaming 
+ Vectors, matrices, and linear algebra for 3D games 
+ 3D graphics including coordinate spaces, lighting and shading, z-buffering, and quaternions 
+ Handling today’s wide array of digital and analog inputs 
+ Sound systems including sound events, 3D audio, and digital signal processing 
+ Fundamentals of game physics, including collision detection and numeric integration 
+ Cameras: first-person, follow, spline, and more 
+ Artificial intelligence: pathfinding, state-based behaviors, and strategy/planning 
+ User interfaces including menu systems and heads-up displays 
+ Scripting and text-based data files: when, how, and where to use them 
+ Basics of networked games including protocols and network topology 
+              
+Table of Contents
+-----------------
+
+1. [About This eBook](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_2.html)
+1. [Title Page](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_3.html)
+1. [Copyright Page](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_4.html)
+1. [Dedication Page](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_5.html)
+1. [Contents](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_6.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_7.html)
+1. [About the Author](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_8.html)
+1. [Preface](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_9.html)
+    1. [Why Another Game Programming Book?](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_9.html#pref03lev1sec1)
+    1. [Who Should Read This Book?](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_9.html#pref03lev1sec2)
+    1. [How This Book Is Organized](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_9.html#pref03lev1sec3)
+    1. [Book Features and Conventions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_9.html#pref03lev1sec4)
+    1. [Companion Website](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_9.html#pref03lev1sec5)
+1. [Chapter 1. Game Programming Overview](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_10.html)
+    1. [Evolution of Video Game Programming](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_10.html#ch01lev1sec1)
+    1. [The Game Loop](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_10.html#ch01lev1sec2)
+    1. [Time and Games](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_10.html#ch01lev1sec3)
+    1. [Game Objects](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_10.html#ch01lev1sec4)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_10.html#ch01lev1sec5)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_10.html#ch01lev1sec6)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_10.html#ch01lev1sec7)
+1. [Chapter 2. 2D Graphics](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_11.html)
+    1. [2D Rendering Foundations](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_11.html#ch02lev1sec1)
+    1. [Sprites](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_11.html#ch02lev1sec2)
+    1. [Scrolling](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_11.html#ch02lev1sec3)
+    1. [Tile Maps](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_11.html#ch02lev1sec4)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_11.html#ch02lev1sec5)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_11.html#ch02lev1sec6)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_11.html#ch02lev1sec7)
+1. [Chapter 3. Linear Algebra for Games](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_12.html)
+    1. [Vectors](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_12.html#ch03lev1sec1)
+    1. [Matrices](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_12.html#ch03lev1sec2)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_12.html#ch03lev1sec3)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_12.html#ch03lev1sec4)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_12.html#ch03lev1sec5)
+1. [Chapter 4. 3D Graphics](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_13.html)
+    1. [Basics](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_13.html#ch04lev1sec1)
+    1. [Coordinate Spaces](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_13.html#ch04lev1sec2)
+    1. [Lighting and Shading](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_13.html#ch04lev1sec3)
+    1. [Visibility](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_13.html#ch04lev1sec4)
+    1. [World Transform, Revisited](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_13.html#ch04lev1sec5)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_13.html#ch04lev1sec6)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_13.html#ch04lev1sec7)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_13.html#ch04lev1sec8)
+1. [Chapter 5. Input](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_14.html)
+    1. [Input Devices](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_14.html#ch05lev1sec1)
+    1. [Event-Based Input Systems](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_14.html#ch05lev1sec2)
+    1. [Mobile Input](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_14.html#ch05lev1sec3)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_14.html#ch05lev1sec4)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_14.html#ch05lev1sec5)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_14.html#ch05lev1sec6)
+1. [Chapter 6. Sound](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_15.html)
+    1. [Basic Sound](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_15.html#ch06lev1sec1)
+    1. [3D Sound](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_15.html#ch06lev1sec2)
+    1. [Digital Signal Processing](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_15.html#ch06lev1sec3)
+    1. [Other Sound Topics](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_15.html#ch06lev1sec4)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_15.html#ch06lev1sec5)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_15.html#ch06lev1sec6)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_15.html#ch06lev1sec7)
+1. [Chapter 7. Physics](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_16.html)
+    1. [Planes, Rays, and Line Segments](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_16.html#ch07lev1sec1)
+    1. [Collision Geometry](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_16.html#ch07lev1sec2)
+    1. [Collision Detection](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_16.html#ch07lev1sec3)
+    1. [Physics-Based Movement](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_16.html#ch07lev1sec4)
+    1. [Physics Middleware](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_16.html#ch07lev1sec5)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_16.html#ch07lev1sec6)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_16.html#ch07lev1sec7)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_16.html#ch07lev1sec8)
+1. [Chapter 8. Cameras](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_17.html)
+    1. [Types of Cameras](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_17.html#ch08lev1sec1)
+    1. [Perspective Projections](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_17.html#ch08lev1sec2)
+    1. [Camera Implementations](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_17.html#ch08lev1sec3)
+    1. [Camera Support Algorithms](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_17.html#ch08lev1sec4)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_17.html#ch08lev1sec5)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_17.html#ch08lev1sec6)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_17.html#ch08lev1sec7)
+1. [Chapter 9. Artificial Intelligence](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_18.html)
+    1. [“Real” AI versus Game AI](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_18.html#ch09lev1sec1)
+    1. [Pathfinding](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_18.html#ch09lev1sec2)
+    1. [State-Based Behaviors](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_18.html#ch09lev1sec3)
+    1. [Strategy and Planning](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_18.html#ch09lev1sec4)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_18.html#ch09lev1sec5)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_18.html#ch09lev1sec6)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_18.html#ch09lev1sec7)
+1. [Chapter 10. User Interfaces](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_19.html)
+    1. [Menu Systems](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_19.html#ch10lev1sec1)
+    1. [HUD Elements](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_19.html#ch10lev1sec2)
+    1. [Other UI Considerations](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_19.html#ch10lev1sec3)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_19.html#ch10lev1sec4)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_19.html#ch10lev1sec5)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_19.html#ch10lev1sec6)
+1. [Chapter 11. Scripting Languages and Data Formats](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_20.html)
+    1. [Scripting Languages](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_20.html#ch11lev1sec1)
+    1. [Implementing a Scripting Language](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_20.html#ch11lev1sec2)
+    1. [Data Formats](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_20.html#ch11lev1sec3)
+    1. [Case Study: UI Mods in World of Warcraft](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_20.html#ch11lev1sec4)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_20.html#ch11lev1sec5)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_20.html#ch11lev1sec6)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_20.html#ch11lev1sec7)
+1. [Chapter 12. Networked Games](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_21.html)
+    1. [Protocols](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_21.html#ch12lev1sec1)
+    1. [Network Topology](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_21.html#ch12lev1sec2)
+    1. [Cheating](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_21.html#ch12lev1sec3)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_21.html#ch12lev1sec4)
+    1. [Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_21.html#ch12lev1sec5)
+    1. [Additional References](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_21.html#ch12lev1sec6)
+1. [Chapter 13. Sample Game: Side-Scroller for iOS](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_22.html)
+    1. [Overview](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_22.html#ch13lev1sec1)
+    1. [Code Analysis](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_22.html#ch13lev1sec2)
+    1. [Exercises](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_22.html#ch13lev1sec3)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_22.html#ch13lev1sec4)
+1. [Chapter 14. Sample Game: Tower Defense for PC/Mac](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_23.html)
+    1. [Overview](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_23.html#ch14lev1sec1)
+    1. [Code Analysis](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_23.html#ch14lev1sec2)
+    1. [Exercises](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_23.html#ch14lev1sec3)
+    1. [Summary](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_23.html#ch14lev1sec4)
+1. [Appendix A. Answers to Review Questions](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html)
+    1. [Chapter 1: Game Programming Overview](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec1)
+    1. [Chapter 2: 2D Graphics](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec2)
+    1. [Chapter 3: Linear Algebra for Games](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec3)
+    1. [Chapter 4: 3D Graphics](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec4)
+    1. [Chapter 5: Input](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec5)
+    1. [Chapter 6: Sound](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec6)
+    1. [Chapter 7: Physics](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec7)
+    1. [Chapter 8: Cameras](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec8)
+    1. [Chapter 9: Artificial Intelligence](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec9)
+    1. [Chapter 10: User Interfaces](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec10)
+    1. [Chapter 11: Scripting Languages and Data Formats](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec11)
+    1. [Chapter 12: Networked Games](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_24.html#app01lev1sec12)
+1. [Appendix B. Useful Tools for Programmers](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_25.html)
+    1. [Debugger](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_25.html#app02lev1sec1)
+    1. [Source Control](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_25.html#app02lev1sec2)
+    1. [Diff and Merging Tools](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_25.html#app02lev1sec3)
+    1. [Issue Tracking](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_25.html#app02lev1sec4)
+1. [Index](https://ebookreading.net/view/book/Game+Programming+Algorithms+and+Techniques%3A+A+Platform-Agnostic+Approach-EB9780133463200_26.html)

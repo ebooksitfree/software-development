@@ -1,0 +1,155 @@
+![Cover image for Getting Started with Python Data Analysis](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781785285110.jpg)
+
+[Getting Started with Python Data Analysis](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_1.html "Getting Started with Python Data Analysis")
+====================================================================================================================
+
+Author : [Martin Czygan](https://ebookreading.net/search/author/Martin+Czygan),[ Phuong Vo.T.H](https://ebookreading.net/search/author/+Phuong+Vo.T.H)
+
+Release Date : 2015/11/01
+
+ISBN : 9781785285110
+
+Topic : [Software Development](https://ebookreading.net/search/category/software-development)
+
+Book Description
+-----------------
+
+Learn to use powerful Python libraries for effective data processing and analysis
+About This Book
+Learn the basic processing steps in data analysis and how to use Python in this area through supported packages, especially Numpy, Pandas, and MatplotlibCreate, manipulate, and analyze your data to extract useful information to optimize your systemA hands-on guide to help you learn data analysis using PythonWho This Book Is For
+If you are a Python developer who wants to get started with data analysis and you need a quick introductory guide to the python data analysis libraries, then this book is for you.
+What You Will Learn
+Understand the importance of data analysis and get familiar with its processing stepsGet acquainted with Numpy to use with arrays and array-oriented computing in data analysisCreate effective visualizations to present your data using MatplotlibProcess and analyze data using the time series capabilities of PandasInteract with different kind of database systems, such as file, disk format, Mongo, and RedisApply the supported Python package to data analysis applications through examplesExplore predictive analytics and machine learning algorithms using Scikit-learn, a Python libraryIn Detail
+Data analysis is the process of applying logical and analytical reasoning to study each component of data. Python is a multi-domain, high-level, programming language. It’s often used as a scripting language because of its forgiving syntax and operability with a wide variety of different eco-systems. Python has powerful standard libraries or toolkits such as Pylearn2 and Hebel, which offers a fast, reliable, cross-platform environment for data analysis.
+With this book, we will get you started with Python data analysis and show you what its advantages are.
+The book starts by introducing the principles of data analysis and supported libraries, along with NumPy basics for statistic and data processing. Next it provides an overview of the Pandas package and uses its powerful features to solve data processing problems.
+Moving on, the book takes you through a brief overview of the Matplotlib API and some common plotting functions for DataFrame such as plot. Next, it will teach you to manipulate the time and data structure, and load and store data in a file or database using Python packages. The book will also teach you how to apply powerful packages in Python to process raw data into pure and helpful data using examples.
+Finally, the book gives you a brief overview of machine learning algorithms, that is, applying data analysis results to make decisions or build helpful products, such as recommendations and predictions using scikit-learn.
+Style and approach
+This is an easy-to-follow, step-by-step guide to get you familiar with data analysis and the libraries supported by Python. Topics are explained with real-world examples wherever required.
+Downloading the example code for this book. You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the code file.
+              
+Table of Contents
+-----------------
+
+1. [Getting Started with Python Data Analysis](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_2.html)
+    1. [Getting Started with Python Data Analysis](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_4.html)
+    1. [Credits](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_5.html)
+    1. [About the Authors](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_6.html)
+    1. [About the Reviewers](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_7.html)
+    1. [www.PacktPub.com](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_8.html)
+        1. [Support files, eBooks, discount offers, and more](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_8.html#ch00lvl1sec01)
+            1. [Why subscribe?](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_8.html#ch00lvl2sec01)
+            1. [Free access for Packt account holders](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_8.html#ch00lvl2sec02)
+    1. [Preface](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_9.html)
+        1. [What this book covers](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_9.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_10.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_11.html)
+        1. [Conventions](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_12.html)
+        1. [Reader feedback](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_13.html)
+        1. [Customer support](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_14.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_14.html#ch00lvl2sec03)
+            1. [Errata](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_14.html#ch00lvl2sec04)
+            1. [Piracy](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_14.html#ch00lvl2sec05)
+            1. [Questions](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_14.html#ch00lvl2sec06)
+    1. [1. Introducing Data Analysis and Libraries](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_15.html)
+        1. [Data analysis and processing](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_15.html#ch01lvl1sec08)
+        1. [An overview of the libraries in data analysis](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_16.html)
+        1. [Python libraries in data analysis](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_17.html)
+            1. [NumPy](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_17.html#ch01lvl2sec07)
+            1. [Pandas](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_17.html#ch01lvl2sec08)
+            1. [Matplotlib](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_17.html#ch01lvl2sec09)
+            1. [PyMongo](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_17.html#ch01lvl2sec10)
+            1. [The scikit-learn library](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_17.html#ch01lvl2sec11)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_18.html)
+    1. [2. NumPy Arrays and Vectorized Computation](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_19.html)
+        1. [NumPy arrays](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_19.html#ch02lvl1sec12)
+            1. [Data types](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_19.html#ch02lvl2sec12)
+            1. [Array creation](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_19.html#ch02lvl2sec13)
+            1. [Indexing and slicing](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_19.html#ch02lvl2sec14)
+            1. [Fancy indexing](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_19.html#ch02lvl2sec15)
+            1. [Numerical operations on arrays](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_19.html#ch02lvl2sec16)
+        1. [Array functions](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_20.html)
+        1. [Data processing using arrays](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_21.html)
+            1. [Loading and saving data](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_21.html#ch02lvl2sec17)
+            1. [Saving an array](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_21.html#ch02lvl2sec18)
+            1. [Loading an array](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_21.html#ch02lvl2sec19)
+        1. [Linear algebra with NumPy](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_22.html)
+        1. [NumPy random numbers](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_23.html)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_24.html)
+    1. [3. Data Analysis with Pandas](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_25.html)
+        1. [An overview of the Pandas package](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_25.html#ch03lvl1sec18)
+        1. [The Pandas data structure](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_26.html)
+            1. [Series](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_26.html#ch03lvl2sec20)
+            1. [The DataFrame](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_26.html#ch03lvl2sec21)
+        1. [The essential basic functionality](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_27.html)
+            1. [Reindexing and altering labels](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_27.html#ch03lvl2sec22)
+            1. [Head and tail](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_27.html#ch03lvl2sec23)
+            1. [Binary operations](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_27.html#ch03lvl2sec24)
+            1. [Functional statistics](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_27.html#ch03lvl2sec25)
+            1. [Function application](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_27.html#ch03lvl2sec26)
+            1. [Sorting](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_27.html#ch03lvl2sec27)
+        1. [Indexing and selecting data](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_28.html)
+        1. [Computational tools](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_29.html)
+        1. [Working with missing data](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_30.html)
+        1. [Advanced uses of Pandas for data analysis](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_31.html)
+            1. [Hierarchical indexing](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_31.html#ch03lvl2sec28)
+            1. [The Panel data](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_31.html#ch03lvl2sec29)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_32.html)
+    1. [4. Data Visualization](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_33.html)
+        1. [The matplotlib API primer](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_33.html#ch04lvl1sec26)
+            1. [Line properties](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_33.html#ch04lvl2sec30)
+            1. [Figures and subplots](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_33.html#ch04lvl2sec31)
+        1. [Exploring plot types](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_34.html)
+            1. [Scatter plots](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_34.html#ch04lvl2sec32)
+            1. [Bar plots](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_34.html#ch04lvl2sec33)
+            1. [Contour plots](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_34.html#ch04lvl2sec34)
+            1. [Histogram plots](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_34.html#ch04lvl2sec35)
+        1. [Legends and annotations](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_35.html)
+        1. [Plotting functions with Pandas](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_36.html)
+        1. [Additional Python data visualization tools](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_37.html)
+            1. [Bokeh](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_37.html#ch04lvl2sec36)
+            1. [MayaVi](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_37.html#ch04lvl2sec37)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_38.html)
+    1. [5. Time Series](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_39.html)
+        1. [Time series primer](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_39.html#ch05lvl1sec32)
+        1. [Working with date and time objects](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_40.html)
+        1. [Resampling time series](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_41.html)
+        1. [Downsampling time series data](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_42.html)
+        1. [Upsampling time series data](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_43.html)
+        1. [Time zone handling](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_44.html)
+        1. [Timedeltas](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_45.html)
+        1. [Time series plotting](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_46.html)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_47.html)
+    1. [6. Interacting with Databases](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_48.html)
+        1. [Interacting with data in text format](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_48.html#ch06lvl1sec41)
+            1. [Reading data from text format](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_48.html#ch06lvl2sec38)
+            1. [Writing data to text format](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_48.html#ch06lvl2sec39)
+        1. [Interacting with data in binary format](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_49.html)
+            1. [HDF5](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_49.html#ch06lvl2sec40)
+        1. [Interacting with data in MongoDB](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_50.html)
+        1. [Interacting with data in Redis](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_51.html)
+            1. [The simple value](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_51.html#ch06lvl2sec41)
+            1. [List](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_51.html#ch06lvl2sec42)
+            1. [Set](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_51.html#ch06lvl2sec43)
+            1. [Ordered set](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_51.html#ch06lvl2sec44)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_52.html)
+    1. [7. Data Analysis Application Examples](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_53.html)
+        1. [Data munging](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_53.html#ch07lvl1sec46)
+            1. [Cleaning data](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_53.html#ch07lvl2sec45)
+            1. [Filtering](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_53.html#ch07lvl2sec46)
+            1. [Merging data](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_53.html#ch07lvl2sec47)
+            1. [Reshaping data](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_53.html#ch07lvl2sec48)
+        1. [Data aggregation](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_54.html)
+        1. [Grouping data](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_55.html)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_56.html)
+    1. [8. Machine Learning Models with scikit-learn](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_57.html)
+        1. [An overview of machine learning models](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_57.html#ch08lvl1sec50)
+        1. [The scikit-learn modules for different models](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_58.html)
+        1. [Data representation in scikit-learn](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_59.html)
+        1. [Supervised learning – classification and regression](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_60.html)
+        1. [Unsupervised learning – clustering and dimensionality reduction](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_61.html)
+        1. [Measuring prediction performance](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_62.html)
+        1. [Summary](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_63.html)
+    1. [Index](https://ebookreading.net/view/book/Getting+Started+with+Python+Data+Analysis-EB9781785285110_64.html)
